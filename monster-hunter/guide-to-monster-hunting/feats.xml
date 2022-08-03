@@ -1,0 +1,164 @@
+<?xml version="1.0" encoding="utf-8"?>
+<elements>
+  <info>
+    <name>Feats</name>
+    <update version="0.0.1">
+      <file name="races.xml" url="https://github.com/mkitza/elements-monsterhunter/main/monster-hunter/guide-to-monster-hunting/feats.xml" />
+    </update>
+  </info>
+  <element name="Armored Gunner" type="Feat" source="Amellwind's Guide to Monster Hunting" id="ID_MH_FEAT_ARMORED_GUNNER">
+    <prerequisite>Strength 13 or higher</prerequisite>
+    <requirements>[str:13]</requirements>
+    <description>
+      <ul>
+        <li>As a bonus action, you can attach or detach a shield to your heavy bowgun.</li>
+        <li>While the shield is attached, you gain a +2 bonus to your AC, your movement speed is halved, and being within 5 feet of a hostile creature does not impose disadvantage on your ranged attack rolls.</li>
+        <li>When you attack a creature with your heavy bowgun, and they are within the weapon's normal range, you can choose to use Strength instead of Dexterity for its attack and damage bonuses</li>
+      </ul>
+    </description>
+  </element>
+  <element name="Bomb Specialist" type="Feat" source="Amellwind's Guide to Monster Hunting" id="ID_MH_FEAT_BOMB_SPECIALIST">
+    <description>
+      <ul>
+        <li>Increase your Dexterity score by 1, up to a maximum of 20.</li>
+        <li>You are proficient with improvised thrown weapons.</li>
+        <li>You gain proficiency with tinker's tools. If you are already proficient with the tool, you add double your proficiency bonus to checks you make with them.</li>
+        <li>You can detonate barrel bombs planted by you, as a bonus action, from up to 60 feet away with the snap of your fingers.</li>
+      </ul>
+    </description>
+    <rules>
+			<stat name="dexterity" value="1" />
+		</rules>
+  </element>
+  <element name="Frenzy Fever" type="Feat" source="Amellwind's Guide to Monster Hunting" id="ID_MH_FEAT_FRENZY_FEVER">
+    <description>
+      <p>Research once again goes a step too far with the invention of a medicine that will give you the frenzy virus.</p>
+      <ul>
+        <li>Increase your Constitution by 1, up to a maximum of 20.</li>
+        <li>You are infected with a mutated version of the frenzy virus. You gain all the effects of the frenzy virus sentient race template on page 80 of the Monster Hunter Monster Manual except for the impaired healing effect. You can still heal from nonmagical means.</li>
+        <li>At your DM’s discretion, whenever you hit a creature with your natural weapon attacks (claws or bite mainly), they can have the creature make a Constitution saving throw equal to 8 + your proficiency bonus + your Constitution modifier. On a failed save the creature is infected with the frenzy virus (See page 80 of the Monster Hunter Monster Manual). On a successful save, the target is immune to your mutated version of the frenzy virus, forever.</li>
+      </ul>
+    </description>
+    <rules>
+			<stat name="constitution" value="1" />
+		</rules>
+  </element>
+  <element name="Gunlance Mastery" type="Feat" source="Amellwind's Guide to Monster Hunting" id="ID_MH_FEAT_GUNLANCE_MASTERY">
+    <description>
+      <p>You have unlocked the secrets of the gunlance. While you are attuned to a gunlance, its wyvernfire now recharges on a short or long rest. Additionally, it uses a new type of shell. Choose one of the following shells below that you now use in place of your original shells:</p>
+      <ul>
+        <li>
+          <strong>
+            <em>Long Range Shells.</em>
+          </strong>
+          Your shell's attack range is now 150/600 feet.
+        </li>
+        <li>
+          <strong>
+            <em>Wide Range Shells.</em>
+          </strong>
+          When you hit a creature with your shell attack, you also deal your damage against a different creature that is within 5 feet of the original target and within range of your weapon.
+        </li>
+        <li>
+          <strong>
+            <em>Short Range Shells.</em>
+          </strong>
+          The attack range of your shells is reduced by half, but you can add your Strength or Dexterity modifier to the damage.
+        </li>
+      </ul>
+    </description>
+  </element>
+  <element name="Horn Maestro" type="Feat" source="Amellwind's Guide to Monster Hunting" id="ID_MH_FEAT_HORN_MAESTRO">
+    <description>
+      <p>Thanks to extensive practice with the hunting horn, you gain the following benefits:</p>
+      <ul>
+        <li>Your hunting horn's chord length is increased by 1.</li>
+        <li>You can now complete a hunting horn's melody as a bonus action.</li>
+        <li>Fortissimo! Your hunting horn's single note melody effect is doubled.</li>
+      </ul>
+    </description>
+  </element>
+  <element name="Insect Glaive Mastery" type="Feat" source="Amellwind's Guide to Monster Hunting" id="ID_MH_FEAT_INSECT_GLAIVE_MASTERY">
+    <description>
+      <p>You master fighting with an insect glaive, gaining the following benefits:</p>
+      <ul>
+        <li>Increase your Strength by 1, up to a maximum of 20.</li>
+        <li>When you use the insect glaive standing leap property, you can now use the Attack action as part of the same action, instead of a single weapon attack. Additionally, if you use the standing leap property to jump into the air, the distance you can jump is doubled.</li>
+        <li>When you hit a creature with a melee weapon attack from your insect glaive, while you are in the air, you can move up to 10 feet in any direction. This movement does not count against your normal movement speed or the amount of movement you gain from the standing leap property.</li>
+      </ul>
+    </description>
+    <rules>
+			<stat name="strength" value="1" />
+		</rules>
+  </element>
+  <element name="Improved Hammer Charge" type="Feat" source="Amellwind's Guide to Monster Hunting" id="ID_MH_FEAT_IMPROVED_HAMMER_CHARGE">
+    <description>
+      <ul>
+        <li>When you are wielding a Hammer, you can use its hammer charge property when you move 15 feet instead of 20.</li>
+        <li>If you jump when performing a hammer charge, you perform a spinning hammer charge that allows you to pass through a hostile creatures space without provoking opportunity attacks.</li>
+        <li>You can add the extra damage from the hammer charge to 1 additional attack on this turn for every 5 feet you jump during the charge, so long as the attacks target a creature you passed through during the spinning hammer charge.</li>
+      </ul>
+    </description>
+  </element>
+  <element name="Kinsect Mastery" type="Feat" source="Amellwind's Guide to Monster Hunting" id="ID_MH_FEAT_KINSECT_MASTERY">
+    <description>
+      <p>You can use an action to have your kinsect act as if it was summoned by the find familiar spell, with the following differences:</p>
+      <ul>
+        <li>It can only be used in this way for a total of 1 hour each day.</li>
+        <li>It cannot be dismissed, instead you can use an action to call it back to you.</li>
+        <li>It uses the stat block of a hawk (MM p.330).</li>
+        <li>When its hit points reaches 0 it reappears on your insect glaive at full hit points and will resume what it was last doing unless told otherwise.</li>
+        <li>It can use its action to absorb a creature's essence in the standard order, but it can return this essence to you or one other creature you designate as an action.</li>
+        <li>While being used in this way, you cannot use it to attack as part of your Attack action.</li>
+      </ul>
+    </description>
+  </element>
+  <element name="Master Craftsman" type="Feat" source="Amellwind's Guide to Monster Hunting" id="ID_MH_FEAT_MASTER_CRAFTSMAN">
+    <description>
+      <p></p>
+      <ul>
+        <li>Increase your Intelligence or Wisdom score by 1, up to a maximum of 20.</li>
+        <li>You gain proficiency with one tool of your choice that is listed in the combo list section of chapter 3.</li>
+        <li>Whenever you attempt to craft anything from the combo list, the DC to craft it is reduced by the number of times this feat has been taken by you.</li>
+        <li>You can select this feat multiple times. Each time you do so, you must choose a different tool.</li>
+      </ul>
+    </description>
+    <rules>
+			<select type="Ability Score Improvement" name="Ability Score Increase (Master Craftsman)" supports="ID_PHB_FEAT_ASI_INTELLIGENCE|ID_PHB_FEAT_ASI_WISDOM" />
+		</rules>
+  </element>
+  <element name="Master Mounter" type="Feat" source="Amellwind's Guide to Monster Hunting" id="ID_MH_FEAT_MASTER_MOUNTER">
+    <prerequisite>8th level or higher</prerequisite>
+    <requirements>[level:8]</requirements>
+    <description>
+      <p></p>
+      <ul>
+        <li>You have advantage on Strength (Athletics) or Dexterity (Acrobatics) checks to climb onto a bigger creature (DMG p.271) or remain on a creature you are already on.</li>
+        <li>While you remain on a bigger creature, you can use your action to make an unarmed strike against the creature. On a hit, the creature must use its reaction to move up to half its movement speed in a direction of your choice. If it hits a solid object - that is as big or larger than it - before the end of its movement, the creature is knocked prone. If the creature would enter into any environmental hazard dangerous to the creature (such as falling off a cliff when it can't fly, or into lava when it isn't immune to fire), it instead falls prone in the space adjacent to the hazard.</li>
+      </ul>
+    </description>
+  </element>
+  <element name="Switchaxe Mastery" type="Feat" source="Amellwind's Guide to Monster Hunting" id="ID_MH_FEAT_SWITCHAXE_MASTERY">
+    <description>
+      <p>You master fighting with the switchaxe, gaining the following benefits:</p>
+      <ul>
+        <li>Increase your Strength by 1, up to a maximum of 20.</li>
+        <li>When you use a phial and critically hit with this weapon, you regain a number of expended phials equal to half the cost of the one you used (rounded up).</li>
+        <li>Your phials save DC is increased by 1.</li>
+        <li>You can use a free action on your turn to switch weapon modes. This replaces your free action to draw or stow a weapon.</li>
+      </ul>
+    </description>
+    <rules>
+			<stat name="strength" value="1" />
+		</rules>
+  </element>
+  <!-- <element name="Additional Wildshapes" type="Feat" source="Amellwind's Guide to Monster Hunting" id="ID_MH_FEAT_ADDITIONAL_WILDSHAPES">
+    <prerequisite>Druid</prerequisite>
+    <requirements>ID_WOTC_PHB_CLASS_DRUID</requirements>
+    <description>
+      <p>Choose a creature type: Bird Wyverns, Brute Wyverns,Fanged Wyverns, Flying Wyverns, Leviathans, Neopterons, Temnoceran, Piscine Wyverns.</p>
+      <p>You can use your Wild Shape to transform into a creature from the type you chose (you ignore the fact that the creature isn't a beast, but must abide by the other wildshape limitations for your level). Additionally when you wildshape into one of these creatures, you cannot use their legendary resistances (if it has any), any recharge ability can only be used once per wildshape, and you cannot use any action or ability that can only be used a limited number of times a day/rest.</p>
+      <p>You can select this feat multiple times. Each time you do so, you must choose a different creature type.</p>
+    </description>
+  </element> -->
+</elements>
