@@ -222,7 +222,7 @@
   </element>
   <element name="MH Charge Blade" type="Weapon Property" source="Amellwind's Guide to Monster Hunting" id="ID_WEAPON_PROPERTY_MH_CHARGE_BLADE">
     <description>
-      <p>BLA BLA BLA</p>
+      <p>Sword mode boasts mobility and high guard capabilities, while axe mode boasts more powerful attacks. Store up energy while in sword mode, and then use it to deal high damage in axe mode.</p>
     </description>
   </element>
   <element name="MH Dual Blades" type="Weapon Property" source="Amellwind's Guide to Monster Hunting" id="ID_WEAPON_PROPERTY_MH_DUAL_BLADES">
@@ -456,7 +456,7 @@
 	<element name="MH Charge Blade, Axe" type="Weapon" source="Amellwind's Guide to Monster Hunting" id="ID_MH_WEAPON_CHARGE_BLADE_0">
 		<supports>ID_WEAPON_PROPERTY_MH_CHARGE_BLADE, ID_INTERNAL_WEAPON_PROPERTY_HEAVY, ID_INTERNAL_WEAPON_PROPERTY_TWOHANDED, ID_WEAPON_PROPERTY_MH_SWITCH_MODE</supports>
 		<description>
-			<p>Sword mode boasts mobility and high guard capabilities, while axe mode boasts more powerful attacks. Store up energy while in sword mode, and then use it to deal high damage in axe mode.</p>
+			<div element="ID_WEAPON_PROPERTY_MH_CHARGE_BLADE" />
 		</description>
 		<setters>
 			<set name="category">Weapons</set>
@@ -484,7 +484,7 @@
 	</element>
 	<element name="Uncommon MH Charge Blade" type="Magic Item" source="Amellwind's Guide to Monster Hunting" id="ID_MH_WEAPON_CHARGE_BLADE_1">
 		<description>
-			<p>Sword mode boasts mobility and high guard capabilities, while axe mode boasts more powerful attacks. Store up energy while in sword mode, and then use it to deal high damage in axe mode.</p>
+			<div element="ID_WEAPON_PROPERTY_MH_CHARGE_BLADE" />
 			<p>You gain a +1 bonus on attacks and damage rolls.</p>
 			<p class="indent"><strong><em>Switch Mode.</em></strong> As a bonus action, you can switch the weapon between its axe or sword and shield mode.</p>
 			<p class="indent"><strong><em>Phial Charge.</em></strong> When you hit a creature with this weapon's sword and shield mode, it gains 1 phial charge up to a maximum of 5. The charges last until your next short or long rest.</p>
@@ -504,7 +504,7 @@
 	</element>
 	<element name="Rare MH Charge Blade" type="Magic Item" source="Amellwind's Guide to Monster Hunting" id="ID_MH_WEAPON_CHARGE_BLADE_2">
 		<description>
-			<p>Sword mode boasts mobility and high guard capabilities, while axe mode boasts more powerful attacks. Store up energy while in sword mode, and then use it to deal high damage in axe mode.</p>
+			<div element="ID_WEAPON_PROPERTY_MH_CHARGE_BLADE" />
 			<p>You gain a +1 bonus on attacks and damage rolls; and +1 AC while shield is equipped</p>
 			<p class="indent"><strong><em>Switch Mode.</em></strong> As a bonus action, you can switch the weapon between its axe or sword and shield mode.</p>
 			<p class="indent"><strong><em>Phial Charge.</em></strong> When you hit a creature with this weapon's sword and shield mode, it gains 1 phial charge up to a maximum of 5. The charges last until your next short or long rest.</p>
@@ -527,7 +527,7 @@
 	</element>
 	<element name="Very Rare MH Charge Blade" type="Magic Item" source="Amellwind's Guide to Monster Hunting" id="ID_MH_WEAPON_CHARGE_BLADE_3">
 		<description>
-			<p>Sword mode boasts mobility and high guard capabilities, while axe mode boasts more powerful attacks. Store up energy while in sword mode, and then use it to deal high damage in axe mode.</p>
+			<div element="ID_WEAPON_PROPERTY_MH_CHARGE_BLADE" />
 			<p>You gain a +2 bonus on attacks and damage rolls; and +2 AC while shield is equipped</p>
 			<p class="indent"><strong><em>Switch Mode.</em></strong> As a bonus action, you can switch the weapon between its axe or sword and shield mode.</p>
 			<p class="indent"><strong><em>Phial Charge.</em></strong> When you hit a creature with this weapon's sword and shield mode, it gains 1 phial charge up to a maximum of 5. The charges last until your next short or long rest.</p>
@@ -550,7 +550,7 @@
 	</element>
 	<element name="Legendary MH Charge Blade" type="Magic Item" source="Amellwind's Guide to Monster Hunting" id="ID_MH_WEAPON_CHARGE_BLADE_4">
 		<description>
-			<p>Sword mode boasts mobility and high guard capabilities, while axe mode boasts more powerful attacks. Store up energy while in sword mode, and then use it to deal high damage in axe mode.</p>
+			<div element="ID_WEAPON_PROPERTY_MH_CHARGE_BLADE" />
 			<p>You gain a +3 bonus on attacks and damage rolls; and +2 AC while shield is equipped</p>
 			<p class="indent"><strong><em>Switch Mode.</em></strong> As a bonus action, you can switch the weapon between its axe or sword and shield mode.</p>
 			<p class="indent"><strong><em>Phial Charge.</em></strong> When you hit a creature with this weapon's sword and shield mode, it gains 1 phial charge up to a maximum of 5. The charges last until your next short or long rest.</p>
