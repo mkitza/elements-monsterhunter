@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<elements>
+	<info>
+		<name>Races</name>
+		<update version="0.0.1">
+			<file name="races.xml" url="https://github.com/mkitza/elements-monsterhunter/main/monster-hunter/guide-to-monster-hunting/races.xml" />
+		</update>
+	</info>
+
+    <element name="Wyverian" type="Language" source="Amellwind's Guide to Monster Hunting" id="ID_LANGUAGE_WYVERIAN">
+		<supports>Exotic</supports>
+		<description>
+			<p>Typically spoken by Wyverian's.</p>
+		</description>
+		<setters>
+			<set name="exotic">true</set>
+			<set name="speakers">Wyverian</set>
+			<set name="script">Wyverian Runes</set>
+		</setters>
+	</element>
+	<element name="Wyverian" type="Race" source="Amellwind's Guide to Monster Hunting" id="ID_RACE_WYVERIAN">
+		<description>
+			<p class="flavor">Wyverians superficially resemble humans, but they have several traits that suggest a wyvern ancestry. They have pointed ears, four-fingered hands, and an increased lifespan. Many, though not all , Wyverians also possess digitigrade legs.</p>
+			<h2>A Wyverian's Thinking</h2>
+            <p>Wyverians think differently than most races, perhaps in part due to their increased lifespan, and are often considered more intelligent and rational. Some Wyverians have an extensive education, more than most races can learn in a feasible timespan, and are versed in multiple subjects. They are also more attuned to nature, which they greatly respect. They are peaceful and prefer to avoid conflict if possible, but still, recognize the value of Hunters. In fact, they were the first Hunters, but eventually gave way to the Hunter's Guild and transitioned into a supporting role. There are very few Wyverian Hunters today and are considered rarities. Wyverian humor is strange by human standards.</p>
+        </description>
+		<sheet display="false" />
+		<setters>
+			<set name="names" type="male">Adran, Aelar</set>
+			<set name="names" type="female">Adrie, Althaea, Anastrianna</set>
+			<set name="names-format">{{name}}</set>
+			<set name="height" modifier="2d10">4'</set>
+			<set name="weight" modifier="1d4">80 lb.</set>
+		</setters>
+		<rules>
+			<stat name="intelligence" value="2" requirements="!ID_UA_PSK_GRANTS_Wyverian_SUBRACE,!ID_WOTC_TCOE_OPTION_CUSTOMIZED_ASI" />
+			<select type="Ability Score Improvement" name="Custom Ability Score Improvement +2 (Wyverian)" supports="Custom Ability Score Increase 2" requirements="!ID_UA_PSK_GRANTS_Wyverian_SUBRACE,ID_WOTC_TCOE_OPTION_CUSTOMIZED_ASI" />
+			<stat name="innate speed" value="30" bonus="base" />
+			<grant type="Size" id="ID_SIZE_MEDIUM" />
+			<grant type="Language" id="ID_LANGUAGE_COMMON" requirements="!ID_WOTC_TCOE_OPTION_CUSTOMIZED_LANGUAGE" />
+            <grant type="Language" id="ID_LANGUAGE_DRACONIC" requirements="!ID_WOTC_TCOE_OPTION_CUSTOMIZED_LANGUAGE" />
+            <grant type="Language" id="ID_LANGUAGE_WYVERIAN" requirements="!ID_WOTC_TCOE_OPTION_CUSTOMIZED_LANGUAGE" />
+			<grant type="Racial Trait" id="ID_RACIAL_TRAIT_WYVERIAN_SUBRACE" />
+		</rules>
+	</element>
+	<element name="Wyverian Subrace" type="Racial Trait" source="Amellwind's Guide to Monster Hunting" id="ID_RACIAL_TRAIT_WYVERIAN_SUBRACE">
+		<description>
+			<p>There are two kinds of wyverian: modern and ancient. These two are more akin to ancestors and descendants to each other more than true subraces. Choose one of these subraces.</p>
+		</description>
+		<sheet display="false" />
+		<rules>
+			<select type="Sub Race" name="Wyverian Subrace" supports="Wyverian" />
+		</rules>
+	</element>
+
+	<element name="Modern Wyverian" type="Sub Race" source="Amellwind's Guide to Monster Hunting" id="ID_SUB_RACE_HIGH_Wyverian">
+		<supports>Wyverian</supports>
+		<description>
+			<p>Modern wyverians peacefully coexist with humans and often live among them, especially older modern wyverians, past their prime. Younger Wyverians are known to travel far and wide, often accompanying humans. Modern wyverians are usually between 20 and 200 years old.</p>
+		</description>
+		<sheet display="false" />
+		<setters>
+			<set name="height" modifier="2d10">4'6"</set>
+			<set name="weight" modifier="1d4">90 lb.</set>
+		</setters>
+		<rules>
+			<stat name="dexterity" value="1" requirements="!ID_WOTC_TCOE_OPTION_CUSTOMIZED_ASI" />
+            <stat name="strength" value="1" requirements="!ID_WOTC_TCOE_OPTION_CUSTOMIZED_ASI" />
+			<select type="Ability Score Improvement" name="Custom Ability Score Improvement +1 (High Wyverian)" supports="Custom Ability Score Increase 1" requirements="ID_WOTC_TCOE_OPTION_CUSTOMIZED_ASI" />
+		</rules>
+	</element> 	
+
+	<element name="Ancient Wyverian" type="Sub Race" source="Amellwind's Guide to Monster Hunting" id="ID_SUB_RACE_WOOD_Wyverian">
+		<supports>Wyverian</supports>
+		<description>
+			<p>Ancient wyverian are the wyverian who survived the Great Dragon War and may even remember the time of the ancient civilization. They are small in stature, sometimes a bit stubborn, but always seek to help those lost in the world. Ancient wyverians are usually between 600 and 1000 years old.</p>
+		</description>
+		<sheet display="false" />
+		<setters>
+			<set name="height" modifier="2d10">4'6"</set>
+			<set name="weight" modifier="1d4">100 lb.</set>
+		</setters>
+        <rules>
+			<stat name="constitution" value="1" requirements="!ID_WOTC_TCOE_OPTION_CUSTOMIZED_ASI" />
+			<select type="Ability Score Improvement" name="Custom Ability Score Improvement +1 (High Wyverian)" supports="Custom Ability Score Increase 1" requirements="ID_WOTC_TCOE_OPTION_CUSTOMIZED_ASI" />
+		</rules>
+	</element>
+</elements>

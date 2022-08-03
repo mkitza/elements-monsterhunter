@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<elements>
+	<info>
+		<update version="0.0.1">
+			<file name="sources.xml" url="https://github.com/mkitza/elements-monsterhunter/main/monster-hunter/guide-to-monster-hunting/source.xml" />
+		</update>
+	</info>
+	<element name="Amellwind's Guide to Monster Hunting" type="Source" source="Core" id="ID_SOURCE_GUIDE_TO_MONSTER_HUNTING">
+		<description>
+			<p>In Monster Hunter, the player takes the role of a Hunter. Slaying or trapping large monsters across various landscapes as part of quests given to them by the locals. As part of its core gameplay, players use loot gained from slaying monsters, gathering resources, and quest rewards to craft improved weapons, armor, and other items that allows them to face more powerful monsters. This gameplay holds the same in this version of fifth edition of D and D. Throughout this book you will find the lore, gods rules, equipment, and information about the Old World to help you create your own campaign or adventure in the Monster Hunter Universe.</p>
+		</description>
+		<setters>
+			<set name="abbreviation">AGTMH</set>
+			<set name="url">https://drive.google.com/file/d/1Z70yXVHKsbLSXMeCMK9bFoOsRiD8Bynf/view</set>
+			<set name="image">https://i.redd.it/5gna2jntbt591.png</set>
+			<set name="author" url="https://www.patreon.com/amellwind">Amellwind</set>
+			<set name="official">false</set>
+			<set name="core">false</set>
+			<set name="release">20220101</set>
+		</setters>
+	</element>
+</elements>
