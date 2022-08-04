@@ -1,0 +1,543 @@
+<?xml version="1.0" encoding="utf-8"?>
+<elements>
+	<info>
+		<name>Monster Hunter Items</name>
+		<description>Additional items that are found within the Monster Hunter Universe.</description>
+		<update version="0.0.1">
+			<file name="items-gear.xml" url="https://github.com/mkitza/elements-monsterhunter/main/monster-hunter/guide-to-monster-hunting/items-gear.xml" />
+		</update>
+	</info>
+
+    <element name="Antidote" type="Monster Hunter Item" source="Monster Hunter" id="ID_MH_ITEM_ANTIDOTE">
+		<description>
+			<p>A poisoned creature that drinks this vial of liquid, neutralizes the poison afflicting it. If more than one poison afflicts the creature, it neutralizes one at random.</p>
+		</description>
+		<setters>
+			<set name="category">Adventuring Gear</set>
+			<set name="cost" currency="gp">75</set>
+			<set name="weight" lb="0">0 lb.</set>
+			<set name="stackable">true</set>
+		</setters>
+	</element>
+    <element name="Antidote Horn" type="Monster Hunter Item" source="Monster Hunter" id="ID_MH_ITEM_ANTIDOTE_HORN">
+		<description>
+			<p>(Replaces one of the hunter’s trinkets) This horn has 3 charges. While holding it, you can use an action to expend a charge to give one creature that is within 60 feet of you advantage on saving throws against poisons for 1 hour. It confers no benefit to undead or constructs. The horn regains 1d4-1 expended charges daily at dawn. If you expend the last charge, roll a d20. On a 1, the horn is destroyed.</p>
+		</description>
+		<setters>
+			<set name="category">Adventuring Gear</set>
+			<set name="cost" currency="gp">300</set>
+			<set name="weight" lb="2">2 lb.</set>
+			<set name="stackable">true</set>
+		</setters>
+	</element>
+    <element name="Antiseptic Stone" type="Monster Hunter Item" source="Monster Hunter" id="ID_MH_ITEM_ANTISEPTIC_STONE">
+		<description>
+			<p>An unnatural crystal with enhanced antiseptic qualities. As an action you can crush the stone, to gain advantage on saving throws against diseases for 1 hour.</p>
+		</description>
+		<setters>
+			<set name="category">Adventuring Gear</set>
+			<set name="cost" currency="gp">50</set>
+			<set name="weight" lb="1">1 lb.</set>
+			<set name="stackable">true</set>
+		</setters>
+	</element>
+	<element name="Armor Horn" type="Monster Hunter Item" source="Monster Hunter" id="ID_MH_ITEM_ARMOR_HORN">
+		<description>
+			<p>(Replaces one of the hunter’s trinkets) This horn has 3 charges. While holding it, you can use an action to expend a charge to cast the shield of faith spell from it, but you must maintain concentration on the spell. The horn regains 1d4-1 expended charges daily at dawn. If you expend the last charge, roll a d20. On a 1, the horn is destroyed.</p>
+		</description>
+		<setters>
+			<set name="category">Adventuring Gear</set>
+			<set name="cost" currency="gp">1200</set>
+			<set name="weight" lb="2">2 lb.</set>
+			<set name="stackable">true</set>
+		</setters>
+	</element>
+	<element name="BBQ Spit" type="Monster Hunter Item" source="Monster Hunter" id="ID_MH_ITEM_BBQ_SPIT">
+		<description>
+			<p>Just what y ou need to cook meat. A must-have item for any hungry hunter.</p>
+		</description>
+		<setters>
+			<set name="category">Adventuring Gear</set>
+			<set name="cost" currency="gp">1</set>
+			<set name="weight" lb="4">4 lb.</set>
+			<set name="stackable">true</set>
+		</setters>
+	</element>
+	<element name="Bomb Casing" type="Monster Hunter Item" source="Monster Hunter" id="ID_MH_ITEM_BOMB_CASING">
+		<description>
+			<p>A base material for making hand-thrown bombs.</p>
+		</description>
+		<setters>
+			<set name="category">Adventuring Gear</set>
+			<set name="cost" currency="gp">10</set>
+			<set name="weight" lb="0">0 lb.</set>
+			<set name="stackable">true</set>
+		</setters>
+	</element>
+	<element name="Bounce Bomb" type="Monster Hunter Item" source="Monster Hunter" id="ID_MH_ITEM_BOUNCE_BOMB">
+		<description>
+			<p>Setting fire to a bounce bomb causes it to launch 100 feet into the air and explode. It explodes early if it impacts a creature or object before reaching its maximum height, dealing 3d6 fire damage to creatures within 10 feet of it. A successful DC 12 Dexterity saving throw halves the damage.</p>
+		</description>
+		<setters>
+			<set name="category">Adventuring Gear</set>
+			<set name="cost" currency="gp">50</set>
+			<set name="weight" lb="5">5 lb.</set>
+			<set name="stackable">true</set>
+		</setters>
+	</element>
+	<element name="Bug Net" type="Monster Hunter Item" source="Monster Hunter" id="ID_MH_ITEM_BUG_NET">
+		<description>
+			<p>A durable net for catching bugs.</p>
+		</description>
+		<setters>
+			<set name="category">Adventuring Gear</set>
+			<set name="cost" currency="gp">2</set>
+			<set name="weight" lb="1">1 lb.</set>
+			<set name="stackable">true</set>
+		</setters>
+	</element>
+	<element name="Carving Knife" type="Monster Hunter Item" source="Monster Hunter" id="ID_MH_ITEM_CARVING_KNIFE">
+		<description>
+			<p>Allows the wielder to add their proficiency bonus to carve checks, if they are not already proficient with the survival skill.</p>
+		</description>
+		<setters>
+			<set name="category">Adventuring Gear</set>
+			<set name="cost" currency="gp">50</set>
+			<set name="weight" lb="1">1 lb.</set>
+			<set name="stackable">true</set>
+		</setters>
+	</element>
+	<element name="Catalyst" type="Monster Hunter Item" source="Monster Hunter" id="ID_MH_ITEM_CATALYST">
+		<description>
+			<p>Works with other materials to enhance their effects. Cannot be used by itself.</p>
+		</description>
+		<setters>
+			<set name="category">Adventuring Gear</set>
+			<set name="cost" currency="gp">50</set>
+			<set name="weight" lb="1">1 lb.</set>
+			<set name="stackable">true</set>
+		</setters>
+	</element>
+	<element name="Cleanser" type="Monster Hunter Item" source="Monster Hunter" id="ID_MH_ITEM_CLEANSER">
+		<description>
+			<p>As an action you can apply this clear, scentless liquid to your armor or clothing. Removing any ice, mud, or webbing on you.</p>
+		</description>
+		<setters>
+			<set name="category">Adventuring Gear</set>
+			<set name="cost" currency="gp">300</set>
+			<set name="weight" lb="1/2">1/2 lb.</set>
+			<set name="stackable">true</set>
+		</setters>
+	</element>
+	<element name="Cool Drink" type="Monster Hunter Item" source="Monster Hunter" id="ID_MH_ITEM_COOL_DRINK">
+		<description>
+			<p>AThis white, translucent, pearly syrup, smells of spearmint and alcohol. When you drink it, you suffer no harm from temperatures as warm as 120 degrees Fahrenheit (49 degrees celsius) for the next 24 hours.</p>
+		</description>
+		<setters>
+			<set name="category">Adventuring Gear</set>
+			<set name="cost" currency="gp">90</set>
+			<set name="weight" lb="1/2">1/2 lb.</set>
+			<set name="stackable">true</set>
+		</setters>
+	</element>
+	<element name="Deodorant" type="Monster Hunter Item" source="Monster Hunter" id="ID_MH_ITEM_DEODORANT">
+		<description>
+			<p>As an action, you can activate this item, releasing a puff of deodorizing smoke that removes all natural and unnatural odors from your body. Additionally, for 1 hour, creatures have disadvantage on Wisdom (Perception) checks against you that rely on smell.</p>
+		</description>
+		<setters>
+			<set name="category">Adventuring Gear</set>
+			<set name="cost" currency="gp">200</set>
+			<set name="weight" lb="1/2">1/2 lb.</set>
+			<set name="stackable">true</set>
+		</setters>
+	</element>
+	<element name="Disposable Earplugs" type="Monster Hunter Item" source="Monster Hunter" id="ID_MH_ITEM_DISPOSABLE_EARPLUGS">
+		<description>
+			<p>Basic foam style earplug protection. You are deafened and have advantage on saving throws against thunder damage while these earplugs are in use. Once removed, the earplugs dissolve.</p>
+		</description>
+		<setters>
+			<set name="category">Adventuring Gear</set>
+			<set name="cost" currency="gp">10</set>
+			<set name="weight" lb="0">0 lb.</set>
+			<set name="stackable">true</set>
+		</setters>
+	</element>
+	<element name="Dung Bomb" type="Monster Hunter Item" source="Monster Hunter" id="ID_MH_ITEM_DUNG_BOMB">
+		<description>
+			<p>As an action, you can throw this bomb up to 40 feet, releasing a horrid stench on impact. Make a ranged attack against a creature or object, treating the dung bomb as an improvised weapon. On a hit, the creature has disadvantage on Wisdom (Perception) checks that rely on sight smell for 1 hour and disadvantage on Constitution saving throws to maintain concentration for 1 minute. If the target is a creature with an Intelligence score of 8 or lower, it must succeed on a DC 15 Constitution saving throw or immediately use its reaction to move up to its speed away from you.</p>
+		</description>
+		<setters>
+			<set name="category">Adventuring Gear</set>
+			<set name="cost" currency="gp">100</set>
+			<set name="weight" lb="1/2">1/2 lb.</set>
+			<set name="stackable">true</set>
+		</setters>
+	</element>
+	<element name="Field Horn" type="Monster Hunter Item" source="Monster Hunter" id="ID_MH_ITEM_FIELD_HORN">
+		<description>
+			<p>(Replaces one of the hunter’s trinkets) When you play this horn, each hostile creature within 60 feet of you must make a DC 14 Wisdom saving throw. On a failed save, the creature will do everything it can on its turn to move towards and attack you. Once you use this horn, roll a d20. On a 5 or less, the horn is destroyed.</p>
+		</description>
+		<setters>
+			<set name="category">Adventuring Gear</set>
+			<set name="cost" currency="gp">400</set>
+			<set name="weight" lb="2">2 lb.</set>
+			<set name="stackable">true</set>
+		</setters>
+	</element>
+	<element name="Fishing Lure (Arrowana)" type="Monster Hunter Item" source="Monster Hunter" id="ID_MH_ITEM_FISCHING_LURE_ARROWANNA">
+		<description>
+			<p>When you succeed on a fishing skill check while using this lure, roll a 1d4. On a 1-2, you catch a burst arrowana; on a 3-4, you catch a bomb arrowana. If you roll a 1 on your fishing skill check, the line snaps and the lure is lost.</p>
+		</description>
+		<setters>
+			<set name="category">Adventuring Gear</set>
+			<set name="cost" currency="gp">1</set>
+			<set name="weight" lb="1/4">1/4 lb.</set>
+			<set name="stackable">true</set>
+		</setters>
+	</element>
+	<element name="Fishing Lure (Popfish)" type="Monster Hunter Item" source="Monster Hunter" id="ID_MH_ITEM_FISCHING_LURE_POPFISH">
+		<description>
+			<p>When you succeed on a fishing skill check while using this lure, you catch a popfish instead of rolling on the fish resource table. If you roll a 1 on your fishing skill check, the line snaps and the lure is lost.</p>
+		</description>
+		<setters>
+			<set name="category">Adventuring Gear</set>
+			<set name="cost" currency="gp">1</set>
+			<set name="weight" lb="1/4">1/4 lb.</set>
+			<set name="stackable">true</set>
+		</setters>
+	</element>
+	<element name="Fishing Lure (Sushifish)" type="Monster Hunter Item" source="Monster Hunter" id="ID_MH_ITEM_FISCHING_LURE_SUSHIFISH">
+		<description>
+			<p>When you succeed on a fishing skill check while using this lure, you catch a sushifish instead of rolling on the fish resource table. If you roll a 1 on your fishing skill check, the line snaps and the lure is lost.</p>
+		</description>
+		<setters>
+			<set name="category">Adventuring Gear</set>
+			<set name="cost" currency="gp">1</set>
+			<set name="weight" lb="1/4">1/4 lb.</set>
+			<set name="stackable">true</set>
+		</setters>
+	</element>
+	<element name="Fishing Lure (Pin Tuna)" type="Monster Hunter Item" source="Monster Hunter" id="ID_MH_ITEM_FISCHING_LURE_TUNA">
+		<description>
+			<p>When you succeed on a fishing skill check while using this lure, you catch a pin tuna instead of rolling on the fish resource table. If you roll a 1 on your fishing skill check, the line snaps and the lure is lost.</p>
+		</description>
+		<setters>
+			<set name="category">Adventuring Gear</set>
+			<set name="cost" currency="gp">1</set>
+			<set name="weight" lb="1/4">1/4 lb.</set>
+			<set name="stackable">true</set>
+		</setters>
+	</element>
+	<element name="Fishing Lure (Whetfish)" type="Monster Hunter Item" source="Monster Hunter" id="ID_MH_ITEM_FISCHING_LURE_WHETFISH">
+		<description>
+			<p>When you succeed on a fishing skill check while using this lure, you catch a whetfish instead of rolling on the fish resource table. If you roll a 1 on your fishing skill check, the line snaps and the lure is lost.</p>
+		</description>
+		<setters>
+			<set name="category">Adventuring Gear</set>
+			<set name="cost" currency="gp">1</set>
+			<set name="weight" lb="1/4">1/4 lb.</set>
+			<set name="stackable">true</set>
+		</setters>
+	</element>
+	<element name="Flash Bomb" type="Monster Hunter Item" source="Monster Hunter" id="ID_MH_ITEM_FLASH_BOMB">
+		<description>
+			<p>As an action, you can throw this bomb up to 40 feet, creating a blinding flash of light on impact. Make a ranged attack against a creature or object, treating the flash bomb as an improvised weapon. On a hit, the creature is blinded for 1 minute. A creature can end this effect early by succeeding on a DC 13 Constitution saving throw at the end of their turn.</p>
+		</description>
+		<setters>
+			<set name="category">Adventuring Gear</set>
+			<set name="cost" currency="gp">100</set>
+			<set name="weight" lb="1/2">1/2 lb.</set>
+			<set name="stackable">true</set>
+		</setters>
+	</element>
+	<element name="Frozen Berry" type="Monster Hunter Item" source="Monster Hunter" id="ID_MH_ITEM_FROZEN_BERRY">
+		<description>
+			<p>When you eat this berry, you gain resistance to fire damage for 1 hour.</p>
+		</description>
+		<setters>
+			<set name="category">Adventuring Gear</set>
+			<set name="cost" currency="gp">-</set>
+			<set name="weight" lb="0">0 lb.</set>
+			<set name="stackable">true</set>
+		</setters>
+	</element>
+	<element name="Gunpowder" type="Monster Hunter Item" source="Monster Hunter" id="ID_MH_ITEM_GUNPOWDER">
+		<description>
+			<p>A dangerous substance that explodes when struck or heated. Setting fire to an ounce of gunpowder causes it to flare for 1 round, shedding bright light in a 30-foot radius and dim light for an additional 30 feet.</p>
+		</description>
+		<setters>
+			<set name="category">Adventuring Gear</set>
+			<set name="cost" currency="gp">3</set>
+			<set name="weight" lb="0.625">0.625 lb.</set>
+			<set name="stackable">true</set>
+		</setters>
+	</element>
+	<element name="Health Horn" type="Monster Hunter Item" source="Monster Hunter" id="ID_MH_ITEM_HEALTH_HORN">
+		<description>
+			<p>(Replaces one of the hunter’s trinkets) You can play a soothing tune with this horn when you take a short rest. If you or any friendly creatures who can hear your performance regain hit points at the end of the short rest by spending one or more Hit Dice, each of those creatures regains an extra 1d4 hit points.</p>
+		</description>
+		<setters>
+			<set name="category">Adventuring Gear</set>
+			<set name="cost" currency="gp">500</set>
+			<set name="weight" lb="2">2 lb.</set>
+			<set name="stackable">true</set>
+		</setters>
+	</element>
+	<element name="Hot Drink" type="Monster Hunter Item" source="Monster Hunter" id="ID_MH_ITEM_HOT_DRINK">
+		<description>
+			<p>Kept in a standard glass vial, with a closed lid on top. The liquid inside is sparkling and orange, smelling and tasting of burning red peppers. When you drink it, you can tolerate temperatures as low as −50 degrees Fahrenheit (-45 degrees celsius) without any additional protection for 24 hours. If you wear heavy clothes, you can tolerate temperatures as low as −100 degrees Fahrenheit (-73 degrees celsius).</p>
+		</description>
+		<setters>
+			<set name="category">Adventuring Gear</set>
+			<set name="cost" currency="gp">90</set>
+			<set name="weight" lb="1/2">1/2 lb.</set>
+			<set name="stackable">true</set>
+		</setters>
+	</element>
+	<element name="Immunizer" type="Monster Hunter Item" source="Monster Hunter" id="ID_MH_ITEM_IMMUNIZER">
+		<description>
+			<p>A creature that drinks this vial of opaque liquid, gains advantage on saving throws against diseases for 1 hour. It confers no benefit to undead or constructs.</p>
+		</description>
+		<setters>
+			<set name="category">Adventuring Gear</set>
+			<set name="cost" currency="gp">180</set>
+			<set name="weight" lb="1/2">1/2 lb.</set>
+			<set name="stackable">true</set>
+		</setters>
+	</element>
+	<element name="Lg Barrel-bomb" type="Monster Hunter Item" source="Monster Hunter" id="ID_MH_ITEM_LG_BARREL_BOMB">
+		<description>
+			<p> Setting fire to a lg barrel-bomb causes it to explode, dealing 7d6 fire damage to creatures within 10 feet of it. A successful DC 15 Dexterity saving throw halves the damage.</p>
+		</description>
+		<setters>
+			<set name="category">Adventuring Gear</set>
+			<set name="cost" currency="gp">250</set>
+			<set name="weight" lb="20">20 lb.</set>
+			<set name="stackable">true</set>
+		</setters>
+	</element>
+	<element name="Meat (Chilled)" type="Monster Hunter Item" source="Monster Hunter" id="ID_MH_ITEM_MEAT_CHILLED">
+		<description>
+			<p> When you eat this meat, you suffer no harm from temperatures as warm as 120 degrees Fahrenheit (49 degrees celsius) for the next 24 hours.</p>
+		</description>
+		<setters>
+			<set name="category">Adventuring Gear</set>
+			<set name="cost" currency="gp">0</set>
+			<set name="weight" lb="1">1 lb.</set>
+			<set name="stackable">true</set>
+		</setters>
+	</element>
+	<element name="Meat (Drugged)" type="Monster Hunter Item" source="Monster Hunter" id="ID_MH_ITEM_MEAT_DRUGGED">
+		<description>
+			<p> A creature that eats this meat must succeed on a DC 15 Constitution saving throw or fall unconscious for 5 minutes. The creature wakes up if it takes damage or if another creature takes an action to shake it awake.</p>
+		</description>
+		<setters>
+			<set name="category">Adventuring Gear</set>
+			<set name="cost" currency="gp">0</set>
+			<set name="weight" lb="1">1 lb.</set>
+			<set name="stackable">true</set>
+		</setters>
+	</element>
+	<element name="Meat (Hot)" type="Monster Hunter Item" source="Monster Hunter" id="ID_MH_ITEM_MEAT_HOT">
+		<description>
+			<p> When you eat this meat, you can tolerate temperatures as low as −50 degrees Fahrenheit (-45 degrees celsius) without any additional protection for 24 hours. If you wear heavy clothes, you can tolerate temperatures as low as −100 degrees Fahrenheit (-73 degrees celsius).</p>
+		</description>
+		<setters>
+			<set name="category">Adventuring Gear</set>
+			<set name="cost" currency="gp">0</set>
+			<set name="weight" lb="1">1 lb.</set>
+			<set name="stackable">true</set>
+		</setters>
+	</element>
+	<element name="Meat (Poisoned)" type="Monster Hunter Item" source="Monster Hunter" id="ID_MH_ITEM_MEAT_POISONED">
+		<description>
+			<p>A creature that eats this meat must make a DC 10 Constitution saving throw. On a failed save, it takes 6 (1d12) poison damage and is Poisoned for 24 hours. On a successful save, the creature takes half damage and isn’t Poisoned.</p>
+		</description>
+		<setters>
+			<set name="category">Adventuring Gear</set>
+			<set name="cost" currency="gp">0</set>
+			<set name="weight" lb="1">1 lb.</set>
+			<set name="stackable">true</set>
+		</setters>
+	</element>
+	<element name="Meat (Tainted)" type="Monster Hunter Item" source="Monster Hunter" id="ID_MH_ITEM_MEAT_TAINTED">
+		<description>
+			<p>A creature that eats this meat must succeed on a DC 13 Constitution saving throw or be Poisoned for 1 minute. The Poisoned creature is Paralyzed. The creature can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success.</p>
+		</description>
+		<setters>
+			<set name="category">Adventuring Gear</set>
+			<set name="cost" currency="gp">0</set>
+			<set name="weight" lb="1">1 lb.</set>
+			<set name="stackable">true</set>
+		</setters>
+	</element>
+	<element name="Mega Nutrients" type="Monster Hunter Item" source="Monster Hunter" id="ID_MH_ITEM_MEGA_NUTRIENTS">
+		<description>
+			<p>A creature that drinks this vial of liquid increases its hit point maximum by 10 and it gains the same number of hit points. This benefit lasts for 8 hour.</p>
+		</description>
+		<setters>
+			<set name="category">Adventuring Gear</set>
+			<set name="cost" currency="gp">0</set>
+			<set name="weight" lb="1">1 lb.</set>
+			<set name="stackable">true</set>
+		</setters>
+	</element>
+	<element name="Nutrients" type="Monster Hunter Item" source="Monster Hunter" id="ID_MH_ITEM_NUTRIENTS">
+		<description>
+			<p>A creature that drinks this vial of liquid increases its hit point maximum by 5 and it gains the same number of hit points. This benefit lasts for 8 hour.</p>
+		</description>
+		<setters>
+			<set name="category">Adventuring Gear</set>
+			<set name="cost" currency="gp">0</set>
+			<set name="weight" lb="1/2">1/2 lb.</set>
+			<set name="stackable">true</set>
+		</setters>
+	</element>
+	<element name="Oxygen Supply" type="Monster Hunter Item" source="Monster Hunter" id="ID_MH_ITEM_OXYGEN_SUPPLY">
+		<description>
+			<p>A bulb filled with Oxygen. Provides 10 minutes of breathable air.</p>
+		</description>
+		<setters>
+			<set name="category">Adventuring Gear</set>
+			<set name="cost" currency="gp">15</set>
+			<set name="weight" lb="1">1 lb.</set>
+			<set name="stackable">true</set>
+		</setters>
+	</element>
+	<element name="Paintball" type="Monster Hunter Item" source="Monster Hunter" id="ID_MH_ITEM_PAINTBALL">
+		<description>
+			<p>When you throw this item at a creature, make a ranged weapon attack. On a hit, the creature is marked for 1 hour. While marked you have advantage on Wisdom (Perception) and Wisdom (Survival) checks to find it.</p>
+		</description>
+		<setters>
+			<set name="category">Adventuring Gear</set>
+			<set name="cost" currency="gp">20</set>
+			<set name="weight" lb="1/2">1/2 lb.</set>
+			<set name="stackable">true</set>
+		</setters>
+	</element>
+	<element name="Pitfall Trap" type="Monster Hunter Item" source="Monster Hunter" id="ID_MH_ITEM_PITFALL_TRAP">
+		<description>
+			<p>As an action, you place down a 2-foot wide circular pressure plate in an unoccupied space within 5 feet of you. The trap activates when more than 20 pounds of weight is placed on the pressure plate, causing the ground in a 10-foot-cubed area below the pressure plate to vanish and causing the Huge or smaller creature or object to spill into the newly formed pit. If the target is a creature, they must succeed on a DC 14 Strength saving throw or also be restrained by the nets released from the pressure plate. A restrained creature may repeat its saving throw at the end of its turn, destroying the net on a successful save.</p>
+		</description>
+		<setters>
+			<set name="category">Adventuring Gear</set>
+			<set name="cost" currency="gp">700</set>
+			<set name="weight" lb="10">10 lb.</set>
+			<set name="stackable">true</set>
+		</setters>
+	</element>
+	<element name="Pitfall Trap+" type="Monster Hunter Item" source="Monster Hunter" id="ID_MH_ITEM_PITFALL_TRAP+">
+		<description>
+			<p>As an action, you place down a 2-foot wide circular pressure plate in an unoccupied space within 5 feet of you. The trap activates when more than 20 pounds of weight is placed on the pressure plate, causing the ground in a 10-foot-cubed area below the pressure plate to vanish and causing the Huge or smaller creature or object to spill into the newly formed pit. If the target is a creature, they must succeed on a DC 18 Strength saving throw or also be restrained by the nets released from the pressure plate. A restrained creature may repeat its saving throw at the end of its turn, destroying the net on a successful save.</p>
+		</description>
+		<setters>
+			<set name="category">Adventuring Gear</set>
+			<set name="cost" currency="gp">1500</set>
+			<set name="weight" lb="10">10 lb.</set>
+			<set name="stackable">true</set>
+		</setters>
+	</element>
+	<element name="Poison Smoke Bomb" type="Monster Hunter Item" source="Monster Hunter" id="ID_MH_ITEM_POISON_SMOKE_BOMB">
+		<description>
+			<p>As an action, a character can throw a smoke bomb at a point up to 40 feet away. One round after a smoke bomb lands, it emits a cloud of poisonous smoke that creates a heavily obscured area in a 20-foot radius. A creature that starts its turn in the smoke must succeed on a DC 13 Constitution saving throw, or be poisoned for 1 hour. A moderate wind (at least 10 miles per hour) disperses the smoke in 4 rounds; a strong wind (20 or more miles per hour) disperses it in 1 round. A poisoned creature can repeat its saving throw at the end of its turn, ending the effect on itself on a successful save.</p>
+		</description>
+		<setters>
+			<set name="category">Adventuring Gear</set>
+			<set name="cost" currency="gp">50</set>
+			<set name="weight" lb="1/2">1/2 lb.</set>
+			<set name="stackable">true</set>
+		</setters>
+	</element>
+	<element name="Shock Trap" type="Monster Hunter Item" source="Monster Hunter" id="ID_MH_ITEM_SHOCK_TRAP">
+		<description>
+			<p>As an action, you place down an electrical trap that covers a 10-foot-square area on the ground. The trap activates when a Large or bigger creature or object enters the traps area, sending an electric current through it. The creature or object must succeed on a DC 14 Constitution saving throw or be incapacitated, and have its movement speed reduced to 0 for 1 minute. A creature can repeat its saving throw at the end of each of its turns, ending the effect on a success.</p>
+		</description>
+		<setters>
+			<set name="category">Adventuring Gear</set>
+			<set name="cost" currency="gp">1000</set>
+			<set name="weight" lb="10">10 lb.</set>
+			<set name="stackable">true</set>
+		</setters>
+	</element>
+	<element name="Shock Trap+" type="Monster Hunter Item" source="Monster Hunter" id="ID_MH_ITEM_SHOCK_TRAP+">
+		<description>
+			<p>As an action, you place down an electrical trap that covers a 10-foot-square area on the ground. The trap activates when a Large or bigger creature or object enters the traps area, sending an electric current through it. The creature or object must succeed on a DC 18 Constitution saving throw or be incapacitated, and have its movement speed reduced to 0 for 1 minute. A creature can repeat its saving throw at the end of each of its turns, ending the effect on a success.</p>
+		</description>
+		<setters>
+			<set name="category">Adventuring Gear</set>
+			<set name="cost" currency="gp">2000</set>
+			<set name="weight" lb="10">10 lb.</set>
+			<set name="stackable">true</set>
+		</setters>
+	</element>
+	<element name="Sm Barrel-bomb" type="Monster Hunter Item" source="Monster Hunter" id="ID_MH_ITEM_SM_BARREL_BOMB">
+		<description>
+			<p>Setting fire to a sm barrel-bomb causes it to explode, dealing 3d6 fire damage to creatures within 10 feet of it. A successful DC 12 Dexterity saving throw halves the damage.</p>
+		</description>
+		<setters>
+			<set name="category">Adventuring Gear</set>
+			<set name="cost" currency="gp">35</set>
+			<set name="weight" lb="5">5 lb.</set>
+			<set name="stackable">true</set>
+		</setters>
+	</element>
+	<element name="Smoke Bomb" type="Monster Hunter Item" source="Monster Hunter" id="ID_MH_ITEM_SMOKE_BOMB">
+		<description>
+			<p>As an action, a character can throw a smoke bomb at a point up to 40 feet away. One round after a smoke bomb lands, it emits a cloud of smoke that creates a heavily obscured area in a 20-foot radius. A moderate wind (at least 10 miles per hour) disperses the smoke in 4 rounds; a strong wind (20 or more miles per hour) disperses it in 1 round.</p>
+		</description>
+		<setters>
+			<set name="category">Adventuring Gear</set>
+			<set name="cost" currency="gp">50</set>
+			<set name="weight" lb="1/2">1/2 lb.</set>
+			<set name="stackable">true</set>
+		</setters>
+	</element>
+	<element name="Sonic Bomb" type="Monster Hunter Item" source="Monster Hunter" id="ID_MH_ITEM_SONIC_BOMB">
+		<description>
+			<p>As an action, you can throw this bomb up to 40 feet, creating an ear piercing sound on impact. Make a ranged attack against a creature or object, treating the sonic bomb as an improvised weapon. On a hit, the creature is deafened for 1 minute. A creature can end this effect early by succeeding on a DC 13 constitution saving throw at the end of their turn.</p>
+		</description>
+		<setters>
+			<set name="category">Adventuring Gear</set>
+			<set name="cost" currency="gp">100</set>
+			<set name="weight" lb="1/2">1/2 lb.</set>
+			<set name="stackable">true</set>
+		</setters>
+	</element>
+	<element name="Tranq Bomb" type="Monster Hunter Item" source="Monster Hunter" id="ID_MH_ITEM_TRANQ_BOMB">
+		<description>
+			<p>As an action, you can throw this bomb up to 40 feet, releasing a tranquilizing gas on impact. Make a ranged attack against a creature or object, treating the tranq bomb as an improvised weapon. On a hit, roll 5d8. If the target is below one-fourth of its maximum hit points and its remaining hits points are below the number rolled, it falls unconscious for 24 hours.</p>
+			<p class="indent">You can hit a creature with up to three tranq bombs or ammo. Adding the total of each tranq bomb or ammo together. If the creature does not fall unconscious after a third tranq bomb or ammo, it becomes immune to their effect for 24 hours.</p>
+			<p class="indent">A creature that does not have a capture loot table, is immune to tranq bombs or ammo effect.</p>
+		</description>
+		<setters>
+			<set name="category">Adventuring Gear</set>
+			<set name="cost" currency="gp">50</set>
+			<set name="weight" lb="1/2">1/2 lb.</set>
+			<set name="stackable">true</set>
+		</setters>
+	</element>
+	<element name="Trap Tool" type="Monster Hunter Item" source="Monster Hunter" id="ID_MH_ITEM_TRAP_TOOL">
+		<description>
+			<p>A must-have item for putting together Pitfall Traps and other kinds of traps.</p>
+		</description>
+		<setters>
+			<set name="category">Adventuring Gear</set>
+			<set name="cost" currency="gp">500</set>
+			<set name="weight" lb="10">10 lb.</set>
+			<set name="stackable">true</set>
+		</setters>
+	</element>
+	<element name="Well-done Steak" type="Monster Hunter Item" source="Monster Hunter" id="ID_MH_ITEM_WELL_DONE_STEAK">
+		<description>
+			<p>When you eat this steak, it acts as a 1 days ration and provides a +1 bonus to any one skill of your choice for the next 8 hours.</p>
+		</description>
+		<setters>
+			<set name="category">Adventuring Gear</set>
+			<set name="cost" currency="gp">0</set>
+			<set name="weight" lb="1">1 lb.</set>
+			<set name="stackable">true</set>
+		</setters>
+	</element>
+
+
+</elements>
