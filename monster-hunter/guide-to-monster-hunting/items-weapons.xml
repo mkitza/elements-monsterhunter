@@ -227,97 +227,97 @@
   </element>
   <element name="MH Dual Blades" type="Weapon Property" source="Amellwind's Guide to Monster Hunting" id="ID_WEAPON_PROPERTY_MH_DUAL_BLADES">
     <description>
-      <p>BLA BLA BLA</p>
+      <p>Dual blades unleash a whirlwind of combo attacks on your enemy. Though they're lightweight and relatively simple to use, they cannot be used to guard.</p>
     </description>
   </element>
   <element name="MH Great Sword" type="Weapon Property" source="Amellwind's Guide to Monster Hunting" id="ID_WEAPON_PROPERTY_MH_GREAT_SWORD">
     <description>
-      <p>BLA BLA BLA</p>
+      <p>A slow, heavy weapon with massive damage potential, the Greatsword is the heavy artillery of melee weapons. While simple at first, the Greatsword requires skilled timing and spacing in order to get the most out of it. On offense, the Greatsword attacks with slow, ponderous swings that hit with precision and accuracy.</p>
     </description>
   </element>
   <element name="MH Gunlance" type="Weapon Property" source="Amellwind's Guide to Monster Hunting" id="ID_WEAPON_PROPERTY_MH_GUNLANCE">
     <description>
-      <p>BLA BLA BLA</p>
+      <p>The gunlance offers more offensive power than the lance thanks to the addition of shelling attacks, and it also has good guarding capabilities. It may take time to master.</p>
     </description>
   </element>
   <element name="MH Hammer" type="Weapon Property" source="Amellwind's Guide to Monster Hunting" id="ID_WEAPON_PROPERTY_MH_HAMMER">
     <description>
-      <p>BLA BLA BLA</p>
+      <p>The hammer is a powerful blunt weapon with a surprising amount of mobility. It's also possible to stun monsters by delivering a hammer attack to the head.</p>
     </description>
   </element>
   <element name="MH Hunting Horn" type="Weapon Property" source="Amellwind's Guide to Monster Hunting" id="ID_WEAPON_PROPERTY_MH_HUNTING_HORN">
     <description>
-      <p>BLA BLA BLA</p>
+      <p>The hunting horn is a blunt weapon that can bestow positive status effects on yourself and your allies. Use it to perform melodies that can boost attack power and grant other beneficial effects.</p>
     </description>
   </element>
   <element name="MH Insect Glaive" type="Weapon Property" source="Amellwind's Guide to Monster Hunting" id="ID_WEAPON_PROPERTY_MH_INSECT_GLAIVE">
     <description>
-      <p>BLA BLA BLA</p>
+      <p>The insect glaive can be used to control a Kinsect, a small insect that harvests extracts from monsters to boost your abilities.</p>
     </description>
   </element>
   <element name="MH Lance" type="Weapon Property" source="Amellwind's Guide to Monster Hunting" id="ID_WEAPON_PROPERTY_MH_LANCE">
     <description>
-      <p>BLA BLA BLA</p>
+      <p>The lance is better at guarding than most weapons. In addition to its long reach, its thrust attacks can be executed with little exposure to enemy attacks. Great for defense-oriented combat.</p>
     </description>
   </element>
   <element name="MH Longsword" type="Weapon Property" source="Amellwind's Guide to Monster Hunting" id="ID_WEAPON_PROPERTY_MH_LONGSWORD">
     <description>
-      <p>BLA BLA BLA</p>
+      <p>An elegant weapon, the Longsword is a well rounded offensive weapon. On top of its solid base moveset, it has a unique Spirit Gauge system. Every non-Spirit attack from the Longsword charges up a Spirit Gauge that increases attack damage and unlocks Spirit Blade attacks.</p>
     </description>
   </element>
   <element name="MH Magnet Spike" type="Weapon Property" source="Amellwind's Guide to Monster Hunting" id="ID_WEAPON_PROPERTY_MH_MAGNET_SPIKE">
     <description>
-      <p>BLA BLA BLA</p>
+      <p>This weapon is a heavy, melee type weapon with the ability to switch between two different weapon modes: A Slashing mode and an Impact mode. The key aspect of the weapon is its magnetism abilities. Naturally being a large, heavy weapon, it would be difficult to even handle or use in combat, but by manipulating the magnetic force in the weapon most of the weight is lifted, it becomes possible to move so fast that it would otherwise be deemed unnatural.</p>
     </description>
   </element>
   <element name="MH Magus Staff" type="Weapon Property" source="Amellwind's Guide to Monster Hunting" id="ID_WEAPON_PROPERTY_MH_MAGUS_STAFF">
     <description>
-      <p>BLA BLA BLA</p>
+      <p>Used more for walking than striking a creature, the magus staves are finely crafted. Inlaid with gems and intricate carvings allowing the casting and storing of spells within them, the Magus Staff are the choice weapon for a spellcaster.</p>
     </description>
   </element>
   <element name="MH Splint Rapier" type="Weapon Property" source="Amellwind's Guide to Monster Hunting" id="ID_WEAPON_PROPERTY_MH_SPLINT_RAPIER">
     <description>
-      <p>BLA BLA BLA</p>
+      <p>As a single rapier, it supports the party. As splint rapiers, it debuffs the enemy.</p>
     </description>
   </element>
   <element name="MH Switch AXE" type="Weapon Property" source="Amellwind's Guide to Monster Hunting" id="ID_WEAPON_PROPERTY_MH_SWITCH_AXE">
     <description>
-      <p>BLA BLA BLA</p>
+      <p>The switch Axe morphs between axe and sword modes. Axe mode boasts long reach, while sword mode features explosive finishers.</p>
     </description>
   </element>
   <element name="MH Sword and Shield" type="Weapon Property" source="Amellwind's Guide to Monster Hunting" id="ID_WEAPON_PROPERTY_MH_SWORD_N_SHIELD">
     <description>
-      <p>BLA BLA BLA</p>
+      <p>Lightweight and easy to use, the sword and shield also boasts outstanding attack speed. The shield can be used to guard, though it may not hold up to certain attacks.</p>
     </description>
   </element>
   <element name="MH Tonfas" type="Weapon Property" source="Amellwind's Guide to Monster Hunting" id="ID_WEAPON_PROPERTY_MH_TONFAS">
     <description>
-      <p>BLA BLA BLA</p>
+      <p>The Tonfa is made up of two light, swift poles with a propulsion system. Due to this, hunters can easily evade while the weapon is drawn and even propel themselves from the ground.</p>
     </description>
   </element>
   <element name="MH Wyvern Boomerang" type="Weapon Property" source="Amellwind's Guide to Monster Hunting" id="ID_WEAPON_PROPERTY_MH_WYVERN_BOOMERANG">
     <description>
-      <p>BLA BLA BLA</p>
+      <p>Its a giant fucking boomerang you need power gauntlets to wield.</p>
     </description>
   </element>
   <element name="MH Bow" type="Weapon Property" source="Amellwind's Guide to Monster Hunting" id="ID_WEAPON_PROPERTY_MH_BOW">
     <description>
-      <p>BLA BLA BLA</p>
+      <p>The bow is a mid-range weapon that can perform a variety of attacks. While simple to use, its mastery requires a detailed knowledge of the best combinations of arrows and coatings.</p>
     </description>
   </element>
   <element name="MH Dual Repeaters" type="Weapon Property" source="Amellwind's Guide to Monster Hunting" id="ID_WEAPON_PROPERTY_MH_DUAL_REPEATERS">
     <description>
-      <p>BLA BLA BLA</p>
+      <p>A fully-ranged option for the fleet of foot. Dance the line between close and long range as you dish out damage, buffs, and traps. There is a fair amount of damage falloff as you move farther away from behemoths. The closer you are, the more damage you do.</p>
     </description>
   </element>
   <element name="MH Heavy Bowgun" type="Weapon Property" source="Amellwind's Guide to Monster Hunting" id="ID_WEAPON_PROPERTY_MH_HEAVY_BOWGUN">
     <description>
-      <p>BLA BLA BLA</p>
+      <p>The Heavy Bowgun is the artillery of ranged weapons. It specializes in high damage rounds at a range. While it does not have the same special effects of the Light Bowgun, the Heavy Bowgun dishes out damage more reliably.</p>
     </description>
   </element>
   <element name="MH Light Bowgun" type="Weapon Property" source="Amellwind's Guide to Monster Hunting" id="ID_WEAPON_PROPERTY_MH_LIGHT_BOWGUN">
     <description>
-      <p>BLA BLA BLA</p>
+      <p>The Light Bowgun is the smallest ranged weapon. It boasts the highest fire rate of the ranged weapons. It also specializes in supporting ammo, such as poison, paralysis and recovery, meaning it can reliably inflict a variety of status effects on the monster while still dealing damage.</p>
     </description>
   </element>
   <element name="switch mode" type="Weapon Property" source="Amellwind's Guide to Monster Hunting" id="ID_WEAPON_PROPERTY_MH_SWITCH_MODE">
@@ -577,7 +577,7 @@
 	<element name="MH Dual Blades" type="Weapon" source="Amellwind's Guide to Monster Hunting" id="ID_MH_WEAPON_DUAL_BLADES_0">
 		<supports>ID_WEAPON_PROPERTY_MH_DUAL_BLADES, ID_INTERNAL_WEAPON_PROPERTY_FINESSE, ID_INTERNAL_WEAPON_PROPERTY_LIGHT</supports>
 		<description>
-			<p>Dual blades unleash a whirlwind of combo attacks on your enemy. Though they're lightweight and relatively simple to use, they cannot be used to guard.</p>
+			<div element="ID_WEAPON_PROPERTY_MH_DUAL_BLADES" />
 		</description>
 		<setters>
 			<set name="category">Weapons</set>
@@ -590,7 +590,7 @@
 	</element>
 	<element name="Uncommon MH Dual Blades" type="Magic Item" source="Amellwind's Guide to Monster Hunting" id="ID_MH_WEAPON_DUAL_BLADES_1">
 		<description>
-			<p>Dual blades unleash a whirlwind of combo attacks on your enemy. Though they're lightweight and relatively simple to use, they cannot be used to guard.</p>
+			<div element="ID_WEAPON_PROPERTY_MH_DUAL_BLADES" />
 			<p class="indent"><strong><em>Demon Mode (2/long rest).</em></strong> As a bonus action your body is enveloped in a demonic aura for 30 seconds or until you are knocked prone. While Demon mode is active, you gain +5 movement speed, and deal an extra 1d4 weapon damage on the first attack that hits each turn.</p>
 			<p class="indent">Once demon mode ends you cannot use it again for 30 seconds.</p>
 		</description>
@@ -607,7 +607,7 @@
 	</element>
 	<element name="Rare MH Dual Blades" type="Magic Item" source="Amellwind's Guide to Monster Hunting" id="ID_MH_WEAPON_DUAL_BLADES_2">
 		<description>
-			<p>Dual blades unleash a whirlwind of combo attacks on your enemy. Though they're lightweight and relatively simple to use, they cannot be used to guard.</p>
+			<div element="ID_WEAPON_PROPERTY_MH_DUAL_BLADES" />
 			<p>You gain a +1 bonus on attacks and damage rolls.</p>
 			<p class="indent"><strong><em>Demon Mode (3/long rest).</em></strong> As a bonus action your body is enveloped in a demonic aura for 30 seconds or until you are knocked prone. While Demon mode is active, you gain +10 movement speed, and deal an extra 1d4 weapon damage on all attacks.</p>
 			<p class="indent">Once demon mode ends you cannot use it again for 30 seconds.</p>
@@ -627,7 +627,7 @@
 	</element>
 	<element name="Very Rare MH Dual Blades" type="Magic Item" source="Amellwind's Guide to Monster Hunting" id="ID_MH_WEAPON_DUAL_BLADES_3">
 		<description>
-			<p>Dual blades unleash a whirlwind of combo attacks on your enemy. Though they're lightweight and relatively simple to use, they cannot be used to guard.</p>
+			<div element="ID_WEAPON_PROPERTY_MH_DUAL_BLADES" />
 			<p>You gain a +2 bonus on attacks and damage rolls.</p>
 			<p class="indent"><strong><em>Arch Demon Mode (4/long rest).</em></strong> As a bonus action your body is enveloped in a demonic aura for 30 seconds or until you are knocked prone. While Demon mode is active, you gain +15 movement speed, and deal an extra 1d4 weapon damage on all attacks.</p>
 			<p class="indent">Once demon mode ends you cannot use it again for 30 seconds.</p>
@@ -647,7 +647,7 @@
 	</element>
 	<element name="Legendary MH Dual Blades" type="Magic Item" source="Amellwind's Guide to Monster Hunting" id="ID_MH_WEAPON_DUAL_BLADES_4">
 		<description>
-			<p>Dual blades unleash a whirlwind of combo attacks on your enemy. Though they're lightweight and relatively simple to use, they cannot be used to guard.</p>
+			<div element="ID_WEAPON_PROPERTY_MH_DUAL_BLADES" />
 			<p>You gain a +3 bonus on attacks and damage rolls.</p>
 			<p class="indent"><strong><em>Arch Demon Mode (5/long rest).</em></strong> As a bonus action your body is enveloped in a demonic aura for 30 seconds or until you are knocked prone. While Demon mode is active, you gain +20 movement speed, and deal an extra 1d6 weapon damage on all attacks.</p>
 			<p class="indent">Once demon mode ends you cannot use it again for 30 seconds.</p>
@@ -670,7 +670,7 @@
 	<element name="MH Great Sword" type="Weapon" source="Amellwind's Guide to Monster Hunting" id="ID_MH_WEAPON_GREAT_SWORD_0">
 		<supports>ID_WEAPON_PROPERTY_MH_GREAT_SWORD, ID_INTERNAL_WEAPON_PROPERTY_TWOHANDED, ID_INTERNAL_WEAPON_PROPERTY_HEAVY</supports>
 		<description>
-			<p>A slow, heavy weapon with massive damage potential, the Greatsword is the heavy artillery of melee weapons. While simple at first, the Greatsword requires skilled timing and spacing in order to get the most out of it. On offense, the Greatsword attacks with slow, ponderous swings that hit with precision and accuracy.</p>
+			<div element="ID_WEAPON_PROPERTY_MH_GREAT_SWORD" />
 		</description>
 		<setters>
 			<set name="category">Weapons</set>
@@ -683,7 +683,7 @@
 	</element>
 	<element name="Uncommon MH Great Sword" type="Magic Item" source="Amellwind's Guide to Monster Hunting" id="ID_MH_WEAPON_GREAT_SWORD_1">
 		<description>
-			<p>A slow, heavy weapon with massive damage potential, the Greatsword is the heavy artillery of melee weapons. While simple at first, the Greatsword requires skilled timing and spacing in order to get the most out of it. On offense, the Greatsword attacks with slow, ponderous swings that hit with precision and accuracy.</p>
+			<div element="ID_WEAPON_PROPERTY_MH_GREAT_SWORD" />
 			<p class="indent"><strong><em>Charged Slash.</em></strong> As part of the Attack action or when you make an opportunity attack you can forgo an attack with this weapon in order to grant the weapon 1 charge (3 max). Charges are lost if not used within 1 minute.</p>
 			<p class="indent">When you make an attack roll while the weapon has any charges, all charges are expended and that attack is made with advantage; you can forgo this advantage and all other advantages you gain on this turn to gain 1 extra charge to expend on this attack.</p>
 			<p class="indent">On hit the weapon deals an extra 1d6 + your Strength modifier as weapon damage + the weapon's extra damage material (if it has one) for each charge expended in this way, plus an extra 3 damage if you expended 2 charges, or 6 damage if you expended 3 charges.</p>
@@ -701,7 +701,7 @@
 	</element>
 	<element name="Rare MH Great Sword" type="Magic Item" source="Amellwind's Guide to Monster Hunting" id="ID_MH_WEAPON_GREAT_SWORD_2">
 		<description>
-			<p>A slow, heavy weapon with massive damage potential, the Greatsword is the heavy artillery of melee weapons. While simple at first, the Greatsword requires skilled timing and spacing in order to get the most out of it. On offense, the Greatsword attacks with slow, ponderous swings that hit with precision and accuracy.</p>
+			<div element="ID_WEAPON_PROPERTY_MH_GREAT_SWORD" />
 			<p>You gain a +1 bonus on attacks and damage rolls.</p>
 			<p class="indent"><strong><em>Charged Slash.</em></strong> As part of the Attack action or when you make an opportunity attack you can forgo an attack with this weapon in order to grant the weapon 1 charge (3 max). Charges are lost if not used within 1 minute.</p>
 			<p class="indent">When you make an attack roll while the weapon has any charges, all charges are expended and that attack is made with advantage; you can forgo this advantage and all other advantages you gain on this turn to gain 1 extra charge to expend on this attack.</p>
@@ -722,7 +722,7 @@
 	</element>
 	<element name="Very Rare MH Great Sword" type="Magic Item" source="Amellwind's Guide to Monster Hunting" id="ID_MH_WEAPON_GREAT_SWORD_3">
 		<description>
-			<p>A slow, heavy weapon with massive damage potential, the Greatsword is the heavy artillery of melee weapons. While simple at first, the Greatsword requires skilled timing and spacing in order to get the most out of it. On offense, the Greatsword attacks with slow, ponderous swings that hit with precision and accuracy.</p>
+			<div element="ID_WEAPON_PROPERTY_MH_GREAT_SWORD" />
 			<p>You gain a +2 bonus on attacks and damage rolls.</p>
 			<p class="indent"><strong><em>Charged Slash.</em></strong> As part of the Attack action or when you make an opportunity attack you can forgo an attack with this weapon in order to grant the weapon 1 charge (3 max). Charges are lost if not used within 1 minute.</p>
 			<p class="indent">When you make an attack roll while the weapon has any charges, all charges are expended and that attack is made with advantage; you can forgo this advantage and all other advantages you gain on this turn to gain 1 extra charge to expend on this attack.</p>
@@ -743,7 +743,7 @@
 	</element>
 	<element name="Legendary MH Great Sword" type="Magic Item" source="Amellwind's Guide to Monster Hunting" id="ID_MH_WEAPON_GREAT_SWORD_4">
 		<description>
-			<p>A slow, heavy weapon with massive damage potential, the Greatsword is the heavy artillery of melee weapons. While simple at first, the Greatsword requires skilled timing and spacing in order to get the most out of it. On offense, the Greatsword attacks with slow, ponderous swings that hit with precision and accuracy.</p>
+			<div element="ID_WEAPON_PROPERTY_MH_GREAT_SWORD" />
 			<p>You gain a +3 bonus on attacks and damage rolls.</p>
 			<p class="indent"><strong><em>Charged Slash.</em></strong> As part of the Attack action or when you make an opportunity attack you can forgo an attack with this weapon in order to grant the weapon 1 charge (3 max). Charges are lost if not used within 1 minute.</p>
 			<p class="indent">When you make an attack roll while the weapon has any charges, all charges are expended and that attack is made with advantage; you can forgo this advantage and all other advantages you gain on this turn to gain 1 extra charge to expend on this attack.</p>
@@ -767,7 +767,7 @@
 	<element name="MH Gunlance" type="Weapon" source="Amellwind's Guide to Monster Hunting" id="ID_MH_WEAPON_GUNLANCE_0">
 		<supports>ID_WEAPON_PROPERTY_MH_GUNLANCE, ID_INTERNAL_WEAPON_PROPERTY_REACH</supports>
 		<description>
-			<p>The gunlance offers more offensive power than the lance thanks to the addition of shelling attacks, and it also has good guarding capabilities. It may take time to master.</p>
+			<div element="ID_WEAPON_PROPERTY_MH_GUNLANCE" />
 			<p class="indent"><strong><em>Quick Draw.</em></strong> When you draw or pickup this weapon you can don your shield as part of the same interaction.</p>
 		</description>
 		<setters>
@@ -781,7 +781,7 @@
 	</element>
 	<element name="Uncommon MH Gunlance" type="Magic Item" source="Amellwind's Guide to Monster Hunting" id="ID_MH_WEAPON_GUNLANCE_1">
 		<description>
-			<p>The gunlance offers more offensive power than the lance thanks to the addition of shelling attacks, and it also has good guarding capabilities. It may take time to master.</p>
+			<div element="ID_WEAPON_PROPERTY_MH_GUNLANCE" />
 			<p>You gain a +1 bonus on attacks and damage rolls.</p>
 			<p class="indent"><strong><em>Quick Draw.</em></strong> When you draw or pickup this weapon you can don your shield as part of the same interaction.</p>
 			<p class="indent"><strong><em>Shells.</em></strong> Your gunlance holds up to three shells. As an action you can expend a shell to make a melee or ranged weapon attack against a target.</p>
@@ -802,7 +802,7 @@
 	</element>
 	<element name="Rare MH Gunlance" type="Magic Item" source="Amellwind's Guide to Monster Hunting" id="ID_MH_WEAPON_GUNLANCE_2">
 		<description>
-			<p>The gunlance offers more offensive power than the lance thanks to the addition of shelling attacks, and it also has good guarding capabilities. It may take time to master.</p>
+			<div element="ID_WEAPON_PROPERTY_MH_GUNLANCE" />
 			<p>You gain a +1 bonus on attacks and damage rolls; and +1 AC while shield is equipped.</p>
 			<p class="indent"><strong><em>Quick Draw.</em></strong> When you draw or pickup this weapon you can don your shield as part of the same interaction.</p>
 			<p class="indent"><strong><em>Shells.</em></strong> Your gunlance holds up to four shells. As an action you can expend a shell to make a melee or ranged weapon attack against a target.</p>
@@ -825,7 +825,7 @@
 	</element>
 	<element name="Very Rare MH Gunlance" type="Magic Item" source="Amellwind's Guide to Monster Hunting" id="ID_MH_WEAPON_GUNLANCE_3">
 		<description>
-			<p>The gunlance offers more offensive power than the lance thanks to the addition of shelling attacks, and it also has good guarding capabilities. It may take time to master.</p>
+			<div element="ID_WEAPON_PROPERTY_MH_GUNLANCE" />
 			<p>You gain a +2 bonus on attacks and damage rolls; and +1 AC while shield is equipped.</p>
 			<p class="indent"><strong><em>Quick Draw.</em></strong> When you draw or pickup this weapon you can don your shield as part of the same interaction.</p>
 			<p class="indent"><strong><em>Shells.</em></strong> Your gunlance holds up to five shells. As an action you can expend a shell to make a melee or ranged weapon attack against a target.</p>
@@ -850,7 +850,7 @@
 	</element>
 	<element name="Legendary MH Gunlance" type="Magic Item" source="Amellwind's Guide to Monster Hunting" id="ID_MH_WEAPON_GUNLANCE_4">
 		<description>
-			<p>The gunlance offers more offensive power than the lance thanks to the addition of shelling attacks, and it also has good guarding capabilities. It may take time to master.</p>
+			<div element="ID_WEAPON_PROPERTY_MH_GUNLANCE" />
 			<p>You gain a +3 bonus on attacks and damage rolls; and +2 AC while shield is equipped.</p>
 			<p class="indent"><strong><em>Quick Draw.</em></strong> When you draw or pickup this weapon you can don your shield as part of the same interaction.</p>
 			<p class="indent"><strong><em>Shells.</em></strong> Your gunlance holds up to five shells. As an action you can expend a shell to make a melee or ranged weapon attack against a target.</p>
@@ -878,7 +878,7 @@
 	<element name="MH Hammer" type="Weapon" source="Amellwind's Guide to Monster Hunting" id="ID_MH_WEAPON_HAMMER_0">
 		<supports>ID_WEAPON_PROPERTY_MH_HAMMER, ID_INTERNAL_WEAPON_PROPERTY_TWOHANDED, ID_INTERNAL_WEAPON_PROPERTY_HEAVY</supports>
 		<description>
-			<p>The hammer is a powerful blunt weapon with a surprising amount of mobility. It's also possible to stun monsters by delivering a hammer attack to the head.</p>
+			<div element="ID_WEAPON_PROPERTY_MH_HAMMER" />
 		</description>
 		<setters>
 			<set name="category">Weapons</set>
@@ -891,7 +891,7 @@
 	</element>
 	<element name="Uncommon MH Hammer" type="Magic Item" source="Amellwind's Guide to Monster Hunting" id="ID_MH_WEAPON_HAMMER_1">
 		<description>
-			<p>The hammer is a powerful blunt weapon with a surprising amount of mobility. It's also possible to stun monsters by delivering a hammer attack to the head.</p>
+			<div element="ID_WEAPON_PROPERTY_MH_HAMMER" />
 			<p class="indent"><strong><em>Mighty Weapon (1/short rest).</em></strong> When you hit a creature that is Large or smaller with this weapon, you can choose to have it make a Constitution saving throw against a DC of 8 + your proficiency + your Strength modifier. On a failed save the creature is stunned until the end of your next turn.</p>
 			<p class="indent"><strong><em>Charge.</em></strong> If you move 20 feet in a straight line towards a creature without taking damage, your first attack against it with your hammer deals an extra 1d4 bludgeoning damage.</p>
 		</description>
@@ -908,7 +908,7 @@
 	</element>
 	<element name="Rare MH Hammer" type="Magic Item" source="Amellwind's Guide to Monster Hunting" id="ID_MH_WEAPON_HAMMER_2">
 		<description>
-			<p>The hammer is a powerful blunt weapon with a surprising amount of mobility. It's also possible to stun monsters by delivering a hammer attack to the head.</p>
+			<div element="ID_WEAPON_PROPERTY_MH_HAMMER" />
 			<p>You gain a +1 bonus on attacks and damage rolls.</p>
 			<p class="indent"><strong><em>Mighty Weapon (2/short rest).</em></strong> When you hit a creature with this weapon, you can choose to have it make a Constitution saving throw against a DC of 8 + your proficiency + your Strength modifier. On a failed save the creature is stunned until the end of your next turn.</p>
 			<p class="indent">A Huge or larger creature has advantage on the saving throw.</p>
@@ -928,7 +928,7 @@
 	</element>
 	<element name="Very Rare MH Hammer" type="Magic Item" source="Amellwind's Guide to Monster Hunting" id="ID_MH_WEAPON_HAMMER_3">
 		<description>
-			<p>The hammer is a powerful blunt weapon with a surprising amount of mobility. It's also possible to stun monsters by delivering a hammer attack to the head.</p>
+			<div element="ID_WEAPON_PROPERTY_MH_HAMMER" />
 			<p>You gain a +2 bonus on attacks and damage rolls.</p>
 			<p class="indent"><strong><em>Mighty Weapon (3/short rest).</em></strong> When you hit a creature with this weapon, you can choose to have it make a Constitution saving throw against a DC of 8 + your proficiency + your Strength modifier. On a failed save the creature is stunned until the end of your next turn.</p>
 			<p class="indent">A Huge or larger creature has advantage on the saving throw.</p>
@@ -948,7 +948,7 @@
 	</element>
 	<element name="Legendary MH Hammer" type="Magic Item" source="Amellwind's Guide to Monster Hunting" id="ID_MH_WEAPON_HAMMER_4">
 		<description>
-			<p>The hammer is a powerful blunt weapon with a surprising amount of mobility. It's also possible to stun monsters by delivering a hammer attack to the head.</p>
+			<div element="ID_WEAPON_PROPERTY_MH_HAMMER" />
 			<p>You gain a +3 bonus on attacks and damage rolls.</p>
 			<p class="indent"><strong><em>Mighty Weapon (4/short rest).</em></strong> When you hit a creature with this weapon, you can choose to have it make a Constitution saving throw against a DC of 8 + your proficiency + your Strength modifier. On a failed save the creature is stunned until the end of your next turn.</p>
 			<p class="indent"><strong><em>Charge.</em></strong> If you move 20 feet in a straight line towards a creature without taking damage, your first attack against it with your hammer deals an extra 4d4 bludgeoning damage.</p>
@@ -970,7 +970,7 @@
 	<element name="MH Hunting Horn" type="Weapon" source="Amellwind's Guide to Monster Hunting" id="ID_MH_WEAPON_HUNTING_HORN_0">
 		<supports>ID_WEAPON_PROPERTY_MH_HUNTING_HORN, ID_INTERNAL_WEAPON_PROPERTY_TWOHANDED, ID_INTERNAL_WEAPON_PROPERTY_HEAVY</supports>
 		<description>
-			<p>The hunting horn is a blunt weapon that can bestow positive status effects on yourself and your allies. Use it to perform melodies that can boost attack power and grant other beneficial effects.</p>
+			<div element="ID_WEAPON_PROPERTY_MH_HUNTING_HORN" />
 			<p><strong><em>Chord length:</em></strong> 2</p>
 			<p class="indent"><strong><em>Melody.</em></strong> When you hit a creature with this weapon, you can choose to elicit a number of notes (equal to your hunting horn's cord length) as a bonus action to form a melody. Notes with the same name, such as Attack Up (s) and Attack Up (m) can't be used in the same melody. Elemental damage also does not stack, but if multiple elemental damage notes are active, the player can choose the type of damage. The notes can be stored for 1 minute or until a melody is completed.</p>
 			<p class="indent">As an action you can complete the melody, providing the magical benefits of the notes in your melody to you, and all allies while they are within 20 feet of you and able to hear you. The melody lasts for 1 minute, until you complete a new melody, are knocked unconscious, or use a bonus action to end the current melody.</p>
@@ -992,7 +992,7 @@
 	</element>
 	<element name="Uncommon MH Hunting Horn" type="Magic Item" source="Amellwind's Guide to Monster Hunting" id="ID_MH_WEAPON_HUNTING_HORN_1">
 		<description>
-			<p>The hunting horn is a blunt weapon that can bestow positive status effects on yourself and your allies. Use it to perform melodies that can boost attack power and grant other beneficial effects.</p>
+			<div element="ID_WEAPON_PROPERTY_MH_HUNTING_HORN" />
 			<p><strong><em>Chord length:</em></strong> 3</p>
 			<p class="indent"><strong><em>Melody.</em></strong> When you hit a creature with this weapon, you can choose to elicit a number of notes (equal to your hunting horn's cord length) as a bonus action to form a melody. Notes with the same name, such as Attack Up (s) and Attack Up (m) can't be used in the same melody. Elemental damage also does not stack, but if multiple elemental damage notes are active, the player can choose the type of damage. The notes can be stored for 1 minute or until a melody is completed.</p>
 			<p class="indent">As an action you can complete the melody, providing the magical benefits of the notes in your melody to you, and all allies while they are within 20 feet of you and able to hear you. The melody lasts for 1 minute, until you complete a new melody, are knocked unconscious, or use a bonus action to end the current melody.</p>
@@ -1021,7 +1021,7 @@
 	</element>
 	<element name="Rare MH Hunting Horn" type="Magic Item" source="Amellwind's Guide to Monster Hunting" id="ID_MH_WEAPON_HUNTING_HORN_2">
 		<description>
-			<p>The hunting horn is a blunt weapon that can bestow positive status effects on yourself and your allies. Use it to perform melodies that can boost attack power and grant other beneficial effects.</p>
+			<div element="ID_WEAPON_PROPERTY_MH_HUNTING_HORN" />
 			<p><strong><em>Chord length:</em></strong> 4</p>
 			<p class="indent"><strong><em>Melody.</em></strong> When you hit a creature with this weapon, you can choose to elicit a number of notes (equal to your hunting horn's cord length) as a bonus action to form a melody. Notes with the same name, such as Attack Up (s) and Attack Up (m) can't be used in the same melody. Elemental damage also does not stack, but if multiple elemental damage notes are active, the player can choose the type of damage. The notes can be stored for 1 minute or until a melody is completed.</p>
 			<p class="indent">As an action you can complete the melody, providing the magical benefits of the notes in your melody to you, and all allies while they are within 20 feet of you and able to hear you. The melody lasts for 1 minute, until you complete a new melody, are knocked unconscious, or use a bonus action to end the current melody.</p>
@@ -1057,7 +1057,7 @@
 	</element>
 	<element name="Very Rare MH Hunting Horn" type="Magic Item" source="Amellwind's Guide to Monster Hunting" id="ID_MH_WEAPON_HUNTING_HORN_3">
 		<description>
-			<p>The hunting horn is a blunt weapon that can bestow positive status effects on yourself and your allies. Use it to perform melodies that can boost attack power and grant other beneficial effects.</p>
+			<div element="ID_WEAPON_PROPERTY_MH_HUNTING_HORN" />
 			<p>You gain a +1 bonus on attacks and damage rolls.</p>
 			<p><strong><em>Chord length:</em></strong> 5</p>
 			<p class="indent"><strong><em>Melody.</em></strong> When you hit a creature with this weapon, you can choose to elicit a number of notes (equal to your hunting horn's cord length) as a bonus action to form a melody. Notes with the same name, such as Attack Up (s) and Attack Up (m) can't be used in the same melody. Elemental damage also does not stack, but if multiple elemental damage notes are active, the player can choose the type of damage. The notes can be stored for 1 minute or until a melody is completed.</p>
@@ -1100,7 +1100,7 @@
 	</element>
 	<element name="Legendary MH Hunting Horn" type="Magic Item" source="Amellwind's Guide to Monster Hunting" id="ID_MH_WEAPON_HUNTING_HORN_4">
 		<description>
-			<p>The hunting horn is a blunt weapon that can bestow positive status effects on yourself and your allies. Use it to perform melodies that can boost attack power and grant other beneficial effects.</p>
+			<div element="ID_WEAPON_PROPERTY_MH_HUNTING_HORN" />
 			<p>You gain a +1 bonus on attacks and damage rolls.</p>
 			<p><strong><em>Chord length:</em></strong> 6</p>
 			<p class="indent"><strong><em>Melody.</em></strong> When you hit a creature with this weapon, you can choose to elicit a number of notes (equal to your hunting horn's cord length) as a bonus action to form a melody. Notes with the same name, such as Attack Up (s) and Attack Up (m) can't be used in the same melody. Elemental damage also does not stack, but if multiple elemental damage notes are active, the player can choose the type of damage. The notes can be stored for 1 minute or until a melody is completed.</p>
@@ -1152,7 +1152,7 @@
 	<element name="MH Insect Glaive" type="Weapon" source="Amellwind's Guide to Monster Hunting" id="ID_MH_WEAPON_INSECT_GLAIVE_0">
 		<supports>ID_WEAPON_PROPERTY_MH_INSECT_GLAIVE, ID_INTERNAL_WEAPON_PROPERTY_TWOHANDED</supports>
 		<description>
-			<p>The insect glaive can be used to control a Kinsect, a small insect that harvests extracts from monsters to boost your abilities.</p>
+			<div element="ID_WEAPON_PROPERTY_MH_INSECT_GLAIVE" />
 			<p><strong><em>The Kinsect</em></strong></p>
 			<p class="indent">The Kinsect returns to you at the end of your turn, granting you the benefit of the essence it collected for 1 minute. This duration is refreshed each time the kinsect returns to you with the essence of a creature. Upon collecting Red, White, and Orange essences, the kinsect will only collect green essence until the essence fades.</p>
 			<p class="indent">The kinsect does not gain bonus damage from essence, magical effects (including the bonus damage from this weapons rarity), or ability modifiers.</p>
@@ -1169,7 +1169,7 @@
 	</element>
 	<element name="Uncommon Insect Glaive" type="Magic Item" source="Amellwind's Guide to Monster Hunting" id="ID_MH_WEAPON_INSECT_GLAIVE_1">
 		<description>
-			<p>The insect glaive can be used to control a Kinsect, a small insect that harvests extracts from monsters to boost your abilities.</p>
+			<div element="ID_WEAPON_PROPERTY_MH_INSECT_GLAIVE" />
 			<p><strong><em>The Kinsect</em></strong></p>
 			<p class="indent">The Kinsect returns to you at the end of your turn, granting you the benefit of the essence it collected for 1 minute. This duration is refreshed each time the kinsect returns to you with the essence of a creature. Upon collecting Red, White, and Orange essences, the kinsect will only collect green essence until the essence fades.</p>
 			<p class="indent">The kinsect does not gain bonus damage from essence, magical effects (including the bonus damage from this weapons rarity), or ability modifiers.</p>
@@ -1190,7 +1190,7 @@
 	</element>
 	<element name="Rare Insect Glaive" type="Magic Item" source="Amellwind's Guide to Monster Hunting" id="ID_MH_WEAPON_INSECT_GLAIVE_2">
 		<description>
-			<p>The insect glaive can be used to control a Kinsect, a small insect that harvests extracts from monsters to boost your abilities.</p>
+			<div element="ID_WEAPON_PROPERTY_MH_INSECT_GLAIVE" />
 			<p>You gain a +1 bonus on attacks and damage rolls.</p>
 			<p><strong><em>The Kinsect</em></strong></p>
 			<p class="indent">The Kinsect returns to you at the end of your turn, granting you the benefit of the essence it collected for 1 minute. This duration is refreshed each time the kinsect returns to you with the essence of a creature. Upon collecting Red, White, and Orange essences, the kinsect will only collect green essence until the essence fades.</p>
@@ -1219,7 +1219,7 @@
 	</element>
 	<element name="Very Rare Insect Glaive" type="Magic Item" source="Amellwind's Guide to Monster Hunting" id="ID_MH_WEAPON_INSECT_GLAIVE_3">
 		<description>
-			<p>The insect glaive can be used to control a Kinsect, a small insect that harvests extracts from monsters to boost your abilities.</p>
+			<div element="ID_WEAPON_PROPERTY_MH_INSECT_GLAIVE" />
 			<p>You gain a +2 bonus on attacks and damage rolls.</p>
 			<p><strong><em>The Kinsect</em></strong></p>
 			<p class="indent">The Kinsect returns to you at the end of your turn, granting you the benefit of the essence it collected for 1 minute. This duration is refreshed each time the kinsect returns to you with the essence of a creature. Upon collecting Red, White, and Orange essences, the kinsect will only collect green essence until the essence fades.</p>
@@ -1248,7 +1248,7 @@
 	</element>
 	<element name="Legendary Insect Glaive" type="Magic Item" source="Amellwind's Guide to Monster Hunting" id="ID_MH_WEAPON_INSECT_GLAIVE_4">
 		<description>
-			<p>The insect glaive can be used to control a Kinsect, a small insect that harvests extracts from monsters to boost your abilities.</p>
+			<div element="ID_WEAPON_PROPERTY_MH_INSECT_GLAIVE" />
 			<p>You gain a +3 bonus on attacks and damage rolls.</p>
 			<p><strong><em>The Kinsect</em></strong></p>
 			<p class="indent">The Kinsect returns to you at the end of your turn, granting you the benefit of the essence it collected for 1 minute. This duration is refreshed each time the kinsect returns to you with the essence of a creature. Upon collecting Red, White, and Orange essences, the kinsect will only collect green essence until the essence fades.</p>
@@ -1280,7 +1280,7 @@
 	<element name="MH Lance" type="Weapon" source="Amellwind's Guide to Monster Hunting" id="ID_MH_WEAPON_LANCE_0">
 		<supports>ID_WEAPON_PROPERTY_MH_LANCE, ID_INTERNAL_WEAPON_PROPERTY_REACH, ID_INTERNAL_WEAPON_PROPERTY_VERSATILE</supports>
 		<description>
-			<p>The lance is better at guarding than most weapons. In addition to its long reach, its thrust attacks can be executed with little exposure to enemy attacks. Great for defense-oriented combat.</p>
+			<div element="ID_WEAPON_PROPERTY_MH_LANCE" />
 		</description>
 		<setters>
 			<set name="category">Weapons</set>
@@ -1294,7 +1294,7 @@
 	</element>
 	<element name="Uncommon MH Lance" type="Magic Item" source="Amellwind's Guide to Monster Hunting" id="ID_MH_WEAPON_LANCE_1">
 		<description>
-			<p>The lance is better at guarding than most weapons. In addition to its long reach, its thrust attacks can be executed with little exposure to enemy attacks. Great for defense-oriented combat.</p>
+			<div element="ID_WEAPON_PROPERTY_MH_LANCE" />
 			<p>You gain a +1 bonus on attacks and damage rolls.</p>
 			<p class="indent"><strong><em>Powerguard.</em></strong> As a reaction you gain +2 AC against one melee or range attack. To do so, you must be able to see the attacker and be wielding the lance and shield.</p>
 		</description>
@@ -1312,7 +1312,7 @@
 	</element>
 	<element name="Rare MH Lance" type="Magic Item" source="Amellwind's Guide to Monster Hunting" id="ID_MH_WEAPON_LANCE_2">
 		<description>
-			<p>The lance is better at guarding than most weapons. In addition to its long reach, its thrust attacks can be executed with little exposure to enemy attacks. Great for defense-oriented combat.</p>
+			<div element="ID_WEAPON_PROPERTY_MH_LANCE" />
 			<p>You gain a +1 bonus on attacks and damage rolls; and +1 AC while shield is equipped</p>
 			<p class="indent"><strong><em>Charge.</em></strong> If you move 20 feet in a straight line towards a creature without taking damage, your first attack against it with your lance deals an extra 1d4 piercing damage.</p>
 			<p class="indent"><strong><em>Powerguard.</em></strong> As a reaction you gain +2 AC against one melee or range attack. To do so, you must be able to see the attacker and be wielding the lance and shield.</p>
@@ -1331,7 +1331,7 @@
 	</element>
 	<element name="Very Rare MH Lance" type="Magic Item" source="Amellwind's Guide to Monster Hunting" id="ID_MH_WEAPON_LANCE_3">
 		<description>
-			<p>The lance is better at guarding than most weapons. In addition to its long reach, its thrust attacks can be executed with little exposure to enemy attacks. Great for defense-oriented combat.</p>
+			<div element="ID_WEAPON_PROPERTY_MH_LANCE" />
 			<p>You gain a +2 bonus on attacks and damage rolls; and +2 AC while shield is equipped</p>
 			<p class="indent"><strong><em>Charge.</em></strong> If you move 20 feet in a straight line towards a creature without taking damage, your first attack against it with your lance deals an extra 2d4 piercing damage.</p>
 			<p class="indent"><strong><em>Counter Thrust.</em></strong> As a reaction when a creature misses a melee attack against you, you may make an opportunity attack against it.</p>
@@ -1352,7 +1352,7 @@
 	</element>
 	<element name="Legendary MH Lance" type="Magic Item" source="Amellwind's Guide to Monster Hunting" id="ID_MH_WEAPON_LANCE_4">
 		<description>
-			<p>The lance is better at guarding than most weapons. In addition to its long reach, its thrust attacks can be executed with little exposure to enemy attacks. Great for defense-oriented combat.</p>
+			<div element="ID_WEAPON_PROPERTY_MH_LANCE" />
 			<p>You gain a +2 bonus on attacks and damage rolls; and +3 AC while shield is equipped</p>
 			<p class="indent"><strong><em>Charge.</em></strong> If you move 20 feet in a straight line towards a creature without taking damage, your first attack against it with your lance deals an extra 3d4 piercing damage.</p>
 			<p class="indent"><strong><em>Counter Thrust.</em></strong> As a reaction when a creature misses a melee attack against you, you may make an opportunity attack against it.</p>
@@ -1376,7 +1376,7 @@
 	<element name="MH Longsword" type="Weapon" source="Amellwind's Guide to Monster Hunting" id="ID_MH_WEAPON_LONGSWORD_0">
 		<supports>ID_WEAPON_PROPERTY_MH_LONGSWORD, ID_INTERNAL_WEAPON_PROPERTY_TWOHANDED</supports>
 		<description>
-			<p>An elegant weapon, the Longsword is a well rounded offensive weapon. On top of its solid base moveset, it has a unique Spirit Gauge system. Every non-Spirit attack from the Longsword charges up a Spirit Gauge that increases attack damage and unlocks Spirit Blade attacks.</p>
+			<div element="ID_WEAPON_PROPERTY_MH_LONGSWORD" />
 		</description>
 		<setters>
 			<set name="category">Weapons</set>
@@ -1389,7 +1389,7 @@
 	</element>
 	<element name="Uncommon MH Longsword" type="Magic Item" source="Amellwind's Guide to Monster Hunting" id="ID_MH_WEAPON_LONGSWORD_1">
 		<description>
-			<p>An elegant weapon, the Longsword is a well rounded offensive weapon. On top of its solid base moveset, it has a unique Spirit Gauge system. Every non-Spirit attack from the Longsword charges up a Spirit Gauge that increases attack damage and unlocks Spirit Blade attacks.</p>
+			<div element="ID_WEAPON_PROPERTY_MH_LONGSWORD" />
 			<p>You gain a +1 bonus on attacks and damage rolls.</p>
 			<p class="indent"><strong><em>Spirit Gauge.</em></strong> When you hit with this weapon, you gain 1 spirit up to a maximum of 6. You lose all spirit, if you are knocked unconscious or don't hit a target within 1 minute. You can expend spirit charges on the following effects:</p>
 			<ul>
@@ -1410,7 +1410,7 @@
 	</element>
 	<element name="Rare MH Longsword" type="Magic Item" source="Amellwind's Guide to Monster Hunting" id="ID_MH_WEAPON_LONGSWORD_2">
 		<description>
-			<p>An elegant weapon, the Longsword is a well rounded offensive weapon. On top of its solid base moveset, it has a unique Spirit Gauge system. Every non-Spirit attack from the Longsword charges up a Spirit Gauge that increases attack damage and unlocks Spirit Blade attacks.</p>
+			<div element="ID_WEAPON_PROPERTY_MH_LONGSWORD" />
 			<p>You gain a +2 bonus on attacks and damage rolls.</p>
 			<p class="indent"><strong><em>Spirit Gauge.</em></strong> When you hit with this weapon, you gain 1 spirit up to a maximum of 6. You lose all spirit, if you are knocked unconscious or don't hit a target within 1 minute. You can expend spirit charges on the following effects:</p>
 			<ul>
@@ -1432,7 +1432,7 @@
 	</element>
 	<element name="Very Rare MH Longsword" type="Magic Item" source="Amellwind's Guide to Monster Hunting" id="ID_MH_WEAPON_LONGSWORD_3">
 		<description>
-			<p>An elegant weapon, the Longsword is a well rounded offensive weapon. On top of its solid base moveset, it has a unique Spirit Gauge system. Every non-Spirit attack from the Longsword charges up a Spirit Gauge that increases attack damage and unlocks Spirit Blade attacks.</p>
+			<div element="ID_WEAPON_PROPERTY_MH_LONGSWORD" />
 			<p>You gain a +2 bonus on attacks and damage rolls.</p>
 			<p class="indent"><strong><em>Spirit Gauge.</em></strong> When you hit with this weapon, you gain 2 spirit up to a maximum of 6. You lose all spirit, if you are knocked unconscious or don't hit a target within 1 minute. You can expend spirit charges on the following effects:</p>
 			<ul>
@@ -1456,7 +1456,7 @@
 	</element>
 	<element name="Legendary MH Longsword" type="Magic Item" source="Amellwind's Guide to Monster Hunting" id="ID_MH_WEAPON_LONGSWORD_4">
 		<description>
-			<p>An elegant weapon, the Longsword is a well rounded offensive weapon. On top of its solid base moveset, it has a unique Spirit Gauge system. Every non-Spirit attack from the Longsword charges up a Spirit Gauge that increases attack damage and unlocks Spirit Blade attacks.</p>
+			<div element="ID_WEAPON_PROPERTY_MH_LONGSWORD" />
 			<p>You gain a +3 bonus on attacks and damage rolls.</p>
 			<p class="indent"><strong><em>Spirit Gauge.</em></strong> When you hit with this weapon, you gain 3 spirit up to a maximum of 6. You lose all spirit, if you are knocked unconscious or don't hit a target within 1 minute. You can expend spirit charges on the following effects:</p>
 			<ul>
@@ -1483,7 +1483,7 @@
 	<element name="MH Magnet Spike" type="Weapon" source="Amellwind's Guide to Monster Hunting" id="ID_MH_WEAPON_MAGNET_SPIKE_0">
 		<supports>ID_WEAPON_PROPERTY_MH_MAGNET_SPIKE, ID_INTERNAL_WEAPON_PROPERTY_TWOHANDED, ID_INTERNAL_WEAPON_PROPERTY_HEAVY</supports>
 		<description>
-			<p>This weapon is a heavy, melee type weapon with the ability to switch between two different weapon modes: A Slashing mode and an Impact mode. The key aspect of the weapon is its magnetism abilities. Naturally being a large, heavy weapon, it would be difficult to even handle or use in combat, but by manipulating the magnetic force in the weapon most of the weight is lifted, it becomes possible to move so fast that it would otherwise be deemed unnatural.</p>
+			<div element="ID_WEAPON_PROPERTY_MH_MAGNET_SPIKE" />
 			<p class="indent"><strong><em>Switch Mode.</em></strong> As a bonus action, can change the damage type of this weapon from bludgeoning to slashing or vice versa.</p>
 			<p class="indent"><strong><em>Magnetic Field Gun.</em></strong> As part of your Attack action, you can fire a magnetic sphere at a creature or object. Make a special range weapon attack (range 30/120 ft.) using your Strength or Dexterity. On hit, the target takes 2d4 piercing damage and the magnetic sphere affixes itself to the target for 1 minute, until you recall it as a bonus action, or the target dies or is destroyed.</p>
 			<p class="indent">If you're able to make multiple attacks with the Attack action, this attack replaces one of them.</p>
@@ -1501,7 +1501,7 @@
 	</element>
 	<element name="Uncommon MH Magnet Spike" type="Magic Item" source="Amellwind's Guide to Monster Hunting" id="ID_MH_WEAPON_MAGNET_SPIKE_1">
 		<description>
-			<p>This weapon is a heavy, melee type weapon with the ability to switch between two different weapon modes: A Slashing mode and an Impact mode. The key aspect of the weapon is its magnetism abilities. Naturally being a large, heavy weapon, it would be difficult to even handle or use in combat, but by manipulating the magnetic force in the weapon most of the weight is lifted, it becomes possible to move so fast that it would otherwise be deemed unnatural.</p>
+			<div element="ID_WEAPON_PROPERTY_MH_MAGNET_SPIKE" />
 			<p>You gain a +1 bonus on attacks and damage rolls.</p>
 			<p class="indent"><strong><em>Switch Mode.</em></strong> As a bonus action, can change the damage type of this weapon from bludgeoning to slashing or vice versa.</p>
 			<p class="indent"><strong><em>Magnetic Field Gun.</em></strong> As part of your Attack action, you can fire a magnetic sphere at a creature or object. Make a special range weapon attack (range 30/120 ft.) using your Strength or Dexterity. On hit, the target takes 2d4 piercing damage and the magnetic sphere affixes itself to the target for 1 minute, until you recall it as a bonus action, or the target dies or is destroyed.</p>
@@ -1524,7 +1524,7 @@
 	</element>
 	<element name="Rare MH Magnet Spike" type="Magic Item" source="Amellwind's Guide to Monster Hunting" id="ID_MH_WEAPON_MAGNET_SPIKE_2">
 		<description>
-			<p>This weapon is a heavy, melee type weapon with the ability to switch between two different weapon modes: A Slashing mode and an Impact mode. The key aspect of the weapon is its magnetism abilities. Naturally being a large, heavy weapon, it would be difficult to even handle or use in combat, but by manipulating the magnetic force in the weapon most of the weight is lifted, it becomes possible to move so fast that it would otherwise be deemed unnatural.</p>
+			<div element="ID_WEAPON_PROPERTY_MH_MAGNET_SPIKE" />
 			<p>You gain a +1 bonus on attacks and damage rolls.</p>
 			<p class="indent"><strong><em>Switch Mode.</em></strong> As a bonus action, can change the damage type of this weapon from bludgeoning to slashing or vice versa.</p>
 			<p class="indent"><strong><em>Magnetic Field Gun.</em></strong> As part of your Attack action, you can fire a magnetic sphere at a creature or object. Make a special range weapon attack (range 30/120 ft.) using your Strength or Dexterity. On hit, the target takes 2d4 piercing damage and the magnetic sphere affixes itself to the target for 1 minute, until you recall it as a bonus action, or the target dies or is destroyed.</p>
@@ -1549,7 +1549,7 @@
 	</element>
 	<element name="Very Rare MH Magnet Spike" type="Magic Item" source="Amellwind's Guide to Monster Hunting" id="ID_MH_WEAPON_MAGNET_SPIKE_3">
 		<description>
-			<p>This weapon is a heavy, melee type weapon with the ability to switch between two different weapon modes: A Slashing mode and an Impact mode. The key aspect of the weapon is its magnetism abilities. Naturally being a large, heavy weapon, it would be difficult to even handle or use in combat, but by manipulating the magnetic force in the weapon most of the weight is lifted, it becomes possible to move so fast that it would otherwise be deemed unnatural.</p>
+			<div element="ID_WEAPON_PROPERTY_MH_MAGNET_SPIKE" />
 			<p>You gain a +2 bonus on attacks and damage rolls.</p>
 			<p class="indent"><strong><em>Switch Mode.</em></strong> As a bonus action, can change the damage type of this weapon from bludgeoning to slashing or vice versa.</p>
 			<p class="indent"><strong><em>Magnetic Field Gun.</em></strong> As part of your Attack action, you can fire a magnetic sphere at a creature or object. Make a special range weapon attack (range 30/120 ft.) using your Strength or Dexterity. On hit, the target takes 2d4 piercing damage and the magnetic sphere affixes itself to the target for 1 minute, until you recall it as a bonus action, or the target dies or is destroyed.</p>
@@ -1577,7 +1577,7 @@
 	</element>
 	<element name="Legendary MH Magnet Spike" type="Magic Item" source="Amellwind's Guide to Monster Hunting" id="ID_MH_WEAPON_MAGNET_SPIKE_4">
 		<description>
-			<p>This weapon is a heavy, melee type weapon with the ability to switch between two different weapon modes: A Slashing mode and an Impact mode. The key aspect of the weapon is its magnetism abilities. Naturally being a large, heavy weapon, it would be difficult to even handle or use in combat, but by manipulating the magnetic force in the weapon most of the weight is lifted, it becomes possible to move so fast that it would otherwise be deemed unnatural.</p>
+			<div element="ID_WEAPON_PROPERTY_MH_MAGNET_SPIKE" />
 			<p>You gain a +3 bonus on attacks and damage rolls.</p>
 			<p class="indent"><strong><em>Switch Mode.</em></strong> As a bonus action, can change the damage type of this weapon from bludgeoning to slashing or vice versa.</p>
 			<p class="indent"><strong><em>Magnetic Field Gun.</em></strong> As part of your Attack action, you can fire a magnetic sphere at a creature or object. Make a special range weapon attack (range 30/120 ft.) using your Strength or Dexterity. On hit, the target takes 2d4 piercing damage and the magnetic sphere affixes itself to the target for 1 minute, until you recall it as a bonus action, or the target dies or is destroyed.</p>
@@ -1609,7 +1609,7 @@
 	<element name="MH Magus Staff" type="Weapon" source="Amellwind's Guide to Monster Hunting" id="ID_MH_WEAPON_MAGUS_STAFF_0">
 		<supports>ID_WEAPON_PROPERTY_MH_MAGUS_STAFF, ID_INTERNAL_WEAPON_PROPERTY_VERSATILE</supports>
 		<description>
-			<p>Used more for walking than striking a creature, the magus staves are finely crafted. Inlaid with gems and intricate carvings allowing the casting and storing of spells within them, the Magus Staff are the choice weapon for a spellcaster.</p>
+			<div element="ID_WEAPON_PROPERTY_MH_MAGUS_STAFF" />
 			<p class="indent"><strong><em>Focus.</em></strong> This weapon acts as a spell focus for your spellcasting.</p>
 		</description>
 		<setters>
@@ -1624,7 +1624,7 @@
 	</element>
 	<element name="Uncommon MH Magus Staff" type="Magic Item" source="Amellwind's Guide to Monster Hunting" id="ID_MH_WEAPON_MAGUS_STAFF_1">
 		<description>
-			<p>Used more for walking than striking a creature, the magus staves are finely crafted. Inlaid with gems and intricate carvings allowing the casting and storing of spells within them, the Magus Staff are the choice weapon for a spellcaster.</p>
+			<div element="ID_WEAPON_PROPERTY_MH_MAGUS_STAFF" />
 			<p class="indent"><strong><em>Focus.</em></strong> This weapon acts as a spell focus for your spellcasting.</p>
 			<p class="indent"><strong><em>Spell Storing.</em></strong> This staff stores Spells cast into it, holding them until the attuned wearer uses them. The staff can store up to 1 level worth of spells at a time.</p>
 			<p class="indent">Only the wielder can Cast a Spell into the staff by touching the staff as the spell is cast. The spell has no effect, other than to be stored in the staff. If the staff can't hold the spell, the spell is expended without effect. The level of the slot used to cast the spell determines how much space it uses.</p>
@@ -1643,7 +1643,7 @@
 	</element>
 	<element name="Rare MH Magus Staff" type="Magic Item" source="Amellwind's Guide to Monster Hunting" id="ID_MH_WEAPON_MAGUS_STAFF_2">
 		<description>
-			<p>Used more for walking than striking a creature, the magus staves are finely crafted. Inlaid with gems and intricate carvings allowing the casting and storing of spells within them, the Magus Staff are the choice weapon for a spellcaster.</p>
+			<div element="ID_WEAPON_PROPERTY_MH_MAGUS_STAFF" />
 			<p class="indent"><strong><em>Focus.</em></strong> This weapon acts as a spell focus for your spellcasting.</p>
 			<p class="indent"><strong><em>Defense.</em></strong> Holding this staff grants a +1 bonus to your armor class.</p>
 			<p class="indent"><strong><em>Spell Storing.</em></strong> This staff stores Spells cast into it, holding them until the attuned wearer uses them. The staff can store up to 2 levels worth of spells at a time.</p>
@@ -1663,7 +1663,7 @@
 	</element>
 	<element name="Very Rare MH Magus Staff" type="Magic Item" source="Amellwind's Guide to Monster Hunting" id="ID_MH_WEAPON_MAGUS_STAFF_3">
 		<description>
-			<p>Used more for walking than striking a creature, the magus staves are finely crafted. Inlaid with gems and intricate carvings allowing the casting and storing of spells within them, the Magus Staff are the choice weapon for a spellcaster.</p>
+			<div element="ID_WEAPON_PROPERTY_MH_MAGUS_STAFF" />
 			<p class="indent"><strong><em>Focus.</em></strong> This weapon acts as a spell focus for your spellcasting.</p>
 			<p class="indent"><strong><em>Defense.</em></strong> Holding this staff grants a +2 bonus to your armor class.</p>
 			<p class="indent"><strong><em>Spell Storing.</em></strong> This staff stores Spells cast into it, holding them until the attuned wearer uses them. The staff can store up to 4 levels worth of spells at a time.</p>
@@ -1683,7 +1683,7 @@
 	</element>
 	<element name="Legendary MH Magus Staff" type="Magic Item" source="Amellwind's Guide to Monster Hunting" id="ID_MH_WEAPON_MAGUS_STAFF_4">
 		<description>
-			<p>Used more for walking than striking a creature, the magus staves are finely crafted. Inlaid with gems and intricate carvings allowing the casting and storing of spells within them, the Magus Staff are the choice weapon for a spellcaster.</p>
+			<div element="ID_WEAPON_PROPERTY_MH_MAGUS_STAFF" />
 			<p class="indent"><strong><em>Focus.</em></strong> This weapon acts as a spell focus for your spellcasting.</p>
 			<p class="indent"><strong><em>Defense.</em></strong> Holding this staff grants a +3 bonus to your armor class.</p>
 			<p class="indent"><strong><em>Spell Storing.</em></strong> This staff stores Spells cast into it, holding them until the attuned wearer uses them. The staff can store up to 5 levels worth of spells at a time.</p>
@@ -1706,7 +1706,7 @@
 	<element name="MH Splint Rapier" type="Weapon" source="Amellwind's Guide to Monster Hunting" id="ID_MH_WEAPON_SPLINT_RAPIER_0">
 		<supports>ID_WEAPON_PROPERTY_MH_SPLINT_RAPIER, ID_WEAPON_PROPERTY_MH_SWITCH_MODE, ID_INTERNAL_WEAPON_PROPERTY_FINESSE, ID_INTERNAL_WEAPON_PROPERTY_LIGHT</supports>
 		<description>
-			<p>As a single rapier, it supports the party. As splint rapiers, it debuffs the enemy.</p>
+			<div element="ID_WEAPON_PROPERTY_MH_SPLINT_RAPIER" />
 			<p class="indent"><strong><em>Switch Mode.</em></strong> As a bonus action, you can switch the weapon between its single mode or its splint mode.</p>
 		</description>
 		<setters>
@@ -1720,7 +1720,7 @@
 	</element>
 	<element name="Uncommon MH Splint Rapier" type="Magic Item" source="Amellwind's Guide to Monster Hunting" id="ID_MH_WEAPON_SPLINT_RAPIER_1">
 		<description>
-			<p>As a single rapier, it supports the party. As splint rapiers, it debuffs the enemy.</p>
+			<div element="ID_WEAPON_PROPERTY_MH_SPLINT_RAPIER" />
 			<p>You gain a +1 bonus on attacks and damage rolls.</p>
 			<p class="indent"><strong><em>Switch Mode.</em></strong> As a bonus action, you can switch the weapon between its single mode or its splint mode.</p>
 			<p ><strong><em>Single Mode.</em></strong></p>
@@ -1756,7 +1756,7 @@
 	</element>
 	<element name="Rare MH Splint Rapier" type="Magic Item" source="Amellwind's Guide to Monster Hunting" id="ID_MH_WEAPON_SPLINT_RAPIER_2">
 		<description>
-			<p>As a single rapier, it supports the party. As splint rapiers, it debuffs the enemy.</p>
+			<div element="ID_WEAPON_PROPERTY_MH_SPLINT_RAPIER" />
 			<p>You gain a +2 bonus on attacks and damage rolls.</p>
 			<p class="indent"><strong><em>Switch Mode.</em></strong> As a bonus action, you can switch the weapon between its single mode or its splint mode.</p>
 			<p ><strong><em>Single Mode.</em></strong></p>
@@ -1795,7 +1795,7 @@
 	</element>
 	<element name="Very Rare MH Splint Rapier" type="Magic Item" source="Amellwind's Guide to Monster Hunting" id="ID_MH_WEAPON_SPLINT_RAPIER_3">
 		<description>
-			<p>As a single rapier, it supports the party. As splint rapiers, it debuffs the enemy.</p>
+			<div element="ID_WEAPON_PROPERTY_MH_SPLINT_RAPIER" />
 			<p>You gain a +2 bonus on attacks and damage rolls.</p>
 			<p class="indent"><strong><em>Switch Mode.</em></strong> As a bonus action, you can switch the weapon between its single mode or its splint mode.</p>
 			<p ><strong><em>Single Mode.</em></strong></p>
@@ -1835,7 +1835,7 @@
 	</element>
 	<element name="Legendary MH Splint Rapier" type="Magic Item" source="Amellwind's Guide to Monster Hunting" id="ID_MH_WEAPON_SPLINT_RAPIER_4">
 		<description>
-			<p>As a single rapier, it supports the party. As splint rapiers, it debuffs the enemy.</p>
+			<div element="ID_WEAPON_PROPERTY_MH_SPLINT_RAPIER" />
 			<p>You gain a +3 bonus on attacks and damage rolls.</p>
 			<p class="indent"><strong><em>Switch Mode.</em></strong> As a bonus action, you can switch the weapon between its single mode or its splint mode.</p>
 			<p ><strong><em>Single Mode.</em></strong></p>
@@ -1880,7 +1880,7 @@
 	<element name="MH Switch Axe (Sword)" type="Weapon" source="Amellwind's Guide to Monster Hunting" id="ID_MH_WEAPON_SWITCH_AXE_0">
 		<supports>ID_WEAPON_PROPERTY_MH_SWITCH_AXE, ID_INTERNAL_WEAPON_PROPERTY_TWOHANDED, ID_INTERNAL_WEAPON_PROPERTY_HEAVY, ID_WEAPON_PROPERTY_MH_SWITCH_MODE</supports>
 		<description>
-			<p>The switch Axe morphs between axe and sword modes. Axe mode boasts long reach, while sword mode features explosive finishers.</p>
+			<div element="ID_WEAPON_PROPERTY_MH_SWITCH_AXE" />
 			<p class="indent"><strong><em>Switch Mode.</em></strong> As a bonus action, you can switch the weapon between its axe or sword mode. Each mode has specific benefits only available in that form.</p>
 		</description>
 		<setters>
@@ -1895,7 +1895,7 @@
 	<element name="MH Switch Axe (Axe)" type="Weapon" source="Amellwind's Guide to Monster Hunting" id="ID_MH_WEAPON_SWITCH_AXE_00">
 		<supports>ID_WEAPON_PROPERTY_MH_SWITCH_AXE, ID_INTERNAL_WEAPON_PROPERTY_TWOHANDED, ID_INTERNAL_WEAPON_PROPERTY_HEAVY, ID_WEAPON_PROPERTY_MH_SWITCH_MODE, ID_INTERNAL_WEAPON_PROPERTY_REACH</supports>
 		<description>
-			<p>The switch Axe morphs between axe and sword modes. Axe mode boasts long reach, while sword mode features explosive finishers.</p>
+			<div element="ID_WEAPON_PROPERTY_MH_SWITCH_AXE" />
 			<p class="indent"><strong><em>Switch Mode.</em></strong> As a bonus action, you can switch the weapon between its axe or sword mode. Each mode has specific benefits only available in that form.</p>
 		</description>
 		<setters>
@@ -1909,7 +1909,7 @@
 	</element>
 	<element name="Uncommon MH Switch Axe" type="Magic Item" source="Amellwind's Guide to Monster Hunting" id="ID_MH_WEAPON_SWITCH_AXE_1">
 		<description>
-			<p>The switch Axe morphs between axe and sword modes. Axe mode boasts long reach, while sword mode features explosive finishers.</p>
+			<div element="ID_WEAPON_PROPERTY_MH_SWITCH_AXE" />
 			<p>You gain a +1 bonus on attacks and damage rolls.</p>
 			<p class="indent"><strong><em>Switch Mode.</em></strong> As a bonus action, you can switch the weapon between its axe or sword mode. Each mode has specific benefits only available in that form.</p>			
 			<p class="indent"><strong><em>Sword Gauge.</em></strong> This weapon's sword gauge can hold a maximum of 20 charges.</p>
@@ -1932,7 +1932,7 @@
 	</element>
 	<element name="Rare MH Switch Axe" type="Magic Item" source="Amellwind's Guide to Monster Hunting" id="ID_MH_WEAPON_SWITCH_AXE_2">
 		<description>
-			<p>The switch Axe morphs between axe and sword modes. Axe mode boasts long reach, while sword mode features explosive finishers.</p>
+			<div element="ID_WEAPON_PROPERTY_MH_SWITCH_AXE" />
 			<p>You gain a +2 bonus on attacks and damage rolls.</p>
 			<p class="indent"><strong><em>Switch Mode.</em></strong> As a bonus action, you can switch the weapon between its axe or sword mode. Each mode has specific benefits only available in that form.</p>			
 			<p class="indent"><strong><em>Sword Gauge.</em></strong> This weapon's sword gauge can hold a maximum of 30 charges.</p>
@@ -1958,7 +1958,7 @@
 	</element>
 	<element name="Very Rare MH Switch Axe" type="Magic Item" source="Amellwind's Guide to Monster Hunting" id="ID_MH_WEAPON_SWITCH_AXE_3">
 		<description>
-			<p>The switch Axe morphs between axe and sword modes. Axe mode boasts long reach, while sword mode features explosive finishers.</p>
+			<div element="ID_WEAPON_PROPERTY_MH_SWITCH_AXE" />
 			<p>You gain a +2 bonus on attacks and damage rolls.</p>
 			<p class="indent"><strong><em>Switch Mode.</em></strong> As a bonus action, you can switch the weapon between its axe or sword mode. Each mode has specific benefits only available in that form.</p>			
 			<p class="indent"><strong><em>Sword Gauge.</em></strong> This weapon's sword gauge can hold a maximum of 40 charges.</p>
@@ -1987,7 +1987,7 @@
 	</element>
 	<element name="Legendary MH Switch Axe" type="Magic Item" source="Amellwind's Guide to Monster Hunting" id="ID_MH_WEAPON_SWITCH_AXE_4">
 		<description>
-			<p>The switch Axe morphs between axe and sword modes. Axe mode boasts long reach, while sword mode features explosive finishers.</p>
+			<div element="ID_WEAPON_PROPERTY_MH_SWITCH_AXE" />
 			<p>You gain a +2 bonus on attacks and damage rolls.</p>
 			<p class="indent"><strong><em>Switch Mode.</em></strong> As a bonus action, you can switch the weapon between its axe or sword mode. Each mode has specific benefits only available in that form.</p>			
 			<p class="indent"><strong><em>Sword Gauge.</em></strong> This weapon's sword gauge can hold a maximum of 50 charges.</p>
@@ -2021,7 +2021,7 @@
 	<element name="MH Sword and Shield" type="Weapon" source="Amellwind's Guide to Monster Hunting" id="ID_MH_WEAPON_SWORD_N_SHIELD_0">
 		<supports>ID_WEAPON_PROPERTY_MH_SWORD_N_SHIELD, ID_INTERNAL_WEAPON_PROPERTY_FINESSE, ID_INTERNAL_WEAPON_PROPERTY_LIGHT</supports>
 		<description>
-			<p>Lightweight and easy to use, the sword and shield also boasts outstanding attack speed. The shield can be used to guard, though it may not hold up to certain attacks.</p>
+			<div element="ID_WEAPON_PROPERTY_MH_SWORD_N_SHIELD" />
 		</description>
 		<setters>
 			<set name="category">Weapons</set>
@@ -2034,7 +2034,7 @@
 	</element>
 	<element name="Uncommon MH Sword and Shield" type="Magic Item" source="Amellwind's Guide to Monster Hunting" id="ID_MH_WEAPON_SWORD_N_SHIELD_1">
 		<description>
-			<p>Lightweight and easy to use, the sword and shield also boasts outstanding attack speed. The shield can be used to guard, though it may not hold up to certain attacks.</p>
+			<div element="ID_WEAPON_PROPERTY_MH_SWORD_N_SHIELD" />
 			<p>You gain a +1 bonus on attacks and damage rolls.</p>
 			<p class="indent"><strong><em>Free Hands.</em></strong> When you take the dodge action, you can “use an object” as a bonus action.</p>
 		</description>
@@ -2052,7 +2052,7 @@
 	</element>
 	<element name="Rare MH Sword and Shield" type="Magic Item" source="Amellwind's Guide to Monster Hunting" id="ID_MH_WEAPON_SWORD_N_SHIELD_2">
 		<description>
-			<p>Lightweight and easy to use, the sword and shield also boasts outstanding attack speed. The shield can be used to guard, though it may not hold up to certain attacks.</p>
+			<div element="ID_WEAPON_PROPERTY_MH_SWORD_N_SHIELD" />
 			<p>You gain a +1 bonus on attacks and damage rolls; and +1 AC while shield is equipped.</p>
 			<p class="indent"><strong><em>Free Hands.</em></strong> When you take the dodge action, you can “use an object” as a bonus action.</p>
 			<p class="indent"><strong><em>Rend.</em></strong> When you hit a creature with this weapon where they make a saving throw against a condition causing effect, they make the saving throw at disadvantage. Condition causing effects can include spells and abilities such as the Ranger's ensnaring strike, some of the Battlemaster's combat maneuvers, or any magical condition inflicting effect the GM may put on this weapon.</p>
@@ -2071,7 +2071,7 @@
 	</element>
 	<element name="Very Rare MH Sword and Shield" type="Magic Item" source="Amellwind's Guide to Monster Hunting" id="ID_MH_WEAPON_SWORD_N_SHIELD_3">
 		<description>
-			<p>Lightweight and easy to use, the sword and shield also boasts outstanding attack speed. The shield can be used to guard, though it may not hold up to certain attacks.</p>
+			<div element="ID_WEAPON_PROPERTY_MH_SWORD_N_SHIELD" />
 			<p>You gain a +2 bonus on attacks and damage rolls; and +2 AC while shield is equipped.</p>
 			<p class="indent"><strong><em>Free Hands.</em></strong> You can “use an object” as a bonus action.</p>
 			<p class="indent"><strong><em>Rend.</em></strong> When you hit a creature with this weapon where they make a saving throw against a condition causing effect, they make the saving throw at disadvantage. Condition causing effects can include spells and abilities such as the Ranger's ensnaring strike, some of the Battlemaster's combat maneuvers, or any magical condition inflicting effect the GM may put on this weapon.</p>
@@ -2090,7 +2090,7 @@
 	</element>
 	<element name="Legendary MH Sword and Shield" type="Magic Item" source="Amellwind's Guide to Monster Hunting" id="ID_MH_WEAPON_SWORD_N_SHIELD_4">
 		<description>
-			<p>Lightweight and easy to use, the sword and shield also boasts outstanding attack speed. The shield can be used to guard, though it may not hold up to certain attacks.</p>
+			<div element="ID_WEAPON_PROPERTY_MH_SWORD_N_SHIELD" />
 			<p>You gain a +3 bonus on attacks and damage rolls; and +3 AC while shield is equipped.</p>
 			<p class="indent"><strong><em>Free Hands.</em></strong> You can “use an object” as a bonus action.</p>
 			<p class="indent"><strong><em>Rend.</em></strong> When you hit a creature with this weapon where they make a saving throw against a condition causing effect, they make the saving throw at disadvantage. Condition causing effects can include spells and abilities such as the Ranger's ensnaring strike, some of the Battlemaster's combat maneuvers, or any magical condition inflicting effect the GM may put on this weapon.</p>
@@ -2112,7 +2112,7 @@
 	<element name="MH Tonfas" type="Weapon" source="Amellwind's Guide to Monster Hunting" id="ID_MH_WEAPON_TONFAS_0">
 		<supports>ID_WEAPON_PROPERTY_MH_TONFAS, ID_INTERNAL_WEAPON_PROPERTY_LIGHT</supports>
 		<description>
-			<p>The Tonfa is made up of two light, swift poles with a propulsion system. Due to this, hunters can easily evade while the weapon is drawn and even propel themselves from the ground.</p>
+			<div element="ID_WEAPON_PROPERTY_MH_TONFAS" />
 		</description>
 		<setters>
 			<set name="category">Weapons</set>
@@ -2125,7 +2125,7 @@
 	</element>
 	<element name="Uncommon MH Tonfas" type="Magic Item" source="Amellwind's Guide to Monster Hunting" id="ID_MH_WEAPON_TONFAS_1">
 		<description>
-			<p>The Tonfa is made up of two light, swift poles with a propulsion system. Due to this, hunters can easily evade while the weapon is drawn and even propel themselves from the ground.</p>
+			<div element="ID_WEAPON_PROPERTY_MH_TONFAS" />
 			<p>You gain a +1 bonus on attacks and damage rolls.</p>
 			<p class="indent"><strong><em>Dragon Spirit.</em></strong> When you attack a hostile creature with this weapon, you gain 1 spirit (maximum of 5). You lose all spirit, if you don't attack a target by the end of your next turn.</p>
 			<p class="indent">You can expend spirit on the following weapon properties:</p>
@@ -2148,7 +2148,7 @@
 	</element>
 	<element name="Rare MH Tonfas" type="Magic Item" source="Amellwind's Guide to Monster Hunting" id="ID_MH_WEAPON_TONFAS_2">
 		<description>
-			<p>The Tonfa is made up of two light, swift poles with a propulsion system. Due to this, hunters can easily evade while the weapon is drawn and even propel themselves from the ground.</p>
+			<div element="ID_WEAPON_PROPERTY_MH_TONFAS" />
 			<p>You gain a +1 bonus on attacks and damage rolls; and +1 AC while wielding both tonfas.</p>
 			<p class="indent"><strong><em>Dragon Spirit.</em></strong> When you attack a hostile creature with this weapon, you gain 1 spirit (maximum of 6). You lose all spirit, if you don't attack a target by the end of your next turn.</p>
 			<p class="indent">You can expend spirit on the following weapon properties:</p>
@@ -2175,7 +2175,7 @@
 	</element>
 	<element name="Very Rare MH Tonfas" type="Magic Item" source="Amellwind's Guide to Monster Hunting" id="ID_MH_WEAPON_TONFAS_3">
 		<description>
-			<p>The Tonfa is made up of two light, swift poles with a propulsion system. Due to this, hunters can easily evade while the weapon is drawn and even propel themselves from the ground.</p>
+			<div element="ID_WEAPON_PROPERTY_MH_TONFAS" />
 			<p>You gain a +2 bonus on attacks and damage rolls; and +1 AC while wielding both tonfas.</p>
 			<p class="indent"><strong><em>Dragon Spirit.</em></strong> When you attack a hostile creature with this weapon, you gain 1 spirit (maximum of 7). You lose all spirit, if you don't attack a target by the end of your next turn.</p>
 			<p class="indent">You can expend spirit on the following weapon properties:</p>
@@ -2203,7 +2203,7 @@
 	</element>
 	<element name="Legendary MH Tonfas" type="Magic Item" source="Amellwind's Guide to Monster Hunting" id="ID_MH_WEAPON_TONFAS_4">
 		<description>
-			<p>The Tonfa is made up of two light, swift poles with a propulsion system. Due to this, hunters can easily evade while the weapon is drawn and even propel themselves from the ground.</p>
+			<div element="ID_WEAPON_PROPERTY_MH_TONFAS" />
 			<p>You gain a +2 bonus on attacks and damage rolls; and +2 AC while wielding both tonfas.</p>
 			<p class="indent"><strong><em>Dragon Spirit.</em></strong> When you attack a hostile creature with this weapon, you gain 1 spirit (maximum of 7). You lose all spirit, if you don't attack a target by the end of your next turn.</p>
 			<p class="indent">You can expend spirit on the following weapon properties:</p>
@@ -2234,7 +2234,7 @@
 	<element name="MH Wyvern Boomerang" type="Weapon" source="Amellwind's Guide to Monster Hunting" id="ID_MH_WEAPON_WYVERN_BOOMERANG_0">
 		<supports>ID_WEAPON_PROPERTY_MH_WYVERN_BOOMERANG, ID_INTERNAL_WEAPON_PROPERTY_HEAVY, ID_INTERNAL_WEAPON_PROPERTY_TWOHANDED, ID_INTERNAL_WEAPON_PROPERTY_THROWN</supports>
 		<description>
-			<p>Its a giant fucking boomerang you need power gauntlets to wield.</p>
+			<div element="ID_WEAPON_PROPERTY_MH_WYVERN_BOOMERANG" />
 			<p class="indent"><strong><em>Weapon of Returning.</em></strong> When you throw the wyvern boomerang and hit a target with it, it returns to you immediately. If you miss an attack when you throw the wyvern boomerang, it doesn't return until the end of your turn.</p>
 			<p class="indent"><strong><em>Power Gauntlets.</em></strong> To wield the wyvern boomerang you don a pair of power gauntlets. While wearing these gauntlets, your unarmed strikes use a d4 for damage.</p>
 		</description>
@@ -2250,7 +2250,7 @@
 	</element>
 	<element name="Uncommon MH Wyvern Boomerang" type="Magic Item" source="Amellwind's Guide to Monster Hunting" id="ID_MH_WEAPON_WYVERN_BOOMERANG_1">
 		<description>
-			<p>Its a giant fucking boomerang you need power gauntlets to wield.</p>
+			<div element="ID_WEAPON_PROPERTY_MH_WYVERN_BOOMERANG" />
 			<p class="indent"><strong><em>Weapon of Returning.</em></strong> When you throw the wyvern boomerang and hit a target with it, it returns to you immediately. If you miss an attack when you throw the wyvern boomerang, it doesn't return until the end of your turn.</p>
 			<p class="indent"><strong><em>Power Gauntlets.</em></strong> To wield the wyvern boomerang you don a pair of power gauntlets. While wearing these gauntlets, your unarmed strikes use a d4 for damage.</p>
 			<p class="indent"><strong><em>Boomerang Jump.</em></strong> While holding your wyvern boomerang, your high jump distance is equal to your long jump's distance.</p>
@@ -2270,7 +2270,7 @@
 	</element>
 	<element name="Rare MH Wyvern Boomerang" type="Magic Item" source="Amellwind's Guide to Monster Hunting" id="ID_MH_WEAPON_WYVERN_BOOMERANG_2">
 		<description>
-			<p>Its a giant fucking boomerang you need power gauntlets to wield.</p>
+			<div element="ID_WEAPON_PROPERTY_MH_WYVERN_BOOMERANG" />
 			<p>You gain a +1 bonus on attacks and damage rolls.</p>
 			<p class="indent"><strong><em>Weapon of Returning.</em></strong> When you throw the wyvern boomerang and hit a target with it, it returns to you immediately. If you miss an attack when you throw the wyvern boomerang, it doesn't return until the end of your turn.</p>
 			<p class="indent"><strong><em>Power Gauntlets.</em></strong> To wield the wyvern boomerang you don a pair of power gauntlets. While wearing these gauntlets, your unarmed strikes use a d4 for damage.</p>
@@ -2295,7 +2295,7 @@
 	</element>
 	<element name="Very Rare MH Wyvern Boomerang" type="Magic Item" source="Amellwind's Guide to Monster Hunting" id="ID_MH_WEAPON_WYVERN_BOOMERANG_3">
 		<description>
-			<p>Its a giant fucking boomerang you need power gauntlets to wield.</p>
+			<div element="ID_WEAPON_PROPERTY_MH_WYVERN_BOOMERANG" />
 			<p>You gain a +2 bonus on attacks and damage rolls.</p>
 			<p class="indent"><strong><em>Weapon of Returning.</em></strong> When you throw the wyvern boomerang and hit a target with it, it returns to you immediately. If you miss an attack when you throw the wyvern boomerang, it doesn't return until the end of your turn.</p>
 			<p class="indent"><strong><em>Power Gauntlets.</em></strong> To wield the wyvern boomerang you don a pair of power gauntlets. While wearing these gauntlets, your unarmed strikes use a d6 for damage.</p>
@@ -2322,7 +2322,7 @@
 	</element>
 	<element name="Legendary MH Wyvern Boomerang" type="Magic Item" source="Amellwind's Guide to Monster Hunting" id="ID_MH_WEAPON_WYVERN_BOOMERANG_4">
 		<description>
-			<p>Its a giant fucking boomerang you need power gauntlets to wield.</p>
+			<div element="ID_WEAPON_PROPERTY_MH_WYVERN_BOOMERANG" />
 			<p>You gain a +3 bonus on attacks and damage rolls.</p>
 			<p class="indent"><strong><em>Weapon of Returning.</em></strong> When you throw the wyvern boomerang and hit a target with it, it returns to you immediately. If you miss an attack when you throw the wyvern boomerang, it doesn't return until the end of your turn.</p>
 			<p class="indent"><strong><em>Power Gauntlets.</em></strong> To wield the wyvern boomerang you don a pair of power gauntlets. While wearing these gauntlets, your unarmed strikes use a d6 for damage.</p>
@@ -2352,7 +2352,7 @@
 	<element name="MH Bow" type="Weapon" source="Amellwind's Guide to Monster Hunting" id="ID_MH_WEAPON_BOW_0">
 		<supports>ID_WEAPON_PROPERTY_MH_BOW, ID_INTERNAL_WEAPON_PROPERTY_AMMUNITION, ID_INTERNAL_WEAPON_PROPERTY_TWOHANDED</supports>
 		<description>
-			<p>The bow is a mid-range weapon that can perform a variety of attacks. While simple to use, its mastery requires a detailed knowledge of the best combinations of arrows and coatings.</p>
+			<div element="ID_WEAPON_PROPERTY_MH_BOW" />
 		</description>
 		<setters>
 			<set name="category">Weapons</set>
@@ -2366,7 +2366,7 @@
 	</element>
 	<element name="Uncommon MH Bow" type="Magic Item" source="Amellwind's Guide to Monster Hunting" id="ID_MH_WEAPON_BOW_1">
 		<description>
-			<p>The bow is a mid-range weapon that can perform a variety of attacks. While simple to use, its mastery requires a detailed knowledge of the best combinations of arrows and coatings.</p>
+			<div element="ID_WEAPON_PROPERTY_MH_BOW" />
 			<p>You gain a +1 bonus on attacks and damage rolls.</p>
 			<p class="indent"><strong><em>Coating.</em></strong> As a bonus action, you can coat up to 10 arrows in a special oil to add an effect to your arrows.</p>
 			<p class="indent">The oil lasts for 10 minutes before evaporating.</p>
@@ -2390,7 +2390,7 @@
 	</element>
 	<element name="Rare MH Bow" type="Magic Item" source="Amellwind's Guide to Monster Hunting" id="ID_MH_WEAPON_BOW_2">
 		<description>
-			<p>The bow is a mid-range weapon that can perform a variety of attacks. While simple to use, its mastery requires a detailed knowledge of the best combinations of arrows and coatings.</p>
+			<div element="ID_WEAPON_PROPERTY_MH_BOW" />
 			<p>You gain a +1 bonus on attacks and damage rolls.</p>
 			<p class="indent"><strong><em>Coating.</em></strong> As a bonus action, you can coat up to 10 arrows in a special oil to add an effect to your arrows.</p>
 			<p class="indent">The oil lasts for 10 minutes before evaporating.</p>
@@ -2417,7 +2417,7 @@
 	</element>
 	<element name="Very Rare MH Bow" type="Magic Item" source="Amellwind's Guide to Monster Hunting" id="ID_MH_WEAPON_BOW_3">
 		<description>
-			<p>The bow is a mid-range weapon that can perform a variety of attacks. While simple to use, its mastery requires a detailed knowledge of the best combinations of arrows and coatings.</p>
+			<div element="ID_WEAPON_PROPERTY_MH_BOW" />
 			<p>You gain a +2 bonus on attacks and damage rolls.</p>
 			<p class="indent"><strong><em>Coating.</em></strong> As a bonus action, you can coat up to 10 arrows in a special oil to add an effect to your arrows.</p>
 			<p class="indent">The oil lasts for 10 minutes before evaporating.</p>
@@ -2446,7 +2446,7 @@
 	</element>
 	<element name="Legendary MH Bow" type="Magic Item" source="Amellwind's Guide to Monster Hunting" id="ID_MH_WEAPON_BOW_4">
 		<description>
-			<p>The bow is a mid-range weapon that can perform a variety of attacks. While simple to use, its mastery requires a detailed knowledge of the best combinations of arrows and coatings.</p>
+			<div element="ID_WEAPON_PROPERTY_MH_BOW" />
 			<p>You gain a +3 bonus on attacks and damage rolls.</p>
 			<p class="indent"><strong><em>Coating.</em></strong> As a bonus action, you can coat up to 10 arrows in a special oil to add an effect to your arrows.</p>
 			<p class="indent">The oil lasts for 10 minutes before evaporating.</p>
@@ -2479,7 +2479,7 @@
 	<element name="MH Dual Repeaters" type="Weapon" source="Amellwind's Guide to Monster Hunting" id="ID_MH_WEAPON_DUAL_REPEATERS_0">
 		<supports>ID_WEAPON_PROPERTY_MH_DUAL_REPEATERS, ID_INTERNAL_WEAPON_PROPERTY_AMMUNITION, ID_INTERNAL_WEAPON_PROPERTY_FINESSE, ID_INTERNAL_WEAPON_PROPERTY_LOADING, ID_INTERNAL_WEAPON_PROPERTY_LIGHT, ID_INTERNAL_WEAPON_PROPERTY_SPECIAL</supports>
 		<description>
-			<p>A fully-ranged option for the fleet of foot. Dance the line between close and long range as you dish out damage, buffs, and traps. There is a fair amount of damage falloff as you move farther away from behemoths. The closer you are, the more damage you do.</p>
+			<div element="ID_WEAPON_PROPERTY_MH_DUAL_REPEATERS" />
 			<p class="indent"><strong><em>Ammo.</em></strong> Your ammo is stored in an ammo pouch that weighs 10 lbs. The pouch can hold a certain amount of each type of ammo as shown in the Vendor table below. All ammo deal normal weapon damage unless otherwise specified.</p>
 			<p class="indent">Some of your ammo require your target to make a saving throw to resist the ammo's effects. The saving throw DC is calculated as follows:Ammo save DC = 8 + your proficiency bonus + your Dexterity modifier or your Strength Modifier.</p>
 			<p class="indent"><strong><em>Chamber.</em></strong> Each repeater has a chamber that can hold up to 6 rounds of ammo. When you reload these weapons, you can load up to 6 of one ammo type into each repeater. The ammo you put in each repeater can be different from the other. Once all six rounds have been fired from a repeater, you must reload as a bonus action before before being able to attack with it again.</p>
@@ -2503,7 +2503,7 @@
 	</element>
 	<element name="Uncommon MH Dual Repeaters" type="Magic Item" source="Amellwind's Guide to Monster Hunting" id="ID_MH_WEAPON_DUAL_REPEATERS_1">
 		<description>
-			<p>A fully-ranged option for the fleet of foot. Dance the line between close and long range as you dish out damage, buffs, and traps. There is a fair amount of damage falloff as you move farther away from behemoths. The closer you are, the more damage you do.</p>
+			<div element="ID_WEAPON_PROPERTY_MH_DUAL_REPEATERS" />
 			<p>You gain a +1 bonus on attacks and damage rolls.</p>
 			<p class="indent"><strong><em>Ammo.</em></strong> Your ammo is stored in an ammo pouch that weighs 10 lbs. The pouch can hold a certain amount of each type of ammo as shown in the Vendor table below. All ammo deal normal weapon damage unless otherwise specified.</p>
 			<p class="indent">Some of your ammo require your target to make a saving throw to resist the ammo's effects. The saving throw DC is calculated as follows:Ammo save DC = 8 + your proficiency bonus + your Dexterity modifier or your Strength Modifier.</p>
@@ -2535,7 +2535,7 @@
 	</element>
 	<element name="Rare MH Dual Repeaters" type="Magic Item" source="Amellwind's Guide to Monster Hunting" id="ID_MH_WEAPON_DUAL_REPEATERS_2">
 		<description>
-			<p>A fully-ranged option for the fleet of foot. Dance the line between close and long range as you dish out damage, buffs, and traps. There is a fair amount of damage falloff as you move farther away from behemoths. The closer you are, the more damage you do.</p>
+			<div element="ID_WEAPON_PROPERTY_MH_DUAL_REPEATERS" />
 			<p>You gain a +2 bonus on attacks and damage rolls.</p>
 			<p class="indent"><strong><em>Ammo.</em></strong> Your ammo is stored in an ammo pouch that weighs 10 lbs. The pouch can hold a certain amount of each type of ammo as shown in the Vendor table below. All ammo deal normal weapon damage unless otherwise specified.</p>
 			<p class="indent">Some of your ammo require your target to make a saving throw to resist the ammo's effects. The saving throw DC is calculated as follows:Ammo save DC = 8 + your proficiency bonus + your Dexterity modifier or your Strength Modifier.</p>
@@ -2580,7 +2580,7 @@
 	</element>
 	<element name="Very Rare MH Dual Repeaters" type="Magic Item" source="Amellwind's Guide to Monster Hunting" id="ID_MH_WEAPON_DUAL_REPEATERS_3">
 		<description>
-			<p>A fully-ranged option for the fleet of foot. Dance the line between close and long range as you dish out damage, buffs, and traps. There is a fair amount of damage falloff as you move farther away from behemoths. The closer you are, the more damage you do.</p>
+			<div element="ID_WEAPON_PROPERTY_MH_DUAL_REPEATERS" />
 			<p>You gain a +2 bonus on attacks and damage rolls.</p>
 			<p class="indent"><strong><em>Ammo.</em></strong> Your ammo is stored in an ammo pouch that weighs 10 lbs. The pouch can hold a certain amount of each type of ammo as shown in the Vendor table below. All ammo deal normal weapon damage unless otherwise specified.</p>
 			<p class="indent">Some of your ammo require your target to make a saving throw to resist the ammo's effects. The saving throw DC is calculated as follows:Ammo save DC = 8 + your proficiency bonus + your Dexterity modifier or your Strength Modifier.</p>
@@ -2636,7 +2636,7 @@
 	</element>
 	<element name="Legendary MH Dual Repeaters" type="Magic Item" source="Amellwind's Guide to Monster Hunting" id="ID_MH_WEAPON_DUAL_REPEATERS_4">
 		<description>
-			<p>A fully-ranged option for the fleet of foot. Dance the line between close and long range as you dish out damage, buffs, and traps. There is a fair amount of damage falloff as you move farther away from behemoths. The closer you are, the more damage you do.</p>
+			<div element="ID_WEAPON_PROPERTY_MH_DUAL_REPEATERS" />
 			<p>You gain a +3 bonus on attacks and damage rolls.</p>
 			<p class="indent"><strong><em>Ammo.</em></strong> Your ammo is stored in an ammo pouch that weighs 10 lbs. The pouch can hold a certain amount of each type of ammo as shown in the Vendor table below. All ammo deal normal weapon damage unless otherwise specified.</p>
 			<p class="indent">Some of your ammo require your target to make a saving throw to resist the ammo's effects. The saving throw DC is calculated as follows:Ammo save DC = 8 + your proficiency bonus + your Dexterity modifier or your Strength Modifier.</p>
@@ -2698,7 +2698,7 @@
 	<element name="MH Heavy Bowgun" type="Weapon" source="Amellwind's Guide to Monster Hunting" id="ID_MH_WEAPON_HEAVY_BOWGUN_0">
 		<supports>ID_WEAPON_PROPERTY_MH_HEAVY_BOWGUN, ID_INTERNAL_WEAPON_PROPERTY_AMMUNITION, ID_INTERNAL_WEAPON_PROPERTY_HEAVY, ID_INTERNAL_WEAPON_PROPERTY_LOADING, ID_INTERNAL_WEAPON_PROPERTY_TWOHANDED</supports>
 		<description>
-			<p>The Heavy Bowgun is the artillery of ranged weapons. It specializes in high damage rounds at a range. While it does not have the same special effects of the Light Bowgun, the Heavy Bowgun dishes out damage more reliably.</p>
+			<div element="ID_WEAPON_PROPERTY_MH_HEAVY_BOWGUN" />
 			<p class="indent"><strong><em>Ammo.</em></strong> Your ammo is stored in an ammo pouch that weighs 10 lbs. The pouch can hold a certain amount of each type of ammo as shown in the Vendor table below. All ammo deal normal weapon damage unless otherwise specified. Some of your ammo require your target to make a saving throw to resist the ammo's effects.</p>
 			<p class="indent">The saving throw DC is calculated as follows: Ammo save DC = 8 + your proficiency bonus + your Dexterity modifier</p>
 			<p class="indent"><strong><em>Loading.</em></strong> As a bonus action you switch the ammo your bowgun is using with another. This replaces the standard 5e loading property.</p>
@@ -2720,7 +2720,7 @@
 	</element>
 	<element name="Uncommon MH Heavy Bowgun" type="Magic Item" source="Amellwind's Guide to Monster Hunting" id="ID_MH_WEAPON_HEAVY_BOWGUN_1">
 		<description>
-			<p>The Heavy Bowgun is the artillery of ranged weapons. It specializes in high damage rounds at a range. While it does not have the same special effects of the Light Bowgun, the Heavy Bowgun dishes out damage more reliably.</p>
+			<div element="ID_WEAPON_PROPERTY_MH_HEAVY_BOWGUN" />
 			<p class="indent"><strong><em>Ammo.</em></strong> Your ammo is stored in an ammo pouch that weighs 10 lbs. The pouch can hold a certain amount of each type of ammo as shown in the Vendor table below. All ammo deal normal weapon damage unless otherwise specified. Some of your ammo require your target to make a saving throw to resist the ammo's effects.</p>
 			<p class="indent">The saving throw DC is calculated as follows: Ammo save DC = 8 + your proficiency bonus + your Dexterity modifier</p>
 			<p class="indent"><strong><em>Loading.</em></strong> As a bonus action you switch the ammo your bowgun is using with another. This replaces the standard 5e loading property.</p>
@@ -2745,7 +2745,7 @@
 	</element>
 	<element name="Rare MH Heavy Bowgun" type="Magic Item" source="Amellwind's Guide to Monster Hunting" id="ID_MH_WEAPON_HEAVY_BOWGUN_2">
 		<description>
-			<p>The Heavy Bowgun is the artillery of ranged weapons. It specializes in high damage rounds at a range. While it does not have the same special effects of the Light Bowgun, the Heavy Bowgun dishes out damage more reliably.</p>
+			<div element="ID_WEAPON_PROPERTY_MH_HEAVY_BOWGUN" />
 			<p>You gain a +1 bonus on attacks and damage rolls.</p>
 			<p class="indent"><strong><em>Ammo.</em></strong> Your ammo is stored in an ammo pouch that weighs 10 lbs. The pouch can hold a certain amount of each type of ammo as shown in the Vendor table below. All ammo deal normal weapon damage unless otherwise specified. Some of your ammo require your target to make a saving throw to resist the ammo's effects.</p>
 			<p class="indent">The saving throw DC is calculated as follows: Ammo save DC = 8 + your proficiency bonus + your Dexterity modifier</p>
@@ -2775,7 +2775,7 @@
 	</element>
 	<element name="Very Rare MH Heavy Bowgun" type="Magic Item" source="Amellwind's Guide to Monster Hunting" id="ID_MH_WEAPON_HEAVY_BOWGUN_3">
 		<description>
-			<p>The Heavy Bowgun is the artillery of ranged weapons. It specializes in high damage rounds at a range. While it does not have the same special effects of the Light Bowgun, the Heavy Bowgun dishes out damage more reliably.</p>
+			<div element="ID_WEAPON_PROPERTY_MH_HEAVY_BOWGUN" />
 			<p>You gain a +1 bonus on attacks and damage rolls.</p>
 			<p class="indent"><strong><em>Ammo.</em></strong> Your ammo is stored in an ammo pouch that weighs 10 lbs. The pouch can hold a certain amount of each type of ammo as shown in the Vendor table below. All ammo deal normal weapon damage unless otherwise specified. Some of your ammo require your target to make a saving throw to resist the ammo's effects.</p>
 			<p class="indent">The saving throw DC is calculated as follows: Ammo save DC = 8 + your proficiency bonus + your Dexterity modifier</p>
@@ -2807,7 +2807,7 @@
 	</element>
 	<element name="Legendary MH Heavy Bowgun" type="Magic Item" source="Amellwind's Guide to Monster Hunting" id="ID_MH_WEAPON_HEAVY_BOWGUN_4">
 		<description>
-			<p>The Heavy Bowgun is the artillery of ranged weapons. It specializes in high damage rounds at a range. While it does not have the same special effects of the Light Bowgun, the Heavy Bowgun dishes out damage more reliably.</p>
+			<div element="ID_WEAPON_PROPERTY_MH_HEAVY_BOWGUN" />
 			<p>You gain a +2 bonus on attacks and damage rolls.</p>
 			<p class="indent"><strong><em>Ammo.</em></strong> Your ammo is stored in an ammo pouch that weighs 10 lbs. The pouch can hold a certain amount of each type of ammo as shown in the Vendor table below. All ammo deal normal weapon damage unless otherwise specified. Some of your ammo require your target to make a saving throw to resist the ammo's effects.</p>
 			<p class="indent">The saving throw DC is calculated as follows: Ammo save DC = 8 + your proficiency bonus + your Dexterity modifier</p>
@@ -2844,7 +2844,7 @@
 	<element name="MH Light Bowgun" type="Weapon" source="Amellwind's Guide to Monster Hunting" id="ID_MH_WEAPON_LIGHT_BOWGUN_0">
 		<supports>ID_WEAPON_PROPERTY_MH_LIGHT_BOWGUN, ID_INTERNAL_WEAPON_PROPERTY_AMMUNITION,  ID_INTERNAL_WEAPON_PROPERTY_LOADING, ID_INTERNAL_WEAPON_PROPERTY_TWOHANDED</supports>
 		<description>
-			<p>The Light Bowgun is the smallest ranged weapon. It boasts the highest fire rate of the ranged weapons. It also specializes in supporting ammo, such as poison, paralysis and recovery, meaning it can reliably inflict a variety of status effects on the monster while still dealing damage.</p>
+			<div element="ID_WEAPON_PROPERTY_MH_LIGHT_BOWGUN" />
 			<p class="indent"><strong><em>Rapid Fire.</em></strong> Whenever you make an attack as part of the Attack action with the light bowgun, you make two attacks instead of one.</p>
 			<p class="indent"><strong><em>Overheat.</em></strong> When you hit a creature with this weapon, the next attack you make with it only deals a maximum of 1d4 damage, in addition to any other effects from the ammo used for the attack. This attack does not gain any extra damage from any other source, including ability score modifiers, bonus elemental damage, the sharpshooter feat, hunter’s mark and spells like it, other spell effects, etc. After making this attack, this property resets. Examples of Four Attacks per Turn:</p>
 			<p>Hit (1d4+extra damage) | Hit (1d4) | Hit (1d4+extra damage) | Hit (1d4)</p>
@@ -2871,7 +2871,7 @@
 	</element>
 	<element name="Uncommon MH Light Bowgun" type="Magic Item" source="Amellwind's Guide to Monster Hunting" id="ID_MH_WEAPON_LIGHT_BOWGUN_1">
 		<description>
-			<p>The Light Bowgun is the smallest ranged weapon. It boasts the highest fire rate of the ranged weapons. It also specializes in supporting ammo, such as poison, paralysis and recovery, meaning it can reliably inflict a variety of status effects on the monster while still dealing damage.</p>
+			<div element="ID_WEAPON_PROPERTY_MH_LIGHT_BOWGUN" />
 			<p class="indent"><strong><em>Rapid Fire.</em></strong> Whenever you make an attack as part of the Attack action with the light bowgun, you make two attacks instead of one.</p>
 			<p class="indent"><strong><em>Overheat.</em></strong> When you hit a creature with this weapon, the next attack you make with it only deals a maximum of 1d4 damage, in addition to any other effects from the ammo used for the attack. This attack does not gain any extra damage from any other source, including ability score modifiers, bonus elemental damage, the sharpshooter feat, hunter’s mark and spells like it, other spell effects, etc. After making this attack, this property resets. Examples of Four Attacks per Turn:</p>
 			<p>Hit (1d4+extra damage) | Hit (1d4) | Hit (1d4+extra damage) | Hit (1d4)</p>
@@ -2901,7 +2901,7 @@
 	</element>
 	<element name="Rare MH Light Bowgun" type="Magic Item" source="Amellwind's Guide to Monster Hunting" id="ID_MH_WEAPON_LIGHT_BOWGUN_2">
 		<description>
-			<p>The Light Bowgun is the smallest ranged weapon. It boasts the highest fire rate of the ranged weapons. It also specializes in supporting ammo, such as poison, paralysis and recovery, meaning it can reliably inflict a variety of status effects on the monster while still dealing damage.</p>
+			<div element="ID_WEAPON_PROPERTY_MH_LIGHT_BOWGUN" />
 			<p>You gain a +1 bonus on attacks and damage rolls.</p>
 			<p class="indent"><strong><em>Rapid Fire.</em></strong> Whenever you make an attack as part of the Attack action with the light bowgun, you make two attacks instead of one.</p>
 			<p class="indent"><strong><em>Overheat.</em></strong> When you hit a creature with this weapon, the next attack you make with it only deals a maximum of 1d4 damage, in addition to any other effects from the ammo used for the attack. This attack does not gain any extra damage from any other source, including ability score modifiers, bonus elemental damage, the sharpshooter feat, hunter’s mark and spells like it, other spell effects, etc. After making this attack, this property resets. Examples of Four Attacks per Turn:</p>
@@ -2937,7 +2937,7 @@
 	</element>
 	<element name="Very Rare MH Light Bowgun" type="Magic Item" source="Amellwind's Guide to Monster Hunting" id="ID_MH_WEAPON_LIGHT_BOWGUN_3">
 		<description>
-			<p>The Light Bowgun is the smallest ranged weapon. It boasts the highest fire rate of the ranged weapons. It also specializes in supporting ammo, such as poison, paralysis and recovery, meaning it can reliably inflict a variety of status effects on the monster while still dealing damage.</p>
+			<div element="ID_WEAPON_PROPERTY_MH_LIGHT_BOWGUN" />
 			<p>You gain a +2 bonus on attacks and damage rolls.</p>
 			<p class="indent"><strong><em>Rapid Fire.</em></strong> Whenever you make an attack as part of the Attack action with the light bowgun, you make two attacks instead of one.</p>
 			<p class="indent"><strong><em>Overheat.</em></strong> When you hit a creature with this weapon, the next attack you make with it only deals a maximum of 1d4 damage, in addition to any other effects from the ammo used for the attack. This attack does not gain any extra damage from any other source, including ability score modifiers, bonus elemental damage, the sharpshooter feat, hunter’s mark and spells like it, other spell effects, etc. After making this attack, this property resets. Examples of Four Attacks per Turn:</p>
@@ -2977,7 +2977,7 @@
 	</element>
 	<element name="Legendary MH Light Bowgun" type="Magic Item" source="Amellwind's Guide to Monster Hunting" id="ID_MH_WEAPON_LIGHT_BOWGUN_4">
 		<description>
-			<p>The Light Bowgun is the smallest ranged weapon. It boasts the highest fire rate of the ranged weapons. It also specializes in supporting ammo, such as poison, paralysis and recovery, meaning it can reliably inflict a variety of status effects on the monster while still dealing damage.</p>
+			<div element="ID_WEAPON_PROPERTY_MH_LIGHT_BOWGUN" />
 			<p>You gain a +3 bonus on attacks and damage rolls.</p>
 			<p class="indent"><strong><em>Rapid Fire.</em></strong> Whenever you make an attack as part of the Attack action with the light bowgun, you make two attacks instead of one.</p>
 			<p class="indent"><strong><em>Overheat.</em></strong> When you hit a creature with this weapon, the next attack you make with it only deals a maximum of 1d4 damage, in addition to any other effects from the ammo used for the attack. This attack does not gain any extra damage from any other source, including ability score modifiers, bonus elemental damage, the sharpshooter feat, hunter’s mark and spells like it, other spell effects, etc. After making this attack, this property resets. Examples of Four Attacks per Turn:</p>
