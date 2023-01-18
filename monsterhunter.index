@@ -5,10 +5,10 @@
 		<description>Supplements from Amellwind to expand Dungeons &amp; Dragons with Monster Hunter inspired elements.</description>
 		<author url="https://www.patreon.com/amellwind">Amellwind</author>
 		<update version="0.0.1">
-			<file name="monsterhunter.index" url="https://github.com/mkitza/elements-monsterhunter/main/monsterhunter.index" />
+			<file name="monsterhunter.index" url="https://github.com/mkitza/elements-monsterhunter/develop/monsterhunter.index" />
 		</update>
 	</info>
 	<files>
-		<file name="guide-to-monster-hunting.index" url="https://github.com/mkitza/elements-monsterhunter/main/monster-hunter/guide-to-monster-hunting.index" />
+		<file name="guide-to-monster-hunting.index" url="https://github.com/mkitza/elements-monsterhunter/develop/monster-hunter/guide-to-monster-hunting.index" />
 	</files>
 </index>

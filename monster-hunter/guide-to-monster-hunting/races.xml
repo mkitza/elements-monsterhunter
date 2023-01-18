@@ -3,7 +3,7 @@
 	<info>
 		<name>Races</name>
 		<update version="0.0.1">
-			<file name="races.xml" url="https://github.com/mkitza/elements-monsterhunter/main/monster-hunter/guide-to-monster-hunting/races.xml" />
+			<file name="races.xml" url="https://github.com/mkitza/elements-monsterhunter/develop/monster-hunter/guide-to-monster-hunting/races.xml" />
 		</update>
 	</info>
 

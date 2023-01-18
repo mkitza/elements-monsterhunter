@@ -3,7 +3,7 @@
   <info>
     <name>Feats</name>
     <update version="0.0.1">
-      <file name="races.xml" url="https://github.com/mkitza/elements-monsterhunter/main/monster-hunter/guide-to-monster-hunting/feats.xml" />
+      <file name="races.xml" url="https://github.com/mkitza/elements-monsterhunter/develop/monster-hunter/guide-to-monster-hunting/feats.xml" />
     </update>
   </info>
   <element name="Armored Gunner" type="Feat" source="Amellwind's Guide to Monster Hunting" id="ID_MH_FEAT_ARMORED_GUNNER">

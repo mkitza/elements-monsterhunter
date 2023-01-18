@@ -4,7 +4,7 @@
 		<name>Monster Hunter Items</name>
 		<description>Additional items that are found within the Monster Hunter Universe.</description>
 		<update version="0.0.1">
-			<file name="items-gear.xml" url="https://github.com/mkitza/elements-monsterhunter/main/monster-hunter/guide-to-monster-hunting/items-gear.xml" />
+			<file name="items-gear.xml" url="https://github.com/mkitza/elements-monsterhunter/develop/monster-hunter/guide-to-monster-hunting/items-gear.xml" />
 		</update>
 	</info>
 

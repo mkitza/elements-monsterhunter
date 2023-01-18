@@ -4,7 +4,7 @@
 		<name>Monster Hunter Weapons</name>
 		<description>Standard DnD weapons do not exist in this world</description>
 		<update version="0.0.1">
-			<file name="items-weapons.xml" url="https://github.com/mkitza/elements-monsterhunter/main/monster-hunter/guide-to-monster-hunting/items-weapons.xml" />
+			<file name="items-weapons.xml" url="https://github.com/mkitza/elements-monsterhunter/develop/monster-hunter/guide-to-monster-hunting/items-weapons.xml" />
 		</update>
 	</info>
 

@@ -2,7 +2,7 @@
 <elements>
 	<info>
 		<update version="0.0.1">
-			<file name="sources.xml" url="https://github.com/mkitza/elements-monsterhunter/main/monster-hunter/guide-to-monster-hunting/source.xml" />
+			<file name="sources.xml" url="https://github.com/mkitza/elements-monsterhunter/develop/monster-hunter/guide-to-monster-hunting/source.xml" />
 		</update>
 	</info>
 	<element name="Amellwind's Guide to Monster Hunting" type="Source" source="Core" id="ID_SOURCE_GUIDE_TO_MONSTER_HUNTING">
