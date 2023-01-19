@@ -5,12 +5,14 @@
 		<description>The Guide to Monter Hunting is the essential reference for every Dungeons &amp; Dragons roleplayer who wants to have adventures in a Monster Hunter inspired world.</description>
 		<author url="https://www.patreon.com/amellwind">Amellwind</author>
 		<update version="0.0.1">
-			<file name="monster-manual.index" url="https://raw.githubusercontent.com/mkitza/elements-monsterhunter/develop/monster-hunter/guide-to-monster-hunting.index" />
+			<file name="guide-to-monster-hunting.index" url="https://raw.githubusercontent.com/mkitza/elements-monsterhunter/develop/monster-hunter/guide-to-monster-hunting.index" />
 		</update>
 	</info>
 	<files>
+		<file name="feats.xml" url="https://raw.githubusercontent.com/mkitza/elements-monsterhunter/develop/monster-hunter/guide-to-monster-hunting/feats.xml" />
 		<file name="source.xml" url="https://raw.githubusercontent.com/mkitza/elements-monsterhunter/develop/monster-hunter/guide-to-monster-hunting/source.xml" />
-		<file name="items-weapons.xml" url="https://raw.githubusercontent.com/mkitza/elements-monsterhunter/develop/monster-hunter/guide-to-monster-hunting/items-weapons.xml" />
+		<file name="items-weapons.xml" url="https://raw.githubusercontent.com/mkitza/elements-monsterhunter/develop/monster-hunter/guide-to-monster-hunting/items-gear.xml" />
+		<file name="items-gear.xml" url="https://raw.githubusercontent.com/mkitza/elements-monsterhunter/develop/monster-hunter/guide-to-monster-hunting/items-weapons.xml" />
 		<file name="races.xml" url="https://raw.githubusercontent.com/mkitza/elements-monsterhunter/develop/monster-hunter/guide-to-monster-hunting/races.xml" />
 	</files>
 </index>
