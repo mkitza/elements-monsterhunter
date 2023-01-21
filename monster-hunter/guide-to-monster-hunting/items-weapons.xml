@@ -2845,24 +2845,25 @@
 		<supports>ID_WEAPON_PROPERTY_MH_LIGHT_BOWGUN, ID_INTERNAL_WEAPON_PROPERTY_AMMUNITION,  ID_INTERNAL_WEAPON_PROPERTY_LOADING, ID_INTERNAL_WEAPON_PROPERTY_TWOHANDED</supports>
 		<description>
 			<div element="ID_WEAPON_PROPERTY_MH_LIGHT_BOWGUN" />
-			<p class="indent"><strong><em>Rapid Fire.</em></strong> Whenever you make an attack as part of the Attack action with the light bowgun, you make two attacks instead of one.</p>
-			<p class="indent"><strong><em>Overheat.</em></strong> When you hit a creature with this weapon, the next attack you make with it only deals a maximum of 1d4 damage, in addition to any other effects from the ammo used for the attack. This attack does not gain any extra damage from any other source, including ability score modifiers, bonus elemental damage, the sharpshooter feat, hunter’s mark and spells like it, other spell effects, etc. After making this attack, this property resets. Examples of Four Attacks per Turn:</p>
+			<p class="indent"><strong><em>Rapid Fire.</em></strong> Whenever you make an attack as part of the Attack action with the light bowgun, you make two attacks instead of one (defaulting to normal ammo if you run out of any other type when attacking).</p>
+			<p class="indent"><strong><em>Overheat.</em></strong> When you hit a creature with this weapon, the next attack you make with it only deals a maximum of 1d4 damage, in addition to any other effects from the ammo used for the attack. This attack does not gain any extra damage from any other source, including ability score modifiers, bonus elemental damage, the sharpshooter feat, hunter's mark and spells like it, other spell effects, etc. After making this attack, this property resets.</p>
+			<p class="indent"><strong><em>Examples of Four Attacks per Turn:</em></strong></p>
 			<p>Hit (1d4+extra damage) | Hit (1d4) | Hit (1d4+extra damage) | Hit (1d4)</p>
 			<p>Miss (0) | Hit (1d4+extra damage) | Hit (1d4) | Hit (1d4+extra damage)</p>
 			<p>Miss (0) | Hit (1d4+extra damage) | Miss (0) | Hit (1d4+extra damage)</p>
-			<p class="indent"><strong><em>Ammo.</em></strong> Your ammo is stored in an ammo pouch that weighs 10 lbs. The pouch can hold a certain amount of each type of ammo as shown in the Vendor table below. All ammo deal normal weapon damage unless otherwise specified. Some of your ammo require your target to make a saving throw to resist the ammo's effects.</p>
-			<p class="indent">The saving throw DC is calculated as follows: Ammo save DC = 8 + your proficiency bonus + your Dexterity modifier</p>
+			<p class="indent"><strong><em>Ammo.</em></strong> Your ammo is stored in an ammo pouch that weighs 10 lbs. The pouch can hold a certain amount of each type of ammo as shown in the Vendor table below. All ammo deal normal weapon damage unless otherwise specified. Some of your ammo require your target to make a saving throw to resist the ammo’s effects. The saving throw DC is calculated as follows:</p>
+			<p class="indent"><strong><em>Ammo save DC</em></strong>= 8 + your proficiency bonus + your Dexterity modifier</p>
 			<p class="indent"><strong><em>Loading.</em></strong> As a bonus action you switch the ammo your bowgun is using with another. This replaces the standard 5e loading property.</p>
 			<p><strong><em>Available Ammo:</em></strong></p>
 			<ul>
 				<li><strong><em>Normal Ammo.</em></strong> Deals normal weapon damage.</li>
-				<li><strong><em>Tranq Ammo.</em></strong> Acts as a tranq bomb with the repeater's range and weapon proficiency.</li>
+				<li><strong><em>Tranq Ammo.</em></strong> Acts as a tranq bomb with the bowgun's range and weapon proficiency..</li>
 			</ul>
 		</description>
 		<setters>
 			<set name="category">Weapons</set>
-			<set name="cost" currency="gp">50</set>
-			<set name="weight" lb="18">18 lb.</set>
+			<set name="cost" currency="gp">24</set>
+			<set name="weight" lb="5">5 lb.</set>
 			<set name="slot">twohand</set>
 			<set name="range">80/320</set>
 			<set name="damage" type="piercing">1d4</set>
@@ -2872,20 +2873,26 @@
 	<element name="Uncommon MH Light Bowgun" type="Magic Item" source="Amellwind's Guide to Monster Hunting" id="ID_MH_WEAPON_LIGHT_BOWGUN_1">
 		<description>
 			<div element="ID_WEAPON_PROPERTY_MH_LIGHT_BOWGUN" />
-			<p class="indent"><strong><em>Rapid Fire.</em></strong> Whenever you make an attack as part of the Attack action with the light bowgun, you make two attacks instead of one.</p>
-			<p class="indent"><strong><em>Overheat.</em></strong> When you hit a creature with this weapon, the next attack you make with it only deals a maximum of 1d4 damage, in addition to any other effects from the ammo used for the attack. This attack does not gain any extra damage from any other source, including ability score modifiers, bonus elemental damage, the sharpshooter feat, hunter’s mark and spells like it, other spell effects, etc. After making this attack, this property resets. Examples of Four Attacks per Turn:</p>
+			<p class="indent"><strong><em>Rapid Fire.</em></strong> Whenever you make an attack as part of the Attack action with the light bowgun, you make two attacks instead of one (defaulting to normal ammo if you run out of any other type when attacking).</p>
+			<p class="indent"><strong><em>Overheat.</em></strong> When you hit a creature with this weapon, the next attack you make with it only deals a maximum of 1d4 damage, in addition to any other effects from the ammo used for the attack. This attack does not gain any extra damage from any other source, including ability score modifiers, bonus elemental damage, the sharpshooter feat, hunter's mark and spells like it, other spell effects, etc. After making this attack, this property resets.</p>
+			<p class="indent"><strong><em>Examples of Four Attacks per Turn:</em></strong></p>
 			<p>Hit (1d4+extra damage) | Hit (1d4) | Hit (1d4+extra damage) | Hit (1d4)</p>
 			<p>Miss (0) | Hit (1d4+extra damage) | Hit (1d4) | Hit (1d4+extra damage)</p>
 			<p>Miss (0) | Hit (1d4+extra damage) | Miss (0) | Hit (1d4+extra damage)</p>
-			<p class="indent"><strong><em>Ammo.</em></strong> Your ammo is stored in an ammo pouch that weighs 10 lbs. The pouch can hold a certain amount of each type of ammo as shown in the Vendor table below. All ammo deal normal weapon damage unless otherwise specified. Some of your ammo require your target to make a saving throw to resist the ammo's effects.</p>
-			<p class="indent">The saving throw DC is calculated as follows: Ammo save DC = 8 + your proficiency bonus + your Dexterity modifier</p>
+			<p class="indent"><strong><em>Ammo.</em></strong> Your ammo is stored in an ammo pouch that weighs 10 lbs. The pouch can hold a certain amount of each type of ammo as shown in the Vendor table below. All ammo deal normal weapon damage unless otherwise specified. Some of your ammo require your target to make a saving throw to resist the ammo’s effects. The saving throw DC is calculated as follows:</p>
+			<p class="indent"><strong><em>Ammo save DC</em></strong>= 8 + your proficiency bonus + your Dexterity modifier</p>
 			<p class="indent"><strong><em>Loading.</em></strong> As a bonus action you switch the ammo your bowgun is using with another. This replaces the standard 5e loading property.</p>
 			<p><strong><em>Available Ammo:</em></strong></p>
 			<ul>
 				<li><strong><em>Normal Ammo.</em></strong> Deals normal weapon damage.</li>
-				<li><strong><em>Pierce Ammo</em></strong> You gain a +1 bonus to damage rolls.</li>
+				<li><strong><em>Flaming Ammo.</em></strong> Your attacks deal fire damage.</li>
+				<li><strong><em>Thunder Ammo.</em></strong> Your attacks deal thunder damage.</li>
+				<li><strong><em>Water Ammo.</em></strong> Your attacks deal acid damage.</li>
+				<li><strong><em>Pierce Ammo.</em></strong> You gain a +1 bonus to damage rolls.</li>
+				<li><strong><em>Spread Ammo.</em></strong> When you hit a creature with this ammo and it is within half your normal bowgun range, the damage dealt to the target is split evenly between it and each creature adjacent to it.</li>
+				<li><strong><em>Tranq Ammo.</em></strong> Acts as a tranq bomb with the bowgun's range and weapon proficiency..</li>
+				<li><strong><em>Poison Ammo.</em></strong> A creature hit by this ammo must succeed a Constitution saving throw or be poisoned for 1 minute. A poisoned target can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success.</li>
 				<li><strong><em>Recover lvl 1.</em></strong> Instead of taking damage, a creature hit by this ammo regains 1d4 hit points.</li>
-				<li><strong><em>Tranq Ammo.</em></strong> Acts as a tranq bomb with the repeater's range and weapon proficiency.</li>
 			</ul>
 		</description>
 		<setters>
@@ -2903,24 +2910,33 @@
 		<description>
 			<div element="ID_WEAPON_PROPERTY_MH_LIGHT_BOWGUN" />
 			<p>You gain a +1 bonus on attacks and damage rolls.</p>
-			<p class="indent"><strong><em>Rapid Fire.</em></strong> Whenever you make an attack as part of the Attack action with the light bowgun, you make two attacks instead of one.</p>
-			<p class="indent"><strong><em>Overheat.</em></strong> When you hit a creature with this weapon, the next attack you make with it only deals a maximum of 1d4 damage, in addition to any other effects from the ammo used for the attack. This attack does not gain any extra damage from any other source, including ability score modifiers, bonus elemental damage, the sharpshooter feat, hunter’s mark and spells like it, other spell effects, etc. After making this attack, this property resets. Examples of Four Attacks per Turn:</p>
+			<p class="indent"><strong><em>Rapid Fire.</em></strong> Whenever you make an attack as part of the Attack action with the light bowgun, you make two attacks instead of one (defaulting to normal ammo if you run out of any other type when attacking).</p>
+			<p class="indent"><strong><em>Capacity Increase.</em></strong> You double the base ammo capacity your ammo pouch can hold for all ammo</p>
+			<p class="indent"><strong><em>Overheat.</em></strong> When you hit a creature with this weapon, the next attack you make with it only deals a maximum of 1d4 damage, in addition to any other effects from the ammo used for the attack. This attack does not gain any extra damage from any other source, including ability score modifiers, bonus elemental damage, the sharpshooter feat, hunter's mark and spells like it, other spell effects, etc. After making this attack, this property resets.</p>
+			<p class="indent"><strong><em>Examples of Four Attacks per Turn:</em></strong></p>
 			<p>Hit (1d4+extra damage) | Hit (1d4) | Hit (1d4+extra damage) | Hit (1d4)</p>
 			<p>Miss (0) | Hit (1d4+extra damage) | Hit (1d4) | Hit (1d4+extra damage)</p>
 			<p>Miss (0) | Hit (1d4+extra damage) | Miss (0) | Hit (1d4+extra damage)</p>
-			<p class="indent"><strong><em>Ammo.</em></strong> Your ammo is stored in an ammo pouch that weighs 10 lbs. The pouch can hold a certain amount of each type of ammo as shown in the Vendor table below. All ammo deal normal weapon damage unless otherwise specified. Some of your ammo require your target to make a saving throw to resist the ammo's effects.</p>
-			<p class="indent">The saving throw DC is calculated as follows: Ammo save DC = 8 + your proficiency bonus + your Dexterity modifier</p>
+			<p class="indent"><strong><em>Ammo.</em></strong> Your ammo is stored in an ammo pouch that weighs 10 lbs. The pouch can hold a certain amount of each type of ammo as shown in the Vendor table below. All ammo deal normal weapon damage unless otherwise specified. Some of your ammo require your target to make a saving throw to resist the ammo’s effects. The saving throw DC is calculated as follows:</p>
+			<p class="indent"><strong><em>Ammo save DC</em></strong>= 8 + your proficiency bonus + your Dexterity modifier</p>
 			<p class="indent"><strong><em>Loading.</em></strong> As a bonus action you switch the ammo your bowgun is using with another. This replaces the standard 5e loading property.</p>
 			<p><strong><em>Available Ammo:</em></strong></p>
 			<ul>
-				<li><strong><em>Flaming Ammo.</em></strong> Your attacks deal fire damage.</li>
 				<li><strong><em>Normal Ammo.</em></strong> Deals normal weapon damage.</li>
-				<li><strong><em>Pierce Ammo</em></strong> You gain a +1 bonus to damage rolls.</li>
+				<li><strong><em>Flaming Ammo.</em></strong> Your attacks deal fire damage.</li>
+				<li><strong><em>Thunder Ammo.</em></strong> Your attacks deal thunder damage.</li>
+				<li><strong><em>Water Ammo.</em></strong> Your attacks deal acid damage.</li>
+				<li><strong><em>Dragon Ammo.</em></strong> Your attacks deal necrotic damage.</li>
+				<li><strong><em>Pierce Ammo.</em></strong> You gain a +1 bonus to damage rolls.</li>
+				<li><strong><em>Spread Ammo.</em></strong> When you hit a creature with this ammo and it is within half your normal bowgun range, the damage dealt to the target is split evenly between it and each creature adjacent to it.</li>
+				<li><strong><em>Tranq Ammo.</em></strong> Acts as a tranq bomb with the bowgun's range and weapon proficiency..</li>
 				<li><strong><em>Poison Ammo.</em></strong> A creature hit by this ammo must succeed a Constitution saving throw or be poisoned for 1 minute. A poisoned target can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success.</li>
 				<li><strong><em>Recover lvl 1.</em></strong> Instead of taking damage, a creature hit by this ammo regains 1d4 hit points.</li>
-				<li><strong><em>Spread Ammo.</em></strong> When you hit a creature with this ammo and it is within half your normal bowgun range, the damage dealt to the target is split evenly between it and each creature adjacent to it.</li>
-				<li><strong><em>Tranq Ammo.</em></strong> Acts as a tranq bomb with the repeater's range and weapon proficiency.</li>
-				<li><strong><em>Water Ammo.</em></strong> Your attacks deal cold damage.</li>
+				<li><strong><em>Armor Ammo.</em></strong> This ammo deals no damage, instead when you hit a creature with this ammo, that creature gains a +2 bonus to its AC for 1 minute. Hitting a creature with armor ammo again refreshes the duration.</li>
+				<li><strong><em>Demon Ammo.</em></strong> This ammo deals no damage, instead when you hit a creature with this ammo, that creature gains a +2 bonus to damage rolls for 1 minute. Hitting a creature with demon ammo again refreshes the duration.</li>
+				<li><strong><em>Paralysis Ammo.</em></strong> A creature hit by this ammo must succeed a Constitution saving throw or be incapacitated and have its movement speed reduced to 0 until the end of your next turn. If the creature fails the save by 5 or more, it is paralyzed instead until the end of your next turn.</li>
+				<li><strong><em>Sleep Ammo.</em></strong> This ammo deals no damage, if the target is below 50 hit points it falls unconscious for 1 minute, until it takes damage, or until someone uses an action to shake or slap it awake.</li>
+				<li><strong><em>Sticky Ammo.</em></strong> A creature hit by this ammo must succeed a Strength saving throw or be restrained for 1 minute, the creature can use their action to attempt to break free (Escape DC equal to your Ammo save DC).</li>
 			</ul>
 		</description>
 		<setters>
@@ -2939,28 +2955,34 @@
 		<description>
 			<div element="ID_WEAPON_PROPERTY_MH_LIGHT_BOWGUN" />
 			<p>You gain a +2 bonus on attacks and damage rolls.</p>
-			<p class="indent"><strong><em>Rapid Fire.</em></strong> Whenever you make an attack as part of the Attack action with the light bowgun, you make two attacks instead of one.</p>
-			<p class="indent"><strong><em>Overheat.</em></strong> When you hit a creature with this weapon, the next attack you make with it only deals a maximum of 1d4 damage, in addition to any other effects from the ammo used for the attack. This attack does not gain any extra damage from any other source, including ability score modifiers, bonus elemental damage, the sharpshooter feat, hunter’s mark and spells like it, other spell effects, etc. After making this attack, this property resets. Examples of Four Attacks per Turn:</p>
+			<p class="indent"><strong><em>Rapid Fire.</em></strong> Whenever you make an attack as part of the Attack action with the light bowgun, you make two attacks instead of one (defaulting to normal ammo if you run out of any other type when attacking).</p>
+			<p class="indent"><strong><em>Capacity Increase.</em></strong> You triple the base ammo capacity your ammo pouch can hold for all ammo</p>
+			<p class="indent"><strong><em>Overheat.</em></strong> When you hit a creature with this weapon, the next attack you make with it only deals a maximum of 1d4 damage, in addition to any other effects from the ammo used for the attack. This attack does not gain any extra damage from any other source, including ability score modifiers, bonus elemental damage, the sharpshooter feat, hunter's mark and spells like it, other spell effects, etc. After making this attack, this property resets.</p>
+			<p class="indent"><strong><em>Examples of Four Attacks per Turn:</em></strong></p>
 			<p>Hit (1d4+extra damage) | Hit (1d4) | Hit (1d4+extra damage) | Hit (1d4)</p>
 			<p>Miss (0) | Hit (1d4+extra damage) | Hit (1d4) | Hit (1d4+extra damage)</p>
 			<p>Miss (0) | Hit (1d4+extra damage) | Miss (0) | Hit (1d4+extra damage)</p>
-			<p class="indent"><strong><em>Ammo.</em></strong> Your ammo is stored in an ammo pouch that weighs 10 lbs. The pouch can hold a certain amount of each type of ammo as shown in the Vendor table below. All ammo deal normal weapon damage unless otherwise specified. Some of your ammo require your target to make a saving throw to resist the ammo's effects.</p>
-			<p class="indent">The saving throw DC is calculated as follows: Ammo save DC = 8 + your proficiency bonus + your Dexterity modifier</p>
+			<p class="indent"><strong><em>Ammo.</em></strong> Your ammo is stored in an ammo pouch that weighs 10 lbs. The pouch can hold a certain amount of each type of ammo as shown in the Vendor table below. All ammo deal normal weapon damage unless otherwise specified. Some of your ammo require your target to make a saving throw to resist the ammo’s effects. The saving throw DC is calculated as follows:</p>
+			<p class="indent"><strong><em>Ammo save DC</em></strong>= 8 + your proficiency bonus + your Dexterity modifier</p>
 			<p class="indent"><strong><em>Loading.</em></strong> As a bonus action you switch the ammo your bowgun is using with another. This replaces the standard 5e loading property.</p>
 			<p><strong><em>Available Ammo:</em></strong></p>
 			<ul>
+				<li><strong><em>Normal Ammo.</em></strong> Deals normal weapon damage.</li>
+				<li><strong><em>Flaming Ammo.</em></strong> Your attacks deal fire damage.</li>
+				<li><strong><em>Thunder Ammo.</em></strong> Your attacks deal thunder damage.</li>
+				<li><strong><em>Water Ammo.</em></strong> Your attacks deal acid damage.</li>
+				<li><strong><em>Dragon Ammo.</em></strong> Your attacks deal necrotic damage.</li>
+				<li><strong><em>Pierce Ammo.</em></strong> You gain a +1 bonus to damage rolls.</li>
+				<li><strong><em>Spread Ammo.</em></strong> When you hit a creature with this ammo and it is within half your normal bowgun range, the damage dealt to the target is split evenly between it and each creature adjacent to it.</li>
+				<li><strong><em>Tranq Ammo.</em></strong> Acts as a tranq bomb with the bowgun's range and weapon proficiency..</li>
+				<li><strong><em>Poison Ammo.</em></strong> A creature hit by this ammo must succeed a Constitution saving throw or be poisoned for 1 minute. A poisoned target can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success.</li>
+				<li><strong><em>Recover lvl 1.</em></strong> Instead of taking damage, a creature hit by this ammo regains 1d4 hit points.</li>
+				<li><strong><em>Recover lvl 2.</em></strong> Instead of taking damage, a creature hit by this ammo regains 1d6 hit points.</li>
 				<li><strong><em>Armor Ammo.</em></strong> This ammo deals no damage, instead when you hit a creature with this ammo, that creature gains a +2 bonus to its AC for 1 minute. Hitting a creature with armor ammo again refreshes the duration.</li>
 				<li><strong><em>Demon Ammo.</em></strong> This ammo deals no damage, instead when you hit a creature with this ammo, that creature gains a +2 bonus to damage rolls for 1 minute. Hitting a creature with demon ammo again refreshes the duration.</li>
-				<li><strong><em>Flaming Ammo.</em></strong> Your attacks deal fire damage.</li>
-				<li><strong><em>Normal Ammo.</em></strong> Deals normal weapon damage.</li>
-				<li><strong><em>Paralysis Ammo.</em></strong> A creature hit by this ammo must succeed a Constitution saving throw or be paralyzed until the end of your next turn. A creature that succeeds on its saving throw, is immune to ammo’s paralysis effect for 24 hours.</li>
-				<li><strong><em>Pierce Ammo</em></strong> You gain a +1 bonus to damage rolls.</li>
-				<li><strong><em>Poison Ammo.</em></strong> A creature hit by this ammo must succeed a Constitution saving throw or be poisoned for 1 minute. A poisoned target can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success.</li>
-				<li><strong><em>Recover lvl 2.</em></strong> Instead of taking damage, a creature hit by this ammo regains 1d6 hit points.</li>
-				<li><strong><em>Spread Ammo.</em></strong> When you hit a creature with this ammo and it is within half your normal bowgun range, the damage dealt to the target is split evenly between it and each creature adjacent to it.</li>
-				<li><strong><em>Thunder Ammo.</em></strong> Your attacks deal thunder damage.</li>
-				<li><strong><em>Tranq Ammo.</em></strong> Acts as a tranq bomb with the repeater's range and weapon proficiency.</li>
-				<li><strong><em>Water Ammo.</em></strong> Your attacks deal cold damage.</li>
+				<li><strong><em>Paralysis Ammo.</em></strong> A creature hit by this ammo must succeed a Constitution saving throw or be incapacitated and have its movement speed reduced to 0 until the end of your next turn. If the creature fails the save by 5 or more, it is paralyzed instead until the end of your next turn.</li>
+				<li><strong><em>Sleep Ammo.</em></strong> This ammo deals no damage, if the target is below 50 hit points it falls unconscious for 1 minute, until it takes damage, or until someone uses an action to shake or slap it awake.</li>
+				<li><strong><em>Sticky Ammo.</em></strong> A creature hit by this ammo must succeed a Strength saving throw or be restrained for 1 minute, the creature can use their action to attempt to break free (Escape DC equal to your Ammo save DC).</li>
 			</ul>
 		</description>
 		<setters>
@@ -2979,31 +3001,34 @@
 		<description>
 			<div element="ID_WEAPON_PROPERTY_MH_LIGHT_BOWGUN" />
 			<p>You gain a +3 bonus on attacks and damage rolls.</p>
-			<p class="indent"><strong><em>Rapid Fire.</em></strong> Whenever you make an attack as part of the Attack action with the light bowgun, you make two attacks instead of one.</p>
-			<p class="indent"><strong><em>Overheat.</em></strong> When you hit a creature with this weapon, the next attack you make with it only deals a maximum of 1d4 damage, in addition to any other effects from the ammo used for the attack. This attack does not gain any extra damage from any other source, including ability score modifiers, bonus elemental damage, the sharpshooter feat, hunter’s mark and spells like it, other spell effects, etc. After making this attack, this property resets. Examples of Four Attacks per Turn:</p>
+			<p class="indent"><strong><em>Rapid Fire.</em></strong> Whenever you make an attack as part of the Attack action with the light bowgun, you make two attacks instead of one (defaulting to normal ammo if you run out of any other type when attacking).</p>
+			<p class="indent"><strong><em>Capacity Increase.</em></strong> You quadruple the base ammo capacity your ammo pouch can hold for all ammo</p>
+			<p class="indent"><strong><em>Overheat.</em></strong> When you hit a creature with this weapon, the next attack you make with it only deals a maximum of 1d4 damage, in addition to any other effects from the ammo used for the attack. This attack does not gain any extra damage from any other source, including ability score modifiers, bonus elemental damage, the sharpshooter feat, hunter's mark and spells like it, other spell effects, etc. After making this attack, this property resets.</p>
+			<p class="indent"><strong><em>Examples of Four Attacks per Turn:</em></strong></p>
 			<p>Hit (1d4+extra damage) | Hit (1d4) | Hit (1d4+extra damage) | Hit (1d4)</p>
 			<p>Miss (0) | Hit (1d4+extra damage) | Hit (1d4) | Hit (1d4+extra damage)</p>
 			<p>Miss (0) | Hit (1d4+extra damage) | Miss (0) | Hit (1d4+extra damage)</p>
-			<p class="indent"><strong><em>Ammo.</em></strong> Your ammo is stored in an ammo pouch that weighs 10 lbs. The pouch can hold a certain amount of each type of ammo as shown in the Vendor table below. All ammo deal normal weapon damage unless otherwise specified. Some of your ammo require your target to make a saving throw to resist the ammo's effects.</p>
-			<p class="indent">The saving throw DC is calculated as follows: Ammo save DC = 8 + your proficiency bonus + your Dexterity modifier</p>
+			<p class="indent"><strong><em>Ammo.</em></strong> Your ammo is stored in an ammo pouch that weighs 10 lbs. The pouch can hold a certain amount of each type of ammo as shown in the Vendor table below. All ammo deal normal weapon damage unless otherwise specified. Some of your ammo require your target to make a saving throw to resist the ammo’s effects. The saving throw DC is calculated as follows:</p>
+			<p class="indent"><strong><em>Ammo save DC</em></strong>= 8 + your proficiency bonus + your Dexterity modifier</p>
 			<p class="indent"><strong><em>Loading.</em></strong> As a bonus action you switch the ammo your bowgun is using with another. This replaces the standard 5e loading property.</p>
 			<p><strong><em>Available Ammo:</em></strong></p>
 			<ul>
+				<li><strong><em>Normal Ammo.</em></strong> Deals normal weapon damage.</li>
+				<li><strong><em>Flaming Ammo.</em></strong> Your attacks deal fire damage.</li>
+				<li><strong><em>Thunder Ammo.</em></strong> Your attacks deal thunder damage.</li>
+				<li><strong><em>Water Ammo.</em></strong> Your attacks deal acid damage.</li>
+				<li><strong><em>Dragon Ammo.</em></strong> Your attacks deal necrotic damage.</li>
+				<li><strong><em>Pierce Ammo.</em></strong> You gain a +1 bonus to damage rolls.</li>
+				<li><strong><em>Spread Ammo.</em></strong> When you hit a creature with this ammo and it is within half your normal bowgun range, the damage dealt to the target is split evenly between it and each creature adjacent to it.</li>
+				<li><strong><em>Tranq Ammo.</em></strong> Acts as a tranq bomb with the bowgun's range and weapon proficiency..</li>
+				<li><strong><em>Poison Ammo.</em></strong> A creature hit by this ammo must succeed a Constitution saving throw or be poisoned for 1 minute. A poisoned target can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success.</li>
+				<li><strong><em>Recover lvl 1.</em></strong> Instead of taking damage, a creature hit by this ammo regains 1d4 hit points.</li>
+				<li><strong><em>Recover lvl 2.</em></strong> Instead of taking damage, a creature hit by this ammo regains 1d6 hit points.</li>
 				<li><strong><em>Armor Ammo.</em></strong> This ammo deals no damage, instead when you hit a creature with this ammo, that creature gains a +2 bonus to its AC for 1 minute. Hitting a creature with armor ammo again refreshes the duration.</li>
 				<li><strong><em>Demon Ammo.</em></strong> This ammo deals no damage, instead when you hit a creature with this ammo, that creature gains a +2 bonus to damage rolls for 1 minute. Hitting a creature with demon ammo again refreshes the duration.</li>
-				<li><strong><em>Dragon Ammo.</em></strong> Your attacks deal necrotic damage.</li>
-				<li><strong><em>Flaming Ammo.</em></strong> Your attacks deal fire damage.</li>
-				<li><strong><em>Normal Ammo.</em></strong> Deals normal weapon damage.</li>
-				<li><strong><em>Paralysis Ammo.</em></strong> A creature hit by this ammo must succeed a Constitution saving throw or be paralyzed until the end of your next turn. A creature that succeeds on its saving throw, is immune to ammo’s paralysis effect for 24 hours.</li>
-				<li><strong><em>Pierce Ammo</em></strong> You gain a +1 bonus to damage rolls.</li>
-				<li><strong><em>Poison Ammo.</em></strong> A creature hit by this ammo must succeed a Constitution saving throw or be poisoned for 1 minute. A poisoned target can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success.</li>
-				<li><strong><em>Recover lvl 2.</em></strong> Instead of taking damage, a creature hit by this ammo regains 1d6 hit points.</li>
+				<li><strong><em>Paralysis Ammo.</em></strong> A creature hit by this ammo must succeed a Constitution saving throw or be incapacitated and have its movement speed reduced to 0 until the end of your next turn. If the creature fails the save by 5 or more, it is paralyzed instead until the end of your next turn.</li>
 				<li><strong><em>Sleep Ammo.</em></strong> This ammo deals no damage, if the target is below 50 hit points it falls unconscious for 1 minute, until it takes damage, or until someone uses an action to shake or slap it awake.</li>
-				<li><strong><em>Spread Ammo.</em></strong> When you hit a creature with this ammo and it is within half your normal bowgun range, the damage dealt to the target is split evenly between it and each creature adjacent to it.</li>
-				<li><strong><em>Sticky Ammo.</em></strong> A creature hit by this ammo must succeed a Strength saving throw or be restrained for 1 minute, the creature can use their action to attempt to break free.</li>
-				<li><strong><em>Thunder Ammo.</em></strong> Your attacks deal thunder damage.</li>
-				<li><strong><em>Tranq Ammo.</em></strong> Acts as a tranq bomb with the repeater's range and weapon proficiency.</li>
-				<li><strong><em>Water Ammo.</em></strong> Your attacks deal cold damage.</li>
+				<li><strong><em>Sticky Ammo.</em></strong> A creature hit by this ammo must succeed a Strength saving throw or be restrained for 1 minute, the creature can use their action to attempt to break free (Escape DC equal to your Ammo save DC).</li>
 			</ul>
 		</description>
 		<setters>
