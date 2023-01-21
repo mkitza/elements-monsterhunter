@@ -347,9 +347,9 @@
 			<p>You gain a +1 bonus on attacks and damage rolls.</p>
 			<p class="indent"><strong><em>Accelerator Gauge.</em></strong> When you hit with this weapon, you gain 1 charge up to a maximum of 5. You lose all charges, if you are knocked unconscious or don't hit a target within 1 minute.</p>
 			<ul>
-				<li><strong><em>Accel Jump.</em></strong> When you jump, you can expend charges to increase your jump's height or distance by an extra 5 feet for each charge expended. If the weapon is very rare or higher, the distance height is increased by an additional 5 feet per charge.</li>
-				<li><strong><em>Burst Slash.</em></strong> As an action you can expend up to 5 charges to unleash an accelerated slash against a creature within 5 feet of you. That creature must make a Dexterity saving throw against a DC equal to 8 + your Proficiency Bonus + your Strength Modifier. On a failed save, the target takes #d4 slashing damage, where # is equal to the number of charges expended. On a successful save, the target takes half as much damage.</li>
-				<li><strong><em>Detonation Velocity.</em></strong> When you hit a creature with this weapon, you can expend any number of charges to increase your weapon's damage by +1 for each charge expended.</li>
+				<li>Accel Jump. When you jump, you can expend charges to increase your jump's height or distance by an extra 5 feet for each charge expended. If the weapon is very rare or higher, the distance height is increased by an additional 5 feet per charge.</li>
+				<li>Burst Slash. As an action you can expend up to 5 charges to unleash an accelerated slash against a creature within 5 feet of you. That creature must make a Dexterity saving throw against a DC equal to 8 + your Proficiency Bonus + your Strength Modifier. On a failed save, the target takes #d4 slashing damage, where # is equal to the number of charges expended. On a successful save, the target takes half as much damage.</li>
+				<li>Detonation Velocity. When you hit a creature with this weapon, you can expend any number of charges to increase your weapon's damage by +1 for each charge expended.</li>
 			</ul>
 		</description>
 		<setters>
@@ -370,11 +370,11 @@
 			<p>You gain a +2 bonus on attacks and damage rolls.</p>
 			<p class="indent"><strong><em>Accelerator Gauge.</em></strong> When you hit with this weapon, you gain 1 charge up to a maximum of 5. You lose all charges, if you are knocked unconscious or don't hit a target within 1 minute.</p>
 			<ul>
-				<li><strong><em>Accel Jump.</em></strong> When you jump, you can expend charges to increase your jump's height or distance by an extra 5 feet for each charge expended. If the weapon is very rare or higher, the distance height is increased by an additional 5 feet per charge.</li>
-				<li><strong><em>Burst Slash.</em></strong> As an action you can expend up to 5 charges to unleash an accelerated slash against a creature within 5 feet of you. That creature must make a Dexterity saving throw against a DC equal to 8 + your Proficiency Bonus + your Strength Modifier. On a failed save, the target takes #d6 slashing damage, where # is equal to the number of charges expended. On a successful save, the target takes half as much damage.</li>
-				<li><strong><em>Dash Burst.</em></strong> As a bonus action you can expend 1 charge to dash up to half of your movement speed. You can expend extra charges to move an additional 10 feet for each additional charge you expend.</li>
-				<li><strong><em>Detonation Velocity.</em></strong> When you hit a creature with this weapon, you can expend any number of charges to increase your weapon's damage by +1 for each charge expended.</li>
-				<li><strong><em>Evade Slash.</em></strong> When you hit a hostile creature with this weapon, you can expend 3 charges to move up to 15 feet in a straight line without provoking opportunity attacks.</li>
+				<li>Accel Jump. When you jump, you can expend charges to increase your jump's height or distance by an extra 5 feet for each charge expended. If the weapon is very rare or higher, the distance height is increased by an additional 5 feet per charge.</li>
+				<li>Burst Slash. As an action you can expend up to 5 charges to unleash an accelerated slash against a creature within 5 feet of you. That creature must make a Dexterity saving throw against a DC equal to 8 + your Proficiency Bonus + your Strength Modifier. On a failed save, the target takes #d6 slashing damage, where # is equal to the number of charges expended. On a successful save, the target takes half as much damage.</li>
+				<li>Dash Burst. As a bonus action you can expend 1 charge to dash up to half of your movement speed. You can expend extra charges to move an additional 10 feet for each additional charge you expend.</li>
+				<li>Detonation Velocity. When you hit a creature with this weapon, you can expend any number of charges to increase your weapon's damage by +1 for each charge expended.</li>
+				<li>Evade Slash. When you hit a hostile creature with this weapon, you can expend 3 charges to move up to 15 feet in a straight line without provoking opportunity attacks.</li>
 			</ul>
 		</description>
 		<setters>
@@ -395,16 +395,16 @@
 			<p>You gain a +2 bonus on attacks and damage rolls.</p>
 			<p class="indent"><strong><em>Accelerator Gauge.</em></strong> When you hit with this weapon, you gain 1 charge up to a maximum of 5. You lose all charges, if you are knocked unconscious or don't hit a target within 1 minute.</p>
 			<ul>
-				<li><strong><em>Accel Jump.</em></strong> When you jump, you can expend charges to increase your jump's height or distance by an extra 5 feet for each charge expended. If the weapon is very rare or higher, the distance height is increased by an additional 5 feet per charge.</li>
-				<li><strong><em>Blast Evade.</em></strong> When you are subject to the effect of an area-of-effect attack, spell, or spell-like ability; you can use your reaction to expend a number of charges to try and move yourself out of the area. For each charge you expend, you can move 5 feet in a straight line without provoking opportunity attacks. If you leave the area-of- effect's area, you are no longer considered a target of it.</li>
-				<li><strong><em>Burst Slash.</em></strong> As an action you can expend up to 5 charges to unleash an accelerated slash against a creature within 5 feet of you. That creature must make a Dexterity saving throw against a DC equal to 8 + your Proficiency Bonus + your Strength Modifier. On a failed save, the target takes #d8 slashing damage, where # is equal to the number of charges expended. On a successful save, the target takes half as much damage.</li>
-				<li><strong><em>Dash Burst.</em></strong> As a bonus action you can expend 1 charge to dash up to half of your movement speed. You can expend extra charges to move an additional 10 feet for each additional charge you expend.</li>
-				<li><strong><em>Detonation Velocity.</em></strong> When you hit a creature with this weapon, you can expend any number of charges to increase your weapon's damage by +1 for each charge expended.</li>
-				<li><strong><em>Evade Slash.</em></strong> When you hit a hostile creature with this weapon, you can expend 3 charges to move up to 15 feet in a straight line without provoking opportunity attacks.</li>
+				<li>Accel Jump. When you jump, you can expend charges to increase your jump's height or distance by an extra 5 feet for each charge expended. If the weapon is very rare or higher, the distance height is increased by an additional 5 feet per charge.</li>
+				<li>Blast Evade. When you are subject to the effect of an area-of-effect attack, spell, or spell-like ability; you can use your reaction to expend a number of charges to try and move yourself out of the area. For each charge you expend, you can move 5 feet in a straight line without provoking opportunity attacks. If you leave the area-of- effect's area, you are no longer considered a target of it.</li>
+				<li>Burst Slash. As an action you can expend up to 5 charges to unleash an accelerated slash against a creature within 5 feet of you. That creature must make a Dexterity saving throw against a DC equal to 8 + your Proficiency Bonus + your Strength Modifier. On a failed save, the target takes #d8 slashing damage, where # is equal to the number of charges expended. On a successful save, the target takes half as much damage.</li>
+				<li>Dash Burst. As a bonus action you can expend 1 charge to dash up to half of your movement speed. You can expend extra charges to move an additional 10 feet for each additional charge you expend.</li>
+				<li>Detonation Velocity. When you hit a creature with this weapon, you can expend any number of charges to increase your weapon's damage by +1 for each charge expended.</li>
+				<li>Evade Slash. When you hit a hostile creature with this weapon, you can expend 3 charges to move up to 15 feet in a straight line without provoking opportunity attacks.</li>
 			</ul>
 			<p class="indent"><strong><em>Heat Gauge.</em></strong> When you use one of this weapon's properties that expends charge(s), you gain 1 heat up to a maximum of 3.</p>
 			<ul>
-				<li><strong><em>Full Accel Mode.</em></strong> As a bonus action you can expend 3 heat to enter full accel mode. Until the end of your next turn this weapon's reach increases to 10 feet, it deals an extra 1d6 slashing damage, and your movement speed increases by 10 feet.</li>
+				<li>Full Accel Mode. As a bonus action you can expend 3 heat to enter full accel mode. Until the end of your next turn this weapon's reach increases to 10 feet, it deals an extra 1d6 slashing damage, and your movement speed increases by 10 feet.</li>
 			</ul>
 		</description>
 		<setters>
@@ -425,18 +425,18 @@
 			<p>You gain a +2 bonus on attacks and damage rolls.</p>
 			<p class="indent"><strong><em>Accelerator Gauge.</em></strong> When you hit with this weapon, you gain 1 charge up to a maximum of 5. You lose all charges, if you are knocked unconscious or don't hit a target within 1 minute.</p>
 			<ul>
-				<li><strong><em>Accel Jump.</em></strong> When you jump, you can expend charges to increase your jump's height or distance by an extra 5 feet for each charge expended. If the weapon is very rare or higher, the distance height is increased by an additional 5 feet per charge.</li>
-				<li><strong><em>Blast Evade.</em></strong> When you are subject to the effect of an area-of-effect attack, spell, or spell-like ability; you can use your reaction to expend a number of charges to try and move yourself out of the area. For each charge you expend, you can move 5 feet in a straight line without provoking opportunity attacks. If you leave the area-of- effect's area, you are no longer considered a target of it.</li>
-				<li><strong><em>Burst Slash.</em></strong> As an action you can expend up to 5 charges to unleash an accelerated slash against a creature within 5 feet of you. That creature must make a Dexterity saving throw against a DC equal to 8 + your Proficiency Bonus + your Strength Modifier. On a failed save, the target takes #d10 slashing damage, where # is equal to the number of charges expended. On a successful save, the target takes half as much damage.</li>
-				<li><strong><em>Dash Burst.</em></strong> As a bonus action you can expend 1 charge to dash up to half of your movement speed. You can expend extra charges to move an additional 10 feet for each additional charge you expend.</li>
-				<li><strong><em>Detonation Velocity.</em></strong> When you hit a creature with this weapon, you can expend any number of charges to increase your weapon's damage by +1 for each charge expended.</li>
-				<li><strong><em>Evade Slash.</em></strong> When you hit a hostile creature with this weapon, you can expend 3 charges to move up to 15 feet in a straight line without provoking opportunity attacks.</li>
-				<li><strong><em>Mid-Air Dash Slash (2/turn).</em></strong> When hit you a creature with an attack while in the air, you can expend a charge to move up to 10 feet in a straight line without provoking opportunity attacks.</li>
+				<li>Accel Jump. When you jump, you can expend charges to increase your jump's height or distance by an extra 5 feet for each charge expended. If the weapon is very rare or higher, the distance height is increased by an additional 5 feet per charge.</li>
+				<li>Blast Evade. When you are subject to the effect of an area-of-effect attack, spell, or spell-like ability; you can use your reaction to expend a number of charges to try and move yourself out of the area. For each charge you expend, you can move 5 feet in a straight line without provoking opportunity attacks. If you leave the area-of- effect's area, you are no longer considered a target of it.</li>
+				<li>Burst Slash. As an action you can expend up to 5 charges to unleash an accelerated slash against a creature within 5 feet of you. That creature must make a Dexterity saving throw against a DC equal to 8 + your Proficiency Bonus + your Strength Modifier. On a failed save, the target takes #d10 slashing damage, where # is equal to the number of charges expended. On a successful save, the target takes half as much damage.</li>
+				<li>Dash Burst. As a bonus action you can expend 1 charge to dash up to half of your movement speed. You can expend extra charges to move an additional 10 feet for each additional charge you expend.</li>
+				<li>Detonation Velocity. When you hit a creature with this weapon, you can expend any number of charges to increase your weapon's damage by +1 for each charge expended.</li>
+				<li>Evade Slash. When you hit a hostile creature with this weapon, you can expend 3 charges to move up to 15 feet in a straight line without provoking opportunity attacks.</li>
+				<li>Mid-Air Dash Slash (2/turn). When hit you a creature with an attack while in the air, you can expend a charge to move up to 10 feet in a straight line without provoking opportunity attacks.</li>
 			</ul>
 			<p class="indent"><strong><em>Heat Gauge.</em></strong> When you use one of this weapon's properties that expends charge(s), you gain 1 heat up to a maximum of 3.</p>
 			<ul>
-				<li><strong><em>Full Accel Mode.</em></strong> As a bonus action you can expend 3 heat to enter full accel mode. Until the end of your next turn this weapon's reach increases to 10 feet, it deals an extra 1d6 slashing damage, and your movement speed increases by 10 feet.</li>
-				<li><strong><em>Hyper Burst Slash.</em></strong> While you are in full accel mode, your burst slash damage is doubled.</li>
+				<li>Full Accel Mode. As a bonus action you can expend 3 heat to enter full accel mode. Until the end of your next turn this weapon's reach increases to 10 feet, it deals an extra 1d6 slashing damage, and your movement speed increases by 10 feet.</li>
+				<li>Hyper Burst Slash. While you are in full accel mode, your burst slash damage is doubled.</li>
 			</ul>
 		</description>
 		<setters>
@@ -976,9 +976,9 @@
 			<p class="indent">As an action you can complete the melody, providing the magical benefits of the notes in your melody to you, and all allies while they are within 20 feet of you and able to hear you. The melody lasts for 1 minute, until you complete a new melody, are knocked unconscious, or use a bonus action to end the current melody.</p>
 			<p class="indent"><strong><em>Single Note Melody.</em></strong> As an action you can slam the hunting horn into the ground to activate a single note melody. When you do, you and all allies that remain within 20 feet of you, gain the benefit of a note of your choice for 1 minute.</p>
 			<ul>
-				<li><strong><em>Damage up (s).</em></strong> Allies in your melody's radius gain a +1 bonus to bludgeoning, slashing, and piercing damage.</li>
-				<li><strong><em>Movement up (s).</em></strong> Allies in your melody's radius have their walking speed increased by 5 feet.</li>
-				<li><strong><em>Skill up (s).</em></strong> Allies in your melody's radius gain a +1 bonus to any one skill chosen by the wielder.</li>
+				<li>Damage up (s). Allies in your melody's radius gain a +1 bonus to bludgeoning, slashing, and piercing damage.</li>
+				<li>Movement up (s). Allies in your melody's radius have their walking speed increased by 5 feet.</li>
+				<li>Skill up (s). Allies in your melody's radius gain a +1 bonus to any one skill chosen by the wielder.</li>
 			</ul>
 		</description>
 		<setters>
@@ -998,14 +998,14 @@
 			<p class="indent">As an action you can complete the melody, providing the magical benefits of the notes in your melody to you, and all allies while they are within 20 feet of you and able to hear you. The melody lasts for 1 minute, until you complete a new melody, are knocked unconscious, or use a bonus action to end the current melody.</p>
 			<p class="indent"><strong><em>Single Note Melody.</em></strong> As an action you can slam the hunting horn into the ground to activate a single note melody. When you do, you and all allies that remain within 20 feet of you, gain the benefit of a note of your choice for 1 minute.</p>
 			<ul>
-				<li><strong><em>Cold Attack up (s).</em></strong> Allies in your melody's radius that deal cold damage to a target deal an extra 2 cold damage.</li>
-				<li><strong><em>Damage up (s).</em></strong> Allies in your melody's radius gain a +1 bonus to bludgeoning, slashing, and piercing damage.</li>
-				<li><strong><em>Defense up (s).</em></strong> Allies in your melody's radius gain a +1 bonus to their AC.</li>
-				<li><strong><em>Fire Attack up (s).</em></strong> Allies in your melody's radius that deal fire damage to a target deal an extra 2 fire damage.</li>
-				<li><strong><em>Lightning Attack up (s).</em></strong> Allies in your melody's radius that deal lightning damage to a target dealan extra 2 lightning damage.</li>
-				<li><strong><em>Movement up (s).</em></strong> Allies in your melody's radius have their walking speed increased by 5 feet.</li>
-				<li><strong><em>Poison Attack up (s).</em></strong> Allies in your melody's radius that deal poison damage to a target deal an extra 2 poison damage.</li>
-				<li><strong><em>Skill up (s).</em></strong> Allies in your melody's radius gain a +1 bonus to any one skill chosen by the wielder.</li>
+				<li>Cold Attack up (s). Allies in your melody's radius that deal cold damage to a target deal an extra 2 cold damage.</li>
+				<li>Damage up (s). Allies in your melody's radius gain a +1 bonus to bludgeoning, slashing, and piercing damage.</li>
+				<li>Defense up (s). Allies in your melody's radius gain a +1 bonus to their AC.</li>
+				<li>Fire Attack up (s). Allies in your melody's radius that deal fire damage to a target deal an extra 2 fire damage.</li>
+				<li>Lightning Attack up (s). Allies in your melody's radius that deal lightning damage to a target dealan extra 2 lightning damage.</li>
+				<li>Movement up (s). Allies in your melody's radius have their walking speed increased by 5 feet.</li>
+				<li>Poison Attack up (s). Allies in your melody's radius that deal poison damage to a target deal an extra 2 poison damage.</li>
+				<li>Skill up (s). Allies in your melody's radius gain a +1 bonus to any one skill chosen by the wielder.</li>
 			</ul>
 		</description>
 		<setters>
@@ -1027,21 +1027,21 @@
 			<p class="indent">As an action you can complete the melody, providing the magical benefits of the notes in your melody to you, and all allies while they are within 20 feet of you and able to hear you. The melody lasts for 1 minute, until you complete a new melody, are knocked unconscious, or use a bonus action to end the current melody.</p>
 			<p class="indent"><strong><em>Single Note Melody.</em></strong> As an action you can slam the hunting horn into the ground to activate a single note melody. When you do, you and all allies that remain within 20 feet of you, gain the benefit of a note of your choice for 1 minute.</p>
 			<ul>
-				<li><strong><em>Acid Attack up (s).</em></strong> Allies in your melody's radius that deal acid damage to a target deal an extra 2 acid damage.</li>
-				<li><strong><em>Cold Attack up (s).</em></strong> Allies in your melody's radius that deal cold damage to a target deal an extra 2 cold damage.</li>
-				<li><strong><em>Damage up (M).</em></strong> Allies in your melody's radius gain a +2 bonus to bludgeoning, slashing, and piercing damage.</li>
-				<li><strong><em>Defense up (s).</em></strong> Allies in your melody's radius gain a +1 bonus to their AC.</li>
-				<li><strong><em>Earplugs.</em></strong> All creatures while within your melody's range are deafened.</li>
-				<li><strong><em>Fire Attack up (s).</em></strong> Allies in your melody's radius that deal fire damage to a target deal an extra 2 fire damage.</li>
-				<li><strong><em>Force Attack up (s).</em></strong> Allies in your melody's radius that deal force damage to a target deal an extra 2 force damage.</li>
-				<li><strong><em>Lightning Attack up (s).</em></strong> Allies in your melody's radius that deal lightning damage to a target dealan extra 2 lightning damage.</li>
-				<li><strong><em>Movement up (s).</em></strong> Allies in your melody's radius have their walking speed increased by 5 feet.</li>
-				<li><strong><em>Poison Attack up (s).</em></strong> Allies in your melody's radius that deal poison damage to a target deal an extra 2 poison damage.</li>
-				<li><strong><em>Psychic Attack up (s).</em></strong> Allies in your melody's radius that deal psychic damage to a target deal an extra 2 psychic damage.</li>
-				<li><strong><em>Skill up (s).</em></strong> Allies in your melody's radius gain a +1 bonus to any one skill chosen by the wielder.</li>
-				<li><strong><em>Spell Save up (s).</em></strong> Allies in your melody's radius gain a +1 bonus to their spell save DC.</li>
-				<li><strong><em>Temperate.</em></strong> Allies in your melody's radius suffer no harm from extreme cold or extreme heat.</li>
-				<li><strong><em>Thunder Attack up (s).</em></strong> Allies in your melody's radius that deal thunder damage to a target deal an extra 2 thunder damage.</li>
+				<li>Acid Attack up (s). Allies in your melody's radius that deal acid damage to a target deal an extra 2 acid damage.</li>
+				<li>Cold Attack up (s). Allies in your melody's radius that deal cold damage to a target deal an extra 2 cold damage.</li>
+				<li>Damage up (M). Allies in your melody's radius gain a +2 bonus to bludgeoning, slashing, and piercing damage.</li>
+				<li>Defense up (s). Allies in your melody's radius gain a +1 bonus to their AC.</li>
+				<li>Earplugs. All creatures while within your melody's range are deafened.</li>
+				<li>Fire Attack up (s). Allies in your melody's radius that deal fire damage to a target deal an extra 2 fire damage.</li>
+				<li>Force Attack up (s). Allies in your melody's radius that deal force damage to a target deal an extra 2 force damage.</li>
+				<li>Lightning Attack up (s). Allies in your melody's radius that deal lightning damage to a target dealan extra 2 lightning damage.</li>
+				<li>Movement up (s). Allies in your melody's radius have their walking speed increased by 5 feet.</li>
+				<li>Poison Attack up (s). Allies in your melody's radius that deal poison damage to a target deal an extra 2 poison damage.</li>
+				<li>Psychic Attack up (s). Allies in your melody's radius that deal psychic damage to a target deal an extra 2 psychic damage.</li>
+				<li>Skill up (s). Allies in your melody's radius gain a +1 bonus to any one skill chosen by the wielder.</li>
+				<li>Spell Save up (s). Allies in your melody's radius gain a +1 bonus to their spell save DC.</li>
+				<li>Temperate. Allies in your melody's radius suffer no harm from extreme cold or extreme heat.</li>
+				<li>Thunder Attack up (s). Allies in your melody's radius that deal thunder damage to a target deal an extra 2 thunder damage.</li>
 			</ul>
 		</description>
 		<setters>
@@ -1064,26 +1064,26 @@
 			<p class="indent">As an action you can complete the melody, providing the magical benefits of the notes in your melody to you, and all allies while they are within 20 feet of you and able to hear you. The melody lasts for 1 minute, until you complete a new melody, are knocked unconscious, or use a bonus action to end the current melody.</p>
 			<p class="indent"><strong><em>Single Note Melody.</em></strong> As an action you can slam the hunting horn into the ground to activate a single note melody. When you do, you and all allies that remain within 20 feet of you, gain the benefit of a note of your choice for 1 minute.</p>
 			<ul>
-				<li><strong><em>Acid Attack up (s).</em></strong> Allies in your melody's radius that deal acid damage to a target deal an extra 2 acid damage.</li>
-				<li><strong><em>Cold Attack up (s).</em></strong> Allies in your melody's radius that deal cold damage to a target deal an extra 2 cold damage.</li>
-				<li><strong><em>Damage up (M).</em></strong> Allies in your melody's radius gain a +2 bonus to bludgeoning, slashing, and piercing damage.</li>
-				<li><strong><em>Defense up (L).</em></strong> Allies in your melody's radius gain a +2 bonus to their AC.</li>
-				<li><strong><em>Earplugs.</em></strong> All creatures while within your melody's range are deafened.</li>
-				<li><strong><em>Fire Attack up (s).</em></strong> Allies in your melody's radius that deal fire damage to a target deal an extra 2 fire damage.</li>
-				<li><strong><em>Force Attack up (s).</em></strong> Allies in your melody's radius that deal force damage to a target deal an extra 2 force damage.</li>
-				<li><strong><em>Lightning Attack up (s).</em></strong> Allies in your melody's radius that deal lightning damage to a target dealan extra 2 lightning damage.</li>
-				<li><strong><em>Movement up (L).</em></strong> Allies in your melody's radius have their walking speed increased by 10 feet.</li>
-				<li><strong><em>Necrotic Attack up (s).</em></strong> Allies in your melody's radius that deal necrotic damage to a target deal an extra 2 necrotic damage.</li>
-				<li><strong><em>Poison Attack up (s).</em></strong> Allies in your melody's radius that deal poison damage to a target deal an extra 2 poison damage.</li>
-				<li><strong><em>Psychic Attack up (s).</em></strong> Allies in your melody's radius that deal psychic damage to a target deal an extra 2 psychic damage.</li>
-				<li><strong><em>Radiant Attack up (s).</em></strong> Allies in your melody's radius that deal radiant damage to a target deal an extra 2 radiant damage.</li>
-				<li><strong><em>Saving Throw up.</em></strong> Allies in your melody's radius gain a +2 bonus to all saving throws.</li>
-				<li><strong><em>Skill up (L).</em></strong> Allies in your melody's radius gain a +2 bonus to any one skill chosen by the wielder.</li>
-				<li><strong><em>Spell Save up (s).</em></strong> Allies in your melody's radius gain a +1 bonus to their spell save DC.</li>
-				<li><strong><em>Temperate.</em></strong> Allies in your melody's radius suffer no harm from extreme cold or extreme heat.</li>
-				<li><strong><em>Thunder Attack up (s).</em></strong> Allies in your melody's radius that deal thunder damage to a target deal an extra 2 thunder damage.</li>
-				<li><strong><em>Tremor Sense.</em></strong> Allies can detect and pinpoint the origin of vibrations within 30 foot radius provided that the ally and the source of the vibrations are in contact with the same ground or substance.</li>
-				<li><strong><em>Water Walking.</em></strong> Allies can stand on and move across any calm liquid as if it were solid ground.</li>
+				<li>Acid Attack up (s). Allies in your melody's radius that deal acid damage to a target deal an extra 2 acid damage.</li>
+				<li>Cold Attack up (s). Allies in your melody's radius that deal cold damage to a target deal an extra 2 cold damage.</li>
+				<li>Damage up (M). Allies in your melody's radius gain a +2 bonus to bludgeoning, slashing, and piercing damage.</li>
+				<li>Defense up (L). Allies in your melody's radius gain a +2 bonus to their AC.</li>
+				<li>Earplugs. All creatures while within your melody's range are deafened.</li>
+				<li>Fire Attack up (s). Allies in your melody's radius that deal fire damage to a target deal an extra 2 fire damage.</li>
+				<li>Force Attack up (s). Allies in your melody's radius that deal force damage to a target deal an extra 2 force damage.</li>
+				<li>Lightning Attack up (s). Allies in your melody's radius that deal lightning damage to a target dealan extra 2 lightning damage.</li>
+				<li>Movement up (L). Allies in your melody's radius have their walking speed increased by 10 feet.</li>
+				<li>Necrotic Attack up (s). Allies in your melody's radius that deal necrotic damage to a target deal an extra 2 necrotic damage.</li>
+				<li>Poison Attack up (s). Allies in your melody's radius that deal poison damage to a target deal an extra 2 poison damage.</li>
+				<li>Psychic Attack up (s). Allies in your melody's radius that deal psychic damage to a target deal an extra 2 psychic damage.</li>
+				<li>Radiant Attack up (s). Allies in your melody's radius that deal radiant damage to a target deal an extra 2 radiant damage.</li>
+				<li>Saving Throw up. Allies in your melody's radius gain a +2 bonus to all saving throws.</li>
+				<li>Skill up (L). Allies in your melody's radius gain a +2 bonus to any one skill chosen by the wielder.</li>
+				<li>Spell Save up (s). Allies in your melody's radius gain a +1 bonus to their spell save DC.</li>
+				<li>Temperate. Allies in your melody's radius suffer no harm from extreme cold or extreme heat.</li>
+				<li>Thunder Attack up (s). Allies in your melody's radius that deal thunder damage to a target deal an extra 2 thunder damage.</li>
+				<li>Tremor Sense. Allies can detect and pinpoint the origin of vibrations within 30 foot radius provided that the ally and the source of the vibrations are in contact with the same ground or substance.</li>
+				<li>Water Walking. Allies can stand on and move across any calm liquid as if it were solid ground.</li>
 			</ul>
 		</description>
 		<setters>
@@ -1107,31 +1107,31 @@
 			<p class="indent">As an action you can complete the melody, providing the magical benefits of the notes in your melody to you, and all allies while they are within 20 feet of you and able to hear you. The melody lasts for 1 minute, until you complete a new melody, are knocked unconscious, or use a bonus action to end the current melody.</p>
 			<p class="indent"><strong><em>Single Note Melody.</em></strong> As an action you can slam the hunting horn into the ground to activate a single note melody. When you do, you and all allies that remain within 20 feet of you, gain the benefit of a note of your choice for 1 minute.</p>
 			<ul>
-				<li><strong><em>Acid Attack up (s).</em></strong> Allies in your melody's radius that deal acid damage to a target deal an extra 2 acid damage.</li>
-				<li><strong><em>Affinity Up.</em></strong> Allies in your melody's radius critical hit range is increased by 1.</li>
-				<li><strong><em>Charm Resist.</em></strong> Allies in your melody's radius have advantage against being charmed.</li>
-				<li><strong><em>Damage up (L).</em></strong> Allies in your melody's radius gain a +3 bonus to bludgeoning, slashing, and piercing damage.</li>
-				<li><strong><em>Defense up (L).</em></strong> Allies in your melody's radius gain a +2 bonus to their AC.</li>
-				<li><strong><em>Death save Up.</em></strong> Allies in your melody's radius gain a +1 to death saving throws.</li>
-				<li><strong><em>Earplugs.</em></strong> All creatures while within your melody's range are deafened.</li>
-				<li><strong><em>Elemental Damage Up.</em></strong> Allies in your melody's radius that deal cold, fire, or lightning damage to a target deal an extra 3 damage of the same damage type.</li>
-				<li><strong><em>Force Attack up (s).</em></strong> Allies in your melody's radius that deal force damage to a target deal an extra 2 force damage.</li>
-				<li><strong><em>Frightened Resist.</em></strong> Allies in your melody's radius have advantage against being frightened.</li>
-				<li><strong><em>Movement up (L).</em></strong> Allies in your melody's radius have their walking speed increased by 10 feet.</li>
-				<li><strong><em>Necrotic Attack up (s).</em></strong> Allies in your melody's radius that deal necrotic damage to a target deal an extra 2 necrotic damage.</li>
-				<li><strong><em>Paralysis Resist.</em></strong> Allies in your melody's radius have advantage against being paralyzed.</li>
-				<li><strong><em>Poison Attack up (s).</em></strong> Allies in your melody's radius that deal poison damage to a target deal an extra 2 poison damage.</li>
-				<li><strong><em>Poison Resist.</em></strong> Allies in your melody's radius have advantage against being poisoned.</li>
-				<li><strong><em>Psychic Attack up (s).</em></strong> Allies in your melody's radius that deal psychic damage to a target deal an extra 2 psychic damage.</li>
-				<li><strong><em>Radiant Attack up (s).</em></strong> Allies in your melody's radius that deal radiant damage to a target deal an extra 2 radiant damage.</li>
-				<li><strong><em>Saving Throw up.</em></strong> Allies in your melody's radius gain a +2 bonus to all saving throws.</li>
-				<li><strong><em>Skill up (L).</em></strong> Allies in your melody's radius gain a +2 bonus to any one skill chosen by the wielder.</li>
-				<li><strong><em>Spell Save up (s).</em></strong> Allies in your melody's radius gain a +1 bonus to their spell save DC.</li>
-				<li><strong><em>Stun Resist.</em></strong> Allies in your melody's radius have advantage against being stunned.</li>
-				<li><strong><em>Temperate.</em></strong> Allies in your melody's radius suffer no harm from extreme cold or extreme heat.</li>
-				<li><strong><em>Thunder Attack up (s).</em></strong> Allies in your melody's radius that deal thunder damage to a target deal an extra 2 thunder damage.</li>
-				<li><strong><em>Tremor Sense.</em></strong> Allies can detect and pinpoint the origin of vibrations within 30 foot radius provided that the ally and the source of the vibrations are in contact with the same ground or substance.</li>
-				<li><strong><em>Water Walking.</em></strong> Allies can stand on and move across any calm liquid as if it were solid ground.</li>
+				<li>Acid Attack up (s). Allies in your melody's radius that deal acid damage to a target deal an extra 2 acid damage.</li>
+				<li>Affinity Up. Allies in your melody's radius critical hit range is increased by 1.</li>
+				<li>Charm Resist. Allies in your melody's radius have advantage against being charmed.</li>
+				<li>Damage up (L). Allies in your melody's radius gain a +3 bonus to bludgeoning, slashing, and piercing damage.</li>
+				<li>Defense up (L). Allies in your melody's radius gain a +2 bonus to their AC.</li>
+				<li>Death save Up. Allies in your melody's radius gain a +1 to death saving throws.</li>
+				<li>Earplugs. All creatures while within your melody's range are deafened.</li>
+				<li>Elemental Damage Up. Allies in your melody's radius that deal cold, fire, or lightning damage to a target deal an extra 3 damage of the same damage type.</li>
+				<li>Force Attack up (s). Allies in your melody's radius that deal force damage to a target deal an extra 2 force damage.</li>
+				<li>Frightened Resist. Allies in your melody's radius have advantage against being frightened.</li>
+				<li>Movement up (L). Allies in your melody's radius have their walking speed increased by 10 feet.</li>
+				<li>Necrotic Attack up (s). Allies in your melody's radius that deal necrotic damage to a target deal an extra 2 necrotic damage.</li>
+				<li>Paralysis Resist. Allies in your melody's radius have advantage against being paralyzed.</li>
+				<li>Poison Attack up (s). Allies in your melody's radius that deal poison damage to a target deal an extra 2 poison damage.</li>
+				<li>Poison Resist. Allies in your melody's radius have advantage against being poisoned.</li>
+				<li>Psychic Attack up (s). Allies in your melody's radius that deal psychic damage to a target deal an extra 2 psychic damage.</li>
+				<li>Radiant Attack up (s). Allies in your melody's radius that deal radiant damage to a target deal an extra 2 radiant damage.</li>
+				<li>Saving Throw up. Allies in your melody's radius gain a +2 bonus to all saving throws.</li>
+				<li>Skill up (L). Allies in your melody's radius gain a +2 bonus to any one skill chosen by the wielder.</li>
+				<li>Spell Save up (s). Allies in your melody's radius gain a +1 bonus to their spell save DC.</li>
+				<li>Stun Resist. Allies in your melody's radius have advantage against being stunned.</li>
+				<li>Temperate. Allies in your melody's radius suffer no harm from extreme cold or extreme heat.</li>
+				<li>Thunder Attack up (s). Allies in your melody's radius that deal thunder damage to a target deal an extra 2 thunder damage.</li>
+				<li>Tremor Sense. Allies can detect and pinpoint the origin of vibrations within 30 foot radius provided that the ally and the source of the vibrations are in contact with the same ground or substance.</li>
+				<li>Water Walking. Allies can stand on and move across any calm liquid as if it were solid ground.</li>
 			</ul>
 			
 		</description>
@@ -1199,10 +1199,10 @@
 			<p class="indent"><strong><em>Kinsect.</em></strong> As part of your Attack action, you can make a range weapon attack (range 60/120 ft) sending out your kinsect towards a creature. On hit it deals 1d8 bludgeoning damage, and absorbs essence in the order of: red, white, orange.</p>
 			<p class="indent">If you're able to make multiple attacks with the Attack action, this attack replaces one of them.</p>
 			<ul>
-				<li><strong><em>Red.</em></strong> +2 weapon damage.</li>
-				<li><strong><em>White.</em></strong> +5 speed</li>
-				<li><strong><em>Orange.</em></strong> +2 AC and Red and White essence effects double.</li>
-				<li><strong><em>Green.</em></strong> Heals a number of hit points equal to half the damage done by the kinsect.</li>
+				<li>Red. +2 weapon damage.</li>
+				<li>White. +5 speed</li>
+				<li>Orange. +2 AC and Red and White essence effects double.</li>
+				<li>Green. Heals a number of hit points equal to half the damage done by the kinsect.</li>
 			</ul>
 		</description>
 		<setters>
@@ -1228,10 +1228,10 @@
 			<p class="indent"><strong><em>Kinsect.</em></strong> As part of your Attack action, you can make a range weapon attack (range 60/120 ft) sending out your kinsect towards a creature. On hit it deals 1d10 bludgeoning damage, and absorbs essence in the order of: red, white, orange.</p>
 			<p class="indent">If you're able to make multiple attacks with the Attack action, this attack replaces one of them.</p>
 			<ul>
-				<li><strong><em>Red.</em></strong> +2 weapon damage.</li>
-				<li><strong><em>White.</em></strong> +10 speed</li>
-				<li><strong><em>Orange.</em></strong> +2 AC and Red and White essence effects double.</li>
-				<li><strong><em>Green.</em></strong> Heals a number of hit points equal to the damage done by the kinsect.</li>
+				<li>Red. +2 weapon damage.</li>
+				<li>White. +10 speed</li>
+				<li>Orange. +2 AC and Red and White essence effects double.</li>
+				<li>Green. Heals a number of hit points equal to the damage done by the kinsect.</li>
 			</ul>
 		</description>
 		<setters>
@@ -1257,10 +1257,10 @@
 			<p class="indent"><strong><em>Kinsect.</em></strong> As part of your Attack action, you can make a range weapon attack (range 60/120 ft) sending out your kinsect towards a creature. On hit it deals 1d12 bludgeoning damage, and absorbs essence in the order of: red, white, orange.</p>
 			<p class="indent">If you're able to make multiple attacks with the Attack action, this attack replaces one of them.</p>
 			<ul>
-				<li><strong><em>Red.</em></strong> +3 weapon damage.</li>
-				<li><strong><em>White.</em></strong> +10 speed</li>
-				<li><strong><em>Orange.</em></strong> +3 AC and Red and White essence effects double.</li>
-				<li><strong><em>Green.</em></strong> Heals a number of hit points equal to the damage done by the kinsect.</li>
+				<li>Red. +3 weapon damage.</li>
+				<li>White. +10 speed</li>
+				<li>Orange. +3 AC and Red and White essence effects double.</li>
+				<li>Green. Heals a number of hit points equal to the damage done by the kinsect.</li>
 			</ul>
 		</description>
 		<setters>
@@ -1393,7 +1393,7 @@
 			<p>You gain a +1 bonus on attacks and damage rolls.</p>
 			<p class="indent"><strong><em>Spirit Gauge.</em></strong> When you hit with this weapon, you gain 1 spirit up to a maximum of 6. You lose all spirit, if you are knocked unconscious or don't hit a target within 1 minute. You can expend spirit charges on the following effects:</p>
 			<ul>
-				<li><strong><em>Spirit Blade.</em></strong> When you hit a creature with this weapon, you can expend any number of spirits, increase your weapons damage by +1 for each spirit expended.</li>
+				<li>Spirit Blade. When you hit a creature with this weapon, you can expend any number of spirits, increase your weapons damage by +1 for each spirit expended.</li>
 			</ul>
 		</description>
 		<setters>
@@ -1414,8 +1414,8 @@
 			<p>You gain a +2 bonus on attacks and damage rolls.</p>
 			<p class="indent"><strong><em>Spirit Gauge.</em></strong> When you hit with this weapon, you gain 1 spirit up to a maximum of 6. You lose all spirit, if you are knocked unconscious or don't hit a target within 1 minute. You can expend spirit charges on the following effects:</p>
 			<ul>
-				<li><strong><em>Spirit Blade.</em></strong> When you hit a creature with this weapon, you can expend any number of spirits, increase your weapons damage by +1 for each spirit expended.</li>
-				<li><strong><em>Foresight Slash.</em></strong> When a creature misses you with an attack, you can expend 5 spirits to make an opportunity attack against the target, this opportunity attack does not use your reaction.</li>
+				<li>Spirit Blade. When you hit a creature with this weapon, you can expend any number of spirits, increase your weapons damage by +1 for each spirit expended.</li>
+				<li>Foresight Slash. When a creature misses you with an attack, you can expend 5 spirits to make an opportunity attack against the target, this opportunity attack does not use your reaction.</li>
 			</ul>
 		</description>
 		<setters>
@@ -1436,10 +1436,10 @@
 			<p>You gain a +2 bonus on attacks and damage rolls.</p>
 			<p class="indent"><strong><em>Spirit Gauge.</em></strong> When you hit with this weapon, you gain 2 spirit up to a maximum of 6. You lose all spirit, if you are knocked unconscious or don't hit a target within 1 minute. You can expend spirit charges on the following effects:</p>
 			<ul>
-				<li><strong><em>Spirit Blade.</em></strong> When you hit a creature with this weapon, you can expend any number of spirits, increase your weapons damage by +1 for each spirit expended.</li>
-				<li><strong><em>Foresight Slash.</em></strong> When a creature misses you with an attack, you can expend 5 spirits to make an opportunity attack against the target, this opportunity attack does not use your reaction.</li>
-				<li><strong><em>Spirit Thrust.</em></strong> When you hit with this weapon, you can use your bonus action and expend 2 spirits to change the damage type to piercing and move 15 feet in a straight line through the creature without provoking attacks of opportunity.</li>
-				<li><strong><em>Spirit Roundslash.</em></strong> Immediately after you take the Attack action, you can expend 5 spirits to make an attack against a creature within 5 feet of your current target.</li>
+				<li>Spirit Blade. When you hit a creature with this weapon, you can expend any number of spirits, increase your weapons damage by +1 for each spirit expended.</li>
+				<li>Foresight Slash. When a creature misses you with an attack, you can expend 5 spirits to make an opportunity attack against the target, this opportunity attack does not use your reaction.</li>
+				<li>Spirit Thrust. When you hit with this weapon, you can use your bonus action and expend 2 spirits to change the damage type to piercing and move 15 feet in a straight line through the creature without provoking attacks of opportunity.</li>
+				<li>Spirit Roundslash. Immediately after you take the Attack action, you can expend 5 spirits to make an attack against a creature within 5 feet of your current target.</li>
 			</ul>
 		</description>
 		<setters>
@@ -1460,10 +1460,10 @@
 			<p>You gain a +3 bonus on attacks and damage rolls.</p>
 			<p class="indent"><strong><em>Spirit Gauge.</em></strong> When you hit with this weapon, you gain 3 spirit up to a maximum of 6. You lose all spirit, if you are knocked unconscious or don't hit a target within 1 minute. You can expend spirit charges on the following effects:</p>
 			<ul>
-				<li><strong><em>Spirit Blade.</em></strong> When you hit a creature with this weapon, you can expend any number of spirits, increase your weapons damage by +1 for each spirit expended.</li>
-				<li><strong><em>Foresight Slash.</em></strong> When a creature misses you with an attack, you can expend 5 spirits to make an opportunity attack against the target, this opportunity attack does not use your reaction.</li>
-				<li><strong><em>Spirit Thrust.</em></strong> When you hit with this weapon, you can use your bonus action and expend 2 spirits to change the damage type to piercing and move 15 feet in a straight line through the creature without provoking attacks of opportunity.</li>
-				<li><strong><em>Spirit Roundslash.</em></strong> Immediately after you take the Attack action, you can expend 5 spirits to make an attack against a creature within 5 feet of your current target.</li>
+				<li>Spirit Blade. When you hit a creature with this weapon, you can expend any number of spirits, increase your weapons damage by +1 for each spirit expended.</li>
+				<li>Foresight Slash. When a creature misses you with an attack, you can expend 5 spirits to make an opportunity attack against the target, this opportunity attack does not use your reaction.</li>
+				<li>Spirit Thrust. When you hit with this weapon, you can use your bonus action and expend 2 spirits to change the damage type to piercing and move 15 feet in a straight line through the creature without provoking attacks of opportunity.</li>
+				<li>Spirit Roundslash. Immediately after you take the Attack action, you can expend 5 spirits to make an attack against a creature within 5 feet of your current target.</li>
 			</ul>
 		</description>
 		<setters>
@@ -1737,9 +1737,9 @@
 			<p class="indent">You can use this property a number of times equal to your proficiency bonus.</p>
 			<p class="indent"><strong><em>Splint Stance.</em></strong> When you switch into splint mode, choose one of the following stances that you take until the end of your next turn (unless otherwise specified):</p>
 			<ul>
-				<li><strong><em>Elemental Stance.</em></strong> Choose damage types between: cold, fire, lightning, poison. Your rapiers now deal that damage type instead of piercing for 1 minute, or until you switch stances.</li>
-				<li><strong><em>Saboteur Stance.</em></strong> Before the start of your next turn, when a creature hit by this weapon must make a saving throw against a condition, roll a d4 and subtract the number from the saving throw.</li>
-				<li><strong><em>Stymie Stance.</em></strong> When you hit a creature with this weapon, you increase the maximum duration of any condition effecting it by 6 seconds.</li>
+				<li>Elemental Stance. Choose damage types between: cold, fire, lightning, poison. Your rapiers now deal that damage type instead of piercing for 1 minute, or until you switch stances.</li>
+				<li>Saboteur Stance. Before the start of your next turn, when a creature hit by this weapon must make a saving throw against a condition, roll a d4 and subtract the number from the saving throw.</li>
+				<li>Stymie Stance. When you hit a creature with this weapon, you increase the maximum duration of any condition effecting it by 6 seconds.</li>
 			</ul>
 		</description>
 		<setters>
@@ -1775,10 +1775,10 @@
 			<p class="indent">You can use this property a number of times equal to your proficiency bonus.</p>
 			<p class="indent"><strong><em>Splint Stance.</em></strong> When you switch into splint mode, choose one of the following stances that you take until the end of your next turn (unless otherwise specified):</p>
 			<ul>
-				<li><strong><em>Elemental Stance.</em></strong> Choose damage types between: cold, fire, lightning, poison, acid, thunder. Your rapiers now deal that damage type instead of piercing for 1 minute, or until you switch stances.</li>
-				<li><strong><em>Saboteur Stance.</em></strong> Before the start of your next turn, when a creature hit by this weapon must make a saving throw against a condition, roll a d4 and subtract the number from the saving throw.</li>
-				<li><strong><em>Stymie Stance.</em></strong> When you hit a creature with this weapon, you increase the maximum duration of any condition effecting it by 6 seconds.</li>
-				<li><strong><em>Sundering Stance.</em></strong> When you hit a creature with this weapon, its AC is reduced by 1 (maximum of 1) until the start of your next turn.</li>
+				<li>Elemental Stance. Choose damage types between: cold, fire, lightning, poison, acid, thunder. Your rapiers now deal that damage type instead of piercing for 1 minute, or until you switch stances.</li>
+				<li>Saboteur Stance. Before the start of your next turn, when a creature hit by this weapon must make a saving throw against a condition, roll a d4 and subtract the number from the saving throw.</li>
+				<li>Stymie Stance. When you hit a creature with this weapon, you increase the maximum duration of any condition effecting it by 6 seconds.</li>
+				<li>Sundering Stance. When you hit a creature with this weapon, its AC is reduced by 1 (maximum of 1) until the start of your next turn.</li>
 			</ul>
 		</description>
 		<setters>
@@ -1814,11 +1814,11 @@
 			<p class="indent">You can use this property a number of times equal to your proficiency bonus.</p>
 			<p class="indent"><strong><em>Splint Stance.</em></strong> When you switch into splint mode, choose one of the following stances that you take until the end of your next turn (unless otherwise specified):</p>
 			<ul>
-				<li><strong><em>Elemental Stance.</em></strong> Choose damage types between: cold, fire, lightning, poison, acid, thunder. Your rapiers now deal that damage type instead of piercing for 1 minute, or until you switch stances.</li>
-				<li><strong><em>Saboteur Stance.</em></strong> Before the start of your next turn, when a creature hit by this weapon must make a saving throw against a condition, roll a d4+# and subtract the number from the saving throw. Where # is equal to the number of attacks you hit the creature with on this turn.</li>
-				<li><strong><em>Stymie Stance.</em></strong> When you hit a creature with this weapon, you increase the maximum duration of any condition effecting it by 6 seconds.<br></br>
+				<li>Elemental Stance. Choose damage types between: cold, fire, lightning, poison, acid, thunder. Your rapiers now deal that damage type instead of piercing for 1 minute, or until you switch stances.</li>
+				<li>Saboteur Stance. Before the start of your next turn, when a creature hit by this weapon must make a saving throw against a condition, roll a d4+# and subtract the number from the saving throw. Where # is equal to the number of attacks you hit the creature with on this turn.</li>
+				<li>Stymie Stance. When you hit a creature with this weapon, you increase the maximum duration of any condition effecting it by 6 seconds.<br></br>
 				When you roll a 20 on the attack roll with this weapon, in this stance, the maximum duration of any condition effecting it is doubled.</li>
-				<li><strong><em>Sundering Stance.</em></strong> When you hit a creature with this weapon, its AC is reduced by 1 (maximum of 1) until the start of your next turn.</li>
+				<li>Sundering Stance. When you hit a creature with this weapon, its AC is reduced by 1 (maximum of 1) until the start of your next turn.</li>
 			</ul>
 		</description>
 		<setters>
@@ -1856,11 +1856,11 @@
 			<p class="indent"><strong><em>Immunobreak. (2/short rest)</em></strong> When you roll a 20 on the attack roll with this weapon, you can suppress one damage resistance, damage immunity, or condition immunity the target has for 1 minute.</p>
 			<p class="indent"><strong><em>Splint Stance.</em></strong> When you switch into splint mode, choose one of the following stances that you take until the end of your next turn (unless otherwise specified):</p>
 			<ul>
-				<li><strong><em>Elemental Stance.</em></strong> Choose damage types between: cold, fire, lightning, poison, acid, thunder. Your rapiers now deal that damage type instead of piercing for 1 minute, or until you switch stances.</li>
-				<li><strong><em>Saboteur Stance.</em></strong> Before the start of your next turn, when a creature hit by this weapon must make a saving throw against a condition, roll a d4+# and subtract the number from the saving throw. Where # is equal to the number of attacks you hit the creature with on this turn.</li>
-				<li><strong><em>Stymie Stance.</em></strong> When you hit a creature with this weapon, you increase the maximum duration of any condition effecting it by 6 seconds.<br></br>
+				<li>Elemental Stance. Choose damage types between: cold, fire, lightning, poison, acid, thunder. Your rapiers now deal that damage type instead of piercing for 1 minute, or until you switch stances.</li>
+				<li>Saboteur Stance. Before the start of your next turn, when a creature hit by this weapon must make a saving throw against a condition, roll a d4+# and subtract the number from the saving throw. Where # is equal to the number of attacks you hit the creature with on this turn.</li>
+				<li>Stymie Stance. When you hit a creature with this weapon, you increase the maximum duration of any condition effecting it by 6 seconds.<br></br>
 				When you roll a 20 on the attack roll with this weapon, in this stance, the maximum duration of any condition effecting it is doubled.</li>
-				<li><strong><em>Sundering Stance.</em></strong> When you hit a creature with this weapon, its AC is reduced by 1 (maximum of 1) until the start of your next turn.</li>
+				<li>Sundering Stance. When you hit a creature with this weapon, its AC is reduced by 1 (maximum of 1) until the start of your next turn.</li>
 			</ul>
 		</description>
 		<setters>
@@ -2130,8 +2130,8 @@
 			<p class="indent"><strong><em>Dragon Spirit.</em></strong> When you attack a hostile creature with this weapon, you gain 1 spirit (maximum of 5). You lose all spirit, if you don't attack a target by the end of your next turn.</p>
 			<p class="indent">You can expend spirit on the following weapon properties:</p>
 			<ul>
-				<li><strong><em>Earth Style.</em></strong> As a bonus action, you can expend 2 spirit to increase your tonfas weapon damage die to a d8 until the end of your next turn.</li>
-				<li><strong><em>Propel.</em></strong> As a bonus action, you can expend 1 spirit to launch yourself 10 feet into the air. Until the end of your next turn you gain a fly speed of 10 feet (hover). You can't fly any higher than 10 feet above the ground from this property.</li>
+				<li>Earth Style. As a bonus action, you can expend 2 spirit to increase your tonfas weapon damage die to a d8 until the end of your next turn.</li>
+				<li>Propel. As a bonus action, you can expend 1 spirit to launch yourself 10 feet into the air. Until the end of your next turn you gain a fly speed of 10 feet (hover). You can't fly any higher than 10 feet above the ground from this property.</li>
 			</ul>
 		</description>
 		<setters>
@@ -2153,12 +2153,12 @@
 			<p class="indent"><strong><em>Dragon Spirit.</em></strong> When you attack a hostile creature with this weapon, you gain 1 spirit (maximum of 6). You lose all spirit, if you don't attack a target by the end of your next turn.</p>
 			<p class="indent">You can expend spirit on the following weapon properties:</p>
 			<ul>
-				<li><strong><em>Air Dash.</em></strong> When you are flying and a creature enters a space within your reach for the first time on a turn, you can use your reaction to expend 1 spirit and fly up to 10 feet away (without provoking opportunity attacks) from the creature.</li>
-				<li><strong><em>Dragon Spirit Piercing Attack.</em></strong> As an action, you can expend 6 spirit to quickly jab with both tonfas, sending a blast of tremendous force in a 15-foot line, that is 5 feet wide. Each creature in that line must make a Dexterity saving throw equal to 8 + your Strength modifier + your Proficiency bonus, taking 2d6 thunder damage on a failed save, or half as much on a successful one.<br></br>
+				<li>Air Dash. When you are flying and a creature enters a space within your reach for the first time on a turn, you can use your reaction to expend 1 spirit and fly up to 10 feet away (without provoking opportunity attacks) from the creature.</li>
+				<li>Dragon Spirit Piercing Attack. As an action, you can expend 6 spirit to quickly jab with both tonfas, sending a blast of tremendous force in a 15-foot line, that is 5 feet wide. Each creature in that line must make a Dexterity saving throw equal to 8 + your Strength modifier + your Proficiency bonus, taking 2d6 thunder damage on a failed save, or half as much on a successful one.<br></br>
 				If a Huge or larger creature is in 10 feet or more of the line's area, the damage that creature takes is doubled.<br></br>
 				If you're able to make multiple attacks with the Attack action, the dragon spirit piercing attack replaces one of them. Once used, you can't use this property again until you finish a short or long rest.</li>
-				<li><strong><em>Earth Style.</em></strong> As a bonus action, you can expend 2 spirit to increase your tonfas weapon damage die to a d8 until the end of your next turn.</li>
-				<li><strong><em>Propel.</em></strong> As a bonus action, you can expend 1 spirit to launch yourself 10 feet into the air. Until the end of your next turn you gain a fly speed of 10 feet (hover).</li>
+				<li>Earth Style. As a bonus action, you can expend 2 spirit to increase your tonfas weapon damage die to a d8 until the end of your next turn.</li>
+				<li>Propel. As a bonus action, you can expend 1 spirit to launch yourself 10 feet into the air. Until the end of your next turn you gain a fly speed of 10 feet (hover).</li>
 			</ul>
 		</description>
 		<setters>
@@ -2180,13 +2180,13 @@
 			<p class="indent"><strong><em>Dragon Spirit.</em></strong> When you attack a hostile creature with this weapon, you gain 1 spirit (maximum of 7). You lose all spirit, if you don't attack a target by the end of your next turn.</p>
 			<p class="indent">You can expend spirit on the following weapon properties:</p>
 			<ul>
-				<li><strong><em>Air Dash.</em></strong> When you are flying and a creature enters a space within your reach for the first time on a turn, you can use your reaction to expend 1 spirit and fly up to 15 feet away (without provoking opportunity attacks) from the creature.</li>
-				<li><strong><em>Dragon Spirit Piercing Attack.</em></strong> As an action, you can expend 6 spirit to quickly jab with both tonfas, sending a blast of tremendous force in a 15-foot line, that is 5 feet wide. Each creature in that line must make a Dexterity saving throw equal to 8 + your Strength modifier + your Proficiency bonus, taking 3d6 thunder damage on a failed save, or half as much on a successful one.<br></br>
+				<li>Air Dash. When you are flying and a creature enters a space within your reach for the first time on a turn, you can use your reaction to expend 1 spirit and fly up to 15 feet away (without provoking opportunity attacks) from the creature.</li>
+				<li>Dragon Spirit Piercing Attack. As an action, you can expend 6 spirit to quickly jab with both tonfas, sending a blast of tremendous force in a 15-foot line, that is 5 feet wide. Each creature in that line must make a Dexterity saving throw equal to 8 + your Strength modifier + your Proficiency bonus, taking 3d6 thunder damage on a failed save, or half as much on a successful one.<br></br>
 				If a Huge or larger creature is in 10 feet or more of the line's area, the damage that creature takes is doubled.<br></br>
 				If you're able to make multiple attacks with the Attack action, the dragon spirit piercing attack replaces one of them. Once used, you can't use this property again until you finish a short or long rest.</li>
-				<li><strong><em>Earth Style.</em></strong> As a bonus action, you can expend 2 spirit to increase your tonfas weapon damage die to a d8 until the end of your next turn.</li>
-				<li><strong><em>Guard.</em></strong> As a reaction can expend 3 spirit to add 3 AC against one melee attack that would hit it. To do so, you must see the attacker and be wielding both tonfas.</li>
-				<li><strong><em>Propel.</em></strong> As a bonus action, you can expend 1 spirit to launch yourself 10 feet into the air. You gain a fly speed of 10 feet (hover). Your fly (hover) speed is lost at the end of your turn if you have not made a melee attack against an object or hostile creature since your last turn.</li>
+				<li>Earth Style. As a bonus action, you can expend 2 spirit to increase your tonfas weapon damage die to a d8 until the end of your next turn.</li>
+				<li>Guard. As a reaction can expend 3 spirit to add 3 AC against one melee attack that would hit it. To do so, you must see the attacker and be wielding both tonfas.</li>
+				<li>Propel. As a bonus action, you can expend 1 spirit to launch yourself 10 feet into the air. You gain a fly speed of 10 feet (hover). Your fly (hover) speed is lost at the end of your turn if you have not made a melee attack against an object or hostile creature since your last turn.</li>
 			</ul>
 		</description>
 		<setters>
@@ -2208,13 +2208,13 @@
 			<p class="indent"><strong><em>Dragon Spirit.</em></strong> When you attack a hostile creature with this weapon, you gain 1 spirit (maximum of 7). You lose all spirit, if you don't attack a target by the end of your next turn.</p>
 			<p class="indent">You can expend spirit on the following weapon properties:</p>
 			<ul>
-				<li><strong><em>Air Dash.</em></strong> When you are flying and a creature enters a space within your reach for the first time on a turn, you can use your reaction to expend 1 spirit and fly up to 15 feet away (without provoking opportunity attacks) from the creature.</li>
-				<li><strong><em>Dragon Spirit Piercing Attack.</em></strong> As an action, you can expend 6 spirit to quickly jab with both tonfas, sending a blast of tremendous force in a 15-foot line, that is 5 feet wide. Each creature in that line must make a Dexterity saving throw equal to 8 + your Strength modifier + your Proficiency bonus, taking 4d6 thunder damage on a failed save, or half as much on a successful one.<br></br>
+				<li>Air Dash. When you are flying and a creature enters a space within your reach for the first time on a turn, you can use your reaction to expend 1 spirit and fly up to 15 feet away (without provoking opportunity attacks) from the creature.</li>
+				<li>Dragon Spirit Piercing Attack. As an action, you can expend 6 spirit to quickly jab with both tonfas, sending a blast of tremendous force in a 15-foot line, that is 5 feet wide. Each creature in that line must make a Dexterity saving throw equal to 8 + your Strength modifier + your Proficiency bonus, taking 4d6 thunder damage on a failed save, or half as much on a successful one.<br></br>
 				If a Huge or larger creature is in 10 feet or more of the line's area, the damage that creature takes is doubled.<br></br>
 				If you're able to make multiple attacks with the Attack action, the dragon spirit piercing attack replaces one of them. Once used, you can't use this property again until you finish a short or long rest.</li>
-				<li><strong><em>Earth Style.</em></strong> As a bonus action, you can expend 2 spirit to increase your tonfas weapon damage die to a d8 until the end of your next turn.</li>
-				<li><strong><em>Guard.</em></strong> As a reaction can expend 3 spirit to add 3 + your Proficiency bonus to your AC against one melee attack that would hit it. To do so, you must see the attacker and be wielding both tonfas.</li>
-				<li><strong><em>Propel.</em></strong> As a bonus action, you can expend 1 spirit to launch yourself 20 feet into the air. You gain a fly speed of 20 feet (hover). Your fly (hover) speed is lost at the end of your turn if you have not made a melee attack against an object or hostile creature since your last turn.</li>
+				<li>Earth Style. As a bonus action, you can expend 2 spirit to increase your tonfas weapon damage die to a d8 until the end of your next turn.</li>
+				<li>Guard. As a reaction can expend 3 spirit to add 3 + your Proficiency bonus to your AC against one melee attack that would hit it. To do so, you must see the attacker and be wielding both tonfas.</li>
+				<li>Propel. As a bonus action, you can expend 1 spirit to launch yourself 20 feet into the air. You gain a fly speed of 20 feet (hover). Your fly (hover) speed is lost at the end of your turn if you have not made a melee attack against an object or hostile creature since your last turn.</li>
 			</ul>
 		</description>
 		<setters>
@@ -2373,7 +2373,7 @@
 			<p class="indent">Coating save DC = 8 + your proficiency bonus + your Dexterity modifier</p>
 			<p class="indent"><strong><em>Coatings Available:</em></strong></p>
 			<ul>
-				<li><strong><em>Power Coating.</em></strong> You gain a +1 bonus to damage rolls.</li>
+				<li>Power Coating. You gain a +1 bonus to damage rolls.</li>
 			</ul>
 		</description>
 		<setters>
@@ -2397,9 +2397,9 @@
 			<p class="indent">Coating save DC = 8 + your proficiency bonus + your Dexterity modifier</p>
 			<p class="indent"><strong><em>Coatings Available:</em></strong></p>
 			<ul>
-				<li><strong><em>Close Range Coating.</em></strong> You ignore all disadvantages when attacking a creature, you can see, that are within 15 feet of you. You have disadvantage on attacks against creatures that are more than 15 feet from you.</li>
-				<li><strong><em>Poison Coating.</em></strong> A creature struck by this arrow must succeed a Constitution saving throw or be poisoned until the end of your next turn.</li>
-				<li><strong><em>Power Coating +2.</em></strong> You gain a +2 bonus to damage rolls.</li>
+				<li>Close Range Coating. You ignore all disadvantages when attacking a creature, you can see, that are within 15 feet of you. You have disadvantage on attacks against creatures that are more than 15 feet from you.</li>
+				<li>Poison Coating. A creature struck by this arrow must succeed a Constitution saving throw or be poisoned until the end of your next turn.</li>
+				<li>Power Coating +2. You gain a +2 bonus to damage rolls.</li>
 			</ul>
 			<p class="indent"><strong><em>Dragonpiercer (1/Long rest).</em></strong> As an action, you fire a dragonpiercer, striking all creatures in a 5-foot wide, 30-foot line. Each creature in that line must make a Dexterity saving throw equal to your Coating save DC, taking 3d6 piercing damage on a failed save, or half as much on a successful one. If a creature is Huge or larger, it takes double damage.</p>
 		</description>
@@ -2424,11 +2424,11 @@
 			<p class="indent">Coating save DC = 8 + your proficiency bonus + your Dexterity modifier</p>
 			<p class="indent"><strong><em>Coatings Available:</em></strong></p>
 			<ul>
-				<li><strong><em>Close Range Coating.</em></strong> You ignore all disadvantages when attacking a creature, you can see, that are within 15 feet of you. You have disadvantage on attacks against creatures that are more than 15 feet from you.</li>
-				<li><strong><em>Poison Coating.</em></strong> A creature struck by this arrow must succeed a Constitution saving throw or be poisoned until the end of your next turn.</li>
-				<li><strong><em>Paralysis Coating.</em></strong> A creature struck by this arrow must succeed on a Constitution saving throw or be paralyzed for 1 minute. The creature can repeat the save at the end of each of their turns, ending the effect on a successful save. A creature that succeeds a save against this coating is immune to its effect for 24 hours.</li>
-				<li><strong><em>Power Coating +3.</em></strong> You gain a +3 bonus to damage rolls.</li>
-				<li><strong><em>Sleep Coating.</em></strong> A creature struck by this coating must succeed a Constitution saving throw or be incapacitated for 1d4 rounds. If the creature fails the save by 5 or more, they instead fall unconscious for 1 minute, until the creature takes damage, or is shaken awake as an action. A creature that succeeds a save against this coating or wakes up after suffering from its effects is immune to its effect for 24 hours.</li>
+				<li>Close Range Coating. You ignore all disadvantages when attacking a creature, you can see, that are within 15 feet of you. You have disadvantage on attacks against creatures that are more than 15 feet from you.</li>
+				<li>Poison Coating. A creature struck by this arrow must succeed a Constitution saving throw or be poisoned until the end of your next turn.</li>
+				<li>Paralysis Coating. A creature struck by this arrow must succeed on a Constitution saving throw or be paralyzed for 1 minute. The creature can repeat the save at the end of each of their turns, ending the effect on a successful save. A creature that succeeds a save against this coating is immune to its effect for 24 hours.</li>
+				<li>Power Coating +3. You gain a +3 bonus to damage rolls.</li>
+				<li>Sleep Coating. A creature struck by this coating must succeed a Constitution saving throw or be incapacitated for 1d4 rounds. If the creature fails the save by 5 or more, they instead fall unconscious for 1 minute, until the creature takes damage, or is shaken awake as an action. A creature that succeeds a save against this coating or wakes up after suffering from its effects is immune to its effect for 24 hours.</li>
 			</ul>
 			<p class="indent"><strong><em>Dragonpiercer (1/Long rest).</em></strong> As an action, you fire a dragonpiercer, striking all creatures in a 5-foot wide, 30-foot line. Each creature in that line must make a Dexterity saving throw equal to your Coating save DC, taking 4d6 piercing damage on a failed save, or half as much on a successful one. If a creature is Huge or larger, it takes double damage.</p>
 		</description>
@@ -2453,12 +2453,12 @@
 			<p class="indent">Coating save DC = 8 + your proficiency bonus + your Dexterity modifier</p>
 			<p class="indent"><strong><em>Coatings Available:</em></strong></p>
 			<ul>
-				<li><strong><em>Blast Coating.</em></strong> A creature struck by this coating takes an additional 1d6 fire damage and each creature in a 5-foot radius of the creature takes half as much fire damage.</li>
-				<li><strong><em>Close Range Coating.</em></strong> You ignore all disadvantages when attacking a creature, you can see, that are within 15 feet of you. You have disadvantage on attacks against creatures that are more than 15 feet from you.</li>
-				<li><strong><em>Poison Coating.</em></strong> A creature struck by this arrow must succeed a Constitution saving throw or be poisoned until the end of your next turn.</li>
-				<li><strong><em>Paralysis Coating.</em></strong> A creature struck by this arrow must succeed on a Constitution saving throw or be paralyzed for 1 minute. The creature can repeat the save at the end of each of their turns, ending the effect on a successful save. A creature that succeeds a save against this coating is immune to its effect for 24 hours.</li>
-				<li><strong><em>Power Coating +3.</em></strong> You gain a +3 bonus to damage rolls.</li>
-				<li><strong><em>Sleep Coating.</em></strong> A creature struck by this coating must succeed a Constitution saving throw or be incapacitated for 1d4 rounds. If the creature fails the save by 5 or more, they instead fall unconscious for 1 minute, until the creature takes damage, or is shaken awake as an action. A creature that succeeds a save against this coating or wakes up after suffering from its effects is immune to its effect for 24 hours.</li>
+				<li>Blast Coating. A creature struck by this coating takes an additional 1d6 fire damage and each creature in a 5-foot radius of the creature takes half as much fire damage.</li>
+				<li>Close Range Coating. You ignore all disadvantages when attacking a creature, you can see, that are within 15 feet of you. You have disadvantage on attacks against creatures that are more than 15 feet from you.</li>
+				<li>Poison Coating. A creature struck by this arrow must succeed a Constitution saving throw or be poisoned until the end of your next turn.</li>
+				<li>Paralysis Coating. A creature struck by this arrow must succeed on a Constitution saving throw or be paralyzed for 1 minute. The creature can repeat the save at the end of each of their turns, ending the effect on a successful save. A creature that succeeds a save against this coating is immune to its effect for 24 hours.</li>
+				<li>Power Coating +3. You gain a +3 bonus to damage rolls.</li>
+				<li>Sleep Coating. A creature struck by this coating must succeed a Constitution saving throw or be incapacitated for 1d4 rounds. If the creature fails the save by 5 or more, they instead fall unconscious for 1 minute, until the creature takes damage, or is shaken awake as an action. A creature that succeeds a save against this coating or wakes up after suffering from its effects is immune to its effect for 24 hours.</li>
 			</ul>
 			<p class="indent"><strong><em>Dragonpiercer (1/Long rest).</em></strong> As an action, you fire a dragonpiercer, striking all creatures in a 5-foot wide, 30-foot line. Each creature in that line must make a Dexterity saving throw equal to your Coating save DC, taking 5d6 piercing damage on a failed save, or half as much on a successful one. If a creature is Huge or larger, it takes double damage.</p>
 		</description>
@@ -2487,8 +2487,8 @@
 			<p class="indent"><strong><em>Special.</em></strong> The dual repeaters cannot add any  ability score modifier to their damage rolls.</p>
 			<p><strong><em>Available Ammo:</em></strong></p>
 			<ul>
-				<li><strong><em>Normal Ammo.</em></strong> Deals normal weapon damage.</li>
-				<li><strong><em>Tranq Ammo.</em></strong> Acts as a tranq bomb with the repeater's range and weapon proficiency.</li>
+				<li>Normal Ammo. Deals normal weapon damage.</li>
+				<li>Tranq Ammo. Acts as a tranq bomb with the repeater's range and weapon proficiency.</li>
 			</ul>
 		</description>
 		<setters>
@@ -2513,12 +2513,12 @@
 			<p class="indent"><strong><em>Special.</em></strong> The dual repeaters cannot add any  ability score modifier to their damage rolls.</p>
 			<p><strong><em>Available Ammo:</em></strong></p>
 			<ul>
-				<li><strong><em>Blaze Ammo.</em></strong> Your attacks with this ammo deal fire damage instead of piercing.</li>
-				<li><strong><em>Cryo Ammo.</em></strong> Your attacks with this ammo deal cold damage instead of piercing.</li>
-				<li><strong><em>Normal Ammo.</em></strong> Deals normal weapon damage.</li>
-				<li><strong><em>Slime Ammo.</em></strong> Your attacks with this ammo deal acid damage instead of piercing.</li>
-				<li><strong><em>Storm Ammo.</em></strong> Your attacks with this ammo deal lightning damage instead of piercing.</li>
-				<li><strong><em>Tranq Ammo.</em></strong> Acts as a tranq bomb with the repeater's range and weapon proficiency.</li>
+				<li>Blaze Ammo. Your attacks with this ammo deal fire damage instead of piercing.</li>
+				<li>Cryo Ammo. Your attacks with this ammo deal cold damage instead of piercing.</li>
+				<li>Normal Ammo. Deals normal weapon damage.</li>
+				<li>Slime Ammo. Your attacks with this ammo deal acid damage instead of piercing.</li>
+				<li>Storm Ammo. Your attacks with this ammo deal lightning damage instead of piercing.</li>
+				<li>Tranq Ammo. Acts as a tranq bomb with the repeater's range and weapon proficiency.</li>
 			</ul>
 		</description>
 		<setters>
@@ -2545,25 +2545,25 @@
 			<p class="indent"><strong><em>Special.</em></strong> The dual repeaters cannot add any  ability score modifier to their damage rolls.</p>
 			<p><strong><em>Available Ammo:</em></strong></p>
 			<ul>
-				<li><strong><em>Blaze Ammo.</em></strong> Your attacks with this ammo deal fire damage instead of piercing.</li>
-				<li><strong><em>Cryo Ammo.</em></strong> Your attacks with this ammo deal cold damage instead of piercing.</li>
-				<li><strong><em>Dawnstar Ammo.</em></strong> Your attacks with this ammo deal radiant damage instead of piercing.</li>
-				<li><strong><em>Full-Bore Ammo.</em></strong> This ammo passes through each creature in a line equal to your normal attack range. The damage it deals is split evenly between each creature that would be hit by the attack roll made using this ammo.</li>
-				<li><strong><em>Marksman Ammo.</em></strong> Your normal attack range is equal to your maximum attack range while using this ammo.</li>
-				<li><strong><em>Normal Ammo.</em></strong> Deals normal weapon damage.</li>
-				<li><strong><em>Slime Ammo.</em></strong> Your attacks with this ammo deal acid damage instead of piercing.</li>
-				<li><strong><em>Storm Ammo.</em></strong> Your attacks with this ammo deal lightning damage instead of piercing.</li>
-				<li><strong><em>Tranq Ammo.</em></strong> Acts as a tranq bomb with the repeater's range and weapon proficiency.</li>
-				<li><strong><em>Twilight Ammo.</em></strong> Your attacks with this ammo deal necrotic damage instead of piercing.</li>
+				<li>Blaze Ammo. Your attacks with this ammo deal fire damage instead of piercing.</li>
+				<li>Cryo Ammo. Your attacks with this ammo deal cold damage instead of piercing.</li>
+				<li>Dawnstar Ammo. Your attacks with this ammo deal radiant damage instead of piercing.</li>
+				<li>Full-Bore Ammo. This ammo passes through each creature in a line equal to your normal attack range. The damage it deals is split evenly between each creature that would be hit by the attack roll made using this ammo.</li>
+				<li>Marksman Ammo. Your normal attack range is equal to your maximum attack range while using this ammo.</li>
+				<li>Normal Ammo. Deals normal weapon damage.</li>
+				<li>Slime Ammo. Your attacks with this ammo deal acid damage instead of piercing.</li>
+				<li>Storm Ammo. Your attacks with this ammo deal lightning damage instead of piercing.</li>
+				<li>Tranq Ammo. Acts as a tranq bomb with the repeater's range and weapon proficiency.</li>
+				<li>Twilight Ammo. Your attacks with this ammo deal necrotic damage instead of piercing.</li>
 			</ul>
 			<p class="indent"><strong><em>Empowered Boost.</em></strong> Your blaze, cryo, normal, storm, and slime ammo gain the following effects when a creature is hit with the ammo from an empowered repeater.</p>
 			<ul>
-				<li><strong><em>Blaze Ammo.</em></strong> The terrain in a 5-foot space the target is in ignites (unless the target is in a non flammable liquid or in the air). The terrain continues to burn until a creature uses an ction to put it out. A creature that ends its turn on the space takes 1d6 fire damage.</li>
-				<li><strong><em>Cryo Ammo.</em></strong> The target must succeed on a Constitution saving throw again your ammo save DC or be afflicted with waterblight for 1 minute. A target can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success. When a target afflicted by the blight succeeds on its saving throw or the effect ends for it, the target is immune to this additional ammo effect for 24 hours.</li>
-				<li><strong><em>Normal Ammo.</em></strong> This ammo deals an extra 3 piercing damage to the target.</li>
-				<li><strong><em>Slime Ammo.</em></strong> The target's armor class is reduced by 1 until the end of your next turn. A target hit by more than one slime ammo doesn't reduce the armor class.</li>
-				<li><strong><em>Storm Ammo.</em></strong> The target must succeed on a Constitution saving throw again your ammo save DC or be afflicted with thunderblight for 1 minute. A target can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success. When a target afflicted by the blight succeeds on its saving throw or the effect ends for it, the target is immune to this additional ammo effect for 24 hours.</li>
-				<li><strong><em>Tranq Ammo.</em></strong> Acts as a tranq bomb with the repeater's range and weapon proficiency.</li>
+				<li>Blaze Ammo. The terrain in a 5-foot space the target is in ignites (unless the target is in a non flammable liquid or in the air). The terrain continues to burn until a creature uses an ction to put it out. A creature that ends its turn on the space takes 1d6 fire damage.</li>
+				<li>Cryo Ammo. The target must succeed on a Constitution saving throw again your ammo save DC or be afflicted with waterblight for 1 minute. A target can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success. When a target afflicted by the blight succeeds on its saving throw or the effect ends for it, the target is immune to this additional ammo effect for 24 hours.</li>
+				<li>Normal Ammo. This ammo deals an extra 3 piercing damage to the target.</li>
+				<li>Slime Ammo. The target's armor class is reduced by 1 until the end of your next turn. A target hit by more than one slime ammo doesn't reduce the armor class.</li>
+				<li>Storm Ammo. The target must succeed on a Constitution saving throw again your ammo save DC or be afflicted with thunderblight for 1 minute. A target can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success. When a target afflicted by the blight succeeds on its saving throw or the effect ends for it, the target is immune to this additional ammo effect for 24 hours.</li>
+				<li>Tranq Ammo. Acts as a tranq bomb with the repeater's range and weapon proficiency.</li>
 			</ul>
 		</description>
 		<setters>
@@ -2590,36 +2590,36 @@
 			<p class="indent"><strong><em>Special.</em></strong> The dual repeaters cannot add any  ability score modifier to their damage rolls.</p>
 			<p><strong><em>Available Ammo:</em></strong></p>
 			<ul>
-				<li><strong><em>Blaze Ammo.</em></strong> Your attacks with this ammo deal fire damage instead of piercing.</li>
-				<li><strong><em>Cryo Ammo.</em></strong> Your attacks with this ammo deal cold damage instead of piercing.</li>
-				<li><strong><em>Dawnstar Ammo.</em></strong> Your attacks with this ammo deal radiant damage instead of piercing.</li>
-				<li><strong><em>Full-Bore Ammo.</em></strong> This ammo passes through each creature in a line equal to your normal attack range. The damage it deals is split evenly between each creature that would be hit by the attack roll made using this ammo.</li>
-				<li><strong><em>Marksman Ammo.</em></strong> Your normal attack range is equal to your maximum attack range while using this ammo.</li>
-				<li><strong><em>Normal Ammo.</em></strong> Deals normal weapon damage.</li>
-				<li><strong><em>Slime Ammo.</em></strong> Your attacks with this ammo deal acid damage instead of piercing.</li>
-				<li><strong><em>Storm Ammo.</em></strong> Your attacks with this ammo deal lightning damage instead of piercing.</li>
-				<li><strong><em>Tranq Ammo.</em></strong> Acts as a tranq bomb with the repeater's range and weapon proficiency.</li>
-				<li><strong><em>Twilight Ammo.</em></strong> Your attacks with this ammo deal necrotic damage instead of piercing.</li>
+				<li>Blaze Ammo. Your attacks with this ammo deal fire damage instead of piercing.</li>
+				<li>Cryo Ammo. Your attacks with this ammo deal cold damage instead of piercing.</li>
+				<li>Dawnstar Ammo. Your attacks with this ammo deal radiant damage instead of piercing.</li>
+				<li>Full-Bore Ammo. This ammo passes through each creature in a line equal to your normal attack range. The damage it deals is split evenly between each creature that would be hit by the attack roll made using this ammo.</li>
+				<li>Marksman Ammo. Your normal attack range is equal to your maximum attack range while using this ammo.</li>
+				<li>Normal Ammo. Deals normal weapon damage.</li>
+				<li>Slime Ammo. Your attacks with this ammo deal acid damage instead of piercing.</li>
+				<li>Storm Ammo. Your attacks with this ammo deal lightning damage instead of piercing.</li>
+				<li>Tranq Ammo. Acts as a tranq bomb with the repeater's range and weapon proficiency.</li>
+				<li>Twilight Ammo. Your attacks with this ammo deal necrotic damage instead of piercing.</li>
 			</ul>
 			<p class="indent"><strong><em>Empowered Boost.</em></strong> Your dawnstar, full-bore, marksman, twilight ,blaze, cryo, normal, storm, and slime ammo gain the following effects when a creature is hit with the ammo from an empowered repeater.</p>
 			<ul>
-				<li><strong><em>Blaze Ammo.</em></strong> The terrain in a 5-foot space the target is in ignites (unless the target is in a non flammable liquid or in the air). The terrain continues to burn until a creature uses an ction to put it out. A creature that ends its turn on the space takes 1d6 fire damage.</li>
-				<li><strong><em>Cryo Ammo.</em></strong> The target must succeed on a Constitution saving throw again your ammo save DC or be afflicted with waterblight for 1 minute. A target can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success. When a target afflicted by the blight succeeds on its saving throw or the effect ends for it, the target is immune to this additional ammo effect for 24 hours.</li>
-				<li><strong><em>Dawnstar Ammo.</em></strong> The target sheds bright light in a 5-foot radius and dim light for an additional 5-feet until the end of your next turn. Invisible creatures and objects are visible as long as they in the bright light.</li>
-				<li><strong><em>Full-Bore Ammo.</em></strong> You are pushed 15 feet backwards when you make an attack with this ammo.</li>
-				<li><strong><em>Marksman Ammo.</em></strong> When you roll a 20 on your attack roll with this ammo, your triple the dice instead of doubling them.</li>
-				<li><strong><em>Normal Ammo.</em></strong> This ammo deals an extra 3 piercing damage to the target.</li>
-				<li><strong><em>Slime Ammo.</em></strong> The target's armor class is reduced by 1 until the end of your next turn. A target hit by more than one slime ammo doesn't reduce the armor class.</li>
-				<li><strong><em>Storm Ammo.</em></strong> The target must succeed on a Constitution saving throw again your ammo save DC or be afflicted with thunderblight for 1 minute. A target can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success. When a target afflicted by the blight succeeds on its saving throw or the effect ends for it, the target is immune to this additional ammo effect for 24 hours.</li>
-				<li><strong><em>Twlight Ammo.</em></strong> The target must succeed on a Constitution saving throw again your ammo save DC or be blinded until the end of its next turn.</li>
+				<li>Blaze Ammo. The terrain in a 5-foot space the target is in ignites (unless the target is in a non flammable liquid or in the air). The terrain continues to burn until a creature uses an ction to put it out. A creature that ends its turn on the space takes 1d6 fire damage.</li>
+				<li>Cryo Ammo. The target must succeed on a Constitution saving throw again your ammo save DC or be afflicted with waterblight for 1 minute. A target can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success. When a target afflicted by the blight succeeds on its saving throw or the effect ends for it, the target is immune to this additional ammo effect for 24 hours.</li>
+				<li>Dawnstar Ammo. The target sheds bright light in a 5-foot radius and dim light for an additional 5-feet until the end of your next turn. Invisible creatures and objects are visible as long as they in the bright light.</li>
+				<li>Full-Bore Ammo. You are pushed 15 feet backwards when you make an attack with this ammo.</li>
+				<li>Marksman Ammo. When you roll a 20 on your attack roll with this ammo, your triple the dice instead of doubling them.</li>
+				<li>Normal Ammo. This ammo deals an extra 3 piercing damage to the target.</li>
+				<li>Slime Ammo. The target's armor class is reduced by 1 until the end of your next turn. A target hit by more than one slime ammo doesn't reduce the armor class.</li>
+				<li>Storm Ammo. The target must succeed on a Constitution saving throw again your ammo save DC or be afflicted with thunderblight for 1 minute. A target can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success. When a target afflicted by the blight succeeds on its saving throw or the effect ends for it, the target is immune to this additional ammo effect for 24 hours.</li>
+				<li>Twlight Ammo. The target must succeed on a Constitution saving throw again your ammo save DC or be blinded until the end of its next turn.</li>
 			</ul>
 			<p class="indent"><strong><em>Modifications.</em></strong> You have learned the in's and out's of your firearms and learned how to modify them for the challenge ahead. As part of a short rest, you can change out the modification on your repeaters with another. Each repeater can have a modification, but it can't have the same modification as the other repeater.</p>
 			<p class="indent">The following modifications are available on a very rare dual repeaters:</p>
 			<ul>
-				<li><strong><em>Demolition Sights.</em></strong> This repeater deals double damage to objects and structures.</li>
-				<li><strong><em>Lightweight Frame.</em></strong> Your movement speed is increased by 15 feet when you have 3 or less ammo in the chamber.</li>
-				<li><strong><em>Scoped Sights.</em></strong> Your normal and maximum attack range increases by 30 feet.</li>
-				<li><strong><em>Tactician's Magazine.</em></strong> When you reload this repeater when it has 0 ammo remaining, the first attack made with it is always empowered.</li>
+				<li>Demolition Sights. This repeater deals double damage to objects and structures.</li>
+				<li>Lightweight Frame. Your movement speed is increased by 15 feet when you have 3 or less ammo in the chamber.</li>
+				<li>Scoped Sights. Your normal and maximum attack range increases by 30 feet.</li>
+				<li>Tactician's Magazine. When you reload this repeater when it has 0 ammo remaining, the first attack made with it is always empowered.</li>
 			</ul>
 		</description>
 		<setters>
@@ -2646,39 +2646,39 @@
 			<p class="indent"><strong><em>Special.</em></strong> The dual repeaters cannot add any  ability score modifier to their damage rolls.</p>
 			<p><strong><em>Available Ammo:</em></strong></p>
 			<ul>
-				<li><strong><em>Blaze Ammo.</em></strong> Your attacks with this ammo deal fire damage instead of piercing.</li>
-				<li><strong><em>Cryo Ammo.</em></strong> Your attacks with this ammo deal cold damage instead of piercing.</li>
-				<li><strong><em>Dawnstar Ammo.</em></strong> Your attacks with this ammo deal radiant damage instead of piercing.</li>
-				<li><strong><em>Full-Bore Ammo.</em></strong> This ammo passes through each creature in a line equal to your normal attack range. The damage it deals is split evenly between each creature that would be hit by the attack roll made using this ammo.</li>
-				<li><strong><em>Marksman Ammo.</em></strong> Your normal attack range is equal to your maximum attack range while using this ammo.</li>
-				<li><strong><em>Normal Ammo.</em></strong> Deals normal weapon damage.</li>
-				<li><strong><em>Slime Ammo.</em></strong> Your attacks with this ammo deal acid damage instead of piercing.</li>
-				<li><strong><em>Storm Ammo.</em></strong> Your attacks with this ammo deal lightning damage instead of piercing.</li>
-				<li><strong><em>Tranq Ammo.</em></strong> Acts as a tranq bomb with the repeater's range and weapon proficiency.</li>
-				<li><strong><em>Twilight Ammo.</em></strong> Your attacks with this ammo deal necrotic damage instead of piercing.</li>
+				<li>Blaze Ammo. Your attacks with this ammo deal fire damage instead of piercing.</li>
+				<li>Cryo Ammo. Your attacks with this ammo deal cold damage instead of piercing.</li>
+				<li>Dawnstar Ammo. Your attacks with this ammo deal radiant damage instead of piercing.</li>
+				<li>Full-Bore Ammo. This ammo passes through each creature in a line equal to your normal attack range. The damage it deals is split evenly between each creature that would be hit by the attack roll made using this ammo.</li>
+				<li>Marksman Ammo. Your normal attack range is equal to your maximum attack range while using this ammo.</li>
+				<li>Normal Ammo. Deals normal weapon damage.</li>
+				<li>Slime Ammo. Your attacks with this ammo deal acid damage instead of piercing.</li>
+				<li>Storm Ammo. Your attacks with this ammo deal lightning damage instead of piercing.</li>
+				<li>Tranq Ammo. Acts as a tranq bomb with the repeater's range and weapon proficiency.</li>
+				<li>Twilight Ammo. Your attacks with this ammo deal necrotic damage instead of piercing.</li>
 			</ul>
 			<p class="indent"><strong><em>Empowered Boost.</em></strong> Your dawnstar, full-bore, marksman, twilight ,blaze, cryo, normal, storm, and slime ammo gain the following effects when a creature is hit with the ammo from an empowered repeater.</p>
 			<ul>
-				<li><strong><em>Blaze Ammo.</em></strong> The terrain in a 5-foot space the target is in ignites (unless the target is in a non flammable liquid or in the air). The terrain continues to burn until a creature uses an ction to put it out. A creature that ends its turn on the space takes 1d6 fire damage.</li>
-				<li><strong><em>Cryo Ammo.</em></strong> The target must succeed on a Constitution saving throw again your ammo save DC or be afflicted with waterblight for 1 minute. A target can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success. When a target afflicted by the blight succeeds on its saving throw or the effect ends for it, the target is immune to this additional ammo effect for 24 hours.</li>
-				<li><strong><em>Dawnstar Ammo.</em></strong> The target sheds bright light in a 5-foot radius and dim light for an additional 5-feet until the end of your next turn. Invisible creatures and objects are visible as long as they in the bright light.</li>
-				<li><strong><em>Full-Bore Ammo.</em></strong> You are pushed 15 feet backwards when you make an attack with this ammo.</li>
-				<li><strong><em>Marksman Ammo.</em></strong> When you roll a 20 on your attack roll with this ammo, your triple the dice instead of doubling them.</li>
-				<li><strong><em>Normal Ammo.</em></strong> This ammo deals an extra 3 piercing damage to the target.</li>
-				<li><strong><em>Slime Ammo.</em></strong> The target's armor class is reduced by 1 until the end of your next turn. A target hit by more than one slime ammo doesn't reduce the armor class.</li>
-				<li><strong><em>Storm Ammo.</em></strong> The target must succeed on a Constitution saving throw again your ammo save DC or be afflicted with thunderblight for 1 minute. A target can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success. When a target afflicted by the blight succeeds on its saving throw or the effect ends for it, the target is immune to this additional ammo effect for 24 hours.</li>
-				<li><strong><em>Twlight Ammo.</em></strong> The target must succeed on a Constitution saving throw again your ammo save DC or be blinded until the end of its next turn.</li>
+				<li>Blaze Ammo. The terrain in a 5-foot space the target is in ignites (unless the target is in a non flammable liquid or in the air). The terrain continues to burn until a creature uses an ction to put it out. A creature that ends its turn on the space takes 1d6 fire damage.</li>
+				<li>Cryo Ammo. The target must succeed on a Constitution saving throw again your ammo save DC or be afflicted with waterblight for 1 minute. A target can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success. When a target afflicted by the blight succeeds on its saving throw or the effect ends for it, the target is immune to this additional ammo effect for 24 hours.</li>
+				<li>Dawnstar Ammo. The target sheds bright light in a 5-foot radius and dim light for an additional 5-feet until the end of your next turn. Invisible creatures and objects are visible as long as they in the bright light.</li>
+				<li>Full-Bore Ammo. You are pushed 15 feet backwards when you make an attack with this ammo.</li>
+				<li>Marksman Ammo. When you roll a 20 on your attack roll with this ammo, your triple the dice instead of doubling them.</li>
+				<li>Normal Ammo. This ammo deals an extra 3 piercing damage to the target.</li>
+				<li>Slime Ammo. The target's armor class is reduced by 1 until the end of your next turn. A target hit by more than one slime ammo doesn't reduce the armor class.</li>
+				<li>Storm Ammo. The target must succeed on a Constitution saving throw again your ammo save DC or be afflicted with thunderblight for 1 minute. A target can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success. When a target afflicted by the blight succeeds on its saving throw or the effect ends for it, the target is immune to this additional ammo effect for 24 hours.</li>
+				<li>Twlight Ammo. The target must succeed on a Constitution saving throw again your ammo save DC or be blinded until the end of its next turn.</li>
 			</ul>
 			<p class="indent"><strong><em>Modifications.</em></strong> You have learned the in's and out's of your firearms and learned how to modify them for the challenge ahead. As part of a short rest, you can change out the modification on your repeaters with another. Each repeater can have a modification, but it can't have the same modification as the other repeater.</p>
 			<p class="indent">The following modifications are available on a very rare dual repeaters:</p>
 			<ul>
-				<li><strong><em>Capacitive Magazine.</em></strong> When you cast a spell or use a class feature roll a d20. On a 10 or higher, up to 4 pieces of the current ammo type magically appear in the repeater's chamber.</li>
-				<li><strong><em>Demolition Sights.</em></strong> This repeater deals double damage to objects and structures.</li>
-				<li><strong><em>Lightweight Frame.</em></strong> Your movement speed is increased by 15 feet when you have 3 or less ammo in the chamber.</li>
-				<li><strong><em>Lucky Magazine.</em></strong> This repeater's critical hit range is increased by 1 when you have 3 or less ammo remaining in the chamber.</li>
-				<li><strong><em>Scoped Sights.</em></strong> Your normal and maximum attack range increases by 30 feet.</li>
-				<li><strong><em>Suppressor.</em></strong> If you miss a target with an attack from this repeater while hiding, your position is not exposed and you remain hidden. Though the target may be aware of the danger and the rough direction it came from.</li>
-				<li><strong><em>Tactician's Magazine.</em></strong> When you reload this repeater when it has 0 ammo remaining, the first attack made with it is always empowered.</li>
+				<li>Capacitive Magazine. When you cast a spell or use a class feature roll a d20. On a 10 or higher, up to 4 pieces of the current ammo type magically appear in the repeater's chamber.</li>
+				<li>Demolition Sights. This repeater deals double damage to objects and structures.</li>
+				<li>Lightweight Frame. Your movement speed is increased by 15 feet when you have 3 or less ammo in the chamber.</li>
+				<li>Lucky Magazine. This repeater's critical hit range is increased by 1 when you have 3 or less ammo remaining in the chamber.</li>
+				<li>Scoped Sights. Your normal and maximum attack range increases by 30 feet.</li>
+				<li>Suppressor. If you miss a target with an attack from this repeater while hiding, your position is not exposed and you remain hidden. Though the target may be aware of the danger and the rough direction it came from.</li>
+				<li>Tactician's Magazine. When you reload this repeater when it has 0 ammo remaining, the first attack made with it is always empowered.</li>
 			</ul>
 		</description>
 		<setters>
@@ -2704,8 +2704,8 @@
 			<p class="indent"><strong><em>Loading.</em></strong> As a bonus action you switch the ammo your bowgun is using with another. This replaces the standard 5e loading property.</p>
 			<p><strong><em>Available Ammo:</em></strong></p>
 			<ul>
-				<li><strong><em>Normal Ammo.</em></strong> Deals normal weapon damage.</li>
-				<li><strong><em>Tranq Ammo.</em></strong> Acts as a tranq bomb with the repeater's range and weapon proficiency.</li>
+				<li>Normal Ammo. Deals normal weapon damage.</li>
+				<li>Tranq Ammo. Acts as a tranq bomb with the repeater's range and weapon proficiency.</li>
 			</ul>
 		</description>
 		<setters>
@@ -2726,10 +2726,10 @@
 			<p class="indent"><strong><em>Loading.</em></strong> As a bonus action you switch the ammo your bowgun is using with another. This replaces the standard 5e loading property.</p>
 			<p><strong><em>Available Ammo:</em></strong></p>
 			<ul>
-				<li><strong><em>Normal Ammo.</em></strong> Deals normal weapon damage.</li>
-				<li><strong><em>Pierce lvl 1.</em></strong> You gain a +1 bonus to damage rolls.</li>
-				<li><strong><em>Recover lvl 1.</em></strong> Instead of taking damage, a creature hit by this ammo regains 1d4 hit points.</li>
-				<li><strong><em>Tranq Ammo.</em></strong> Acts as a tranq bomb with the repeater's range and weapon proficiency.</li>
+				<li>Normal Ammo. Deals normal weapon damage.</li>
+				<li>Pierce lvl 1. You gain a +1 bonus to damage rolls.</li>
+				<li>Recover lvl 1. Instead of taking damage, a creature hit by this ammo regains 1d4 hit points.</li>
+				<li>Tranq Ammo. Acts as a tranq bomb with the repeater's range and weapon proficiency.</li>
 			</ul>
 		</description>
 		<setters>
@@ -2752,13 +2752,13 @@
 			<p class="indent"><strong><em>Loading.</em></strong> As a bonus action you switch the ammo your bowgun is using with another. This replaces the standard 5e loading property.</p>
 			<p><strong><em>Available Ammo:</em></strong></p>
 			<ul>
-				<li><strong><em>Cluster Ammo.</em></strong> This ammo deals no weapon damage, it instead explodes on a hit, dealing 2d6 fire damage to the target and each creature within 5 feet of the target.</li>
-				<li><strong><em>Normal Ammo.</em></strong> Deals normal weapon damage.</li>
-				<li><strong><em>Pierce lvl 2.</em></strong> You gain a +2 bonus to damage rolls.</li>
-				<li><strong><em>Poison Ammo.</em></strong> A creature hit by this ammo must succeed a Constitution saving throw or become poisoned for 1 minute. A poisoned creature can repeat its saving throw at the end of its turn, ending the poison on a success.</li>
-				<li><strong><em>Recover lvl 1.</em></strong> Instead of taking damage, a creature hit by this ammo regains 1d4 hit points.</li>
-				<li><strong><em>Spread Ammo.</em></strong> When you hit a creature with this ammo and it is within half your normal bowgun range, the damage dealt to the target is split evenly between it and each creature adjacent to it.</li>
-				<li><strong><em>Tranq Ammo.</em></strong> Acts as a tranq bomb with the repeater's range and weapon proficiency.</li>
+				<li>Cluster Ammo. This ammo deals no weapon damage, it instead explodes on a hit, dealing 2d6 fire damage to the target and each creature within 5 feet of the target.</li>
+				<li>Normal Ammo. Deals normal weapon damage.</li>
+				<li>Pierce lvl 2. You gain a +2 bonus to damage rolls.</li>
+				<li>Poison Ammo. A creature hit by this ammo must succeed a Constitution saving throw or become poisoned for 1 minute. A poisoned creature can repeat its saving throw at the end of its turn, ending the poison on a success.</li>
+				<li>Recover lvl 1. Instead of taking damage, a creature hit by this ammo regains 1d4 hit points.</li>
+				<li>Spread Ammo. When you hit a creature with this ammo and it is within half your normal bowgun range, the damage dealt to the target is split evenly between it and each creature adjacent to it.</li>
+				<li>Tranq Ammo. Acts as a tranq bomb with the repeater's range and weapon proficiency.</li>
 			</ul>
 		</description>
 		<setters>
@@ -2782,15 +2782,15 @@
 			<p class="indent"><strong><em>Loading.</em></strong> As a bonus action you switch the ammo your bowgun is using with another. This replaces the standard 5e loading property.</p>
 			<p><strong><em>Available Ammo:</em></strong></p>
 			<ul>
-				<li><strong><em>Cluster Ammo.</em></strong> This ammo deals no weapon damage, it instead explodes on a hit, dealing 2d6 fire damage to the target and each creature within 5 feet of the target.</li>
-				<li><strong><em>Normal Ammo.</em></strong> Deals normal weapon damage.</li>
-				<li><strong><em></em>Paralysis Ammo.</strong> A creature hit by this ammo must succeed a Constitution saving throw or be paralyzed until the end of your next turn. A creature that succeeds on its saving throw, is immune to ammo's paralysis effect for 24 hours.</li>
-				<li><strong><em>Pierce lvl 3.</em></strong> You gain a +3 bonus to damage rolls.</li>
-				<li><strong><em>Poison Ammo.</em></strong> A creature hit by this ammo must succeed a Constitution saving throw or become poisoned for 1 minute. A poisoned creature can repeat its saving throw at the end of its turn, ending the poison on a success.</li>
-				<li><strong><em>Recover lvl 2.</em></strong> Instead of taking damage, a creature hit by this ammo regains 1d6 hit points.</li>
-				<li><strong><em>Spread Ammo.</em></strong> When you hit a creature with this ammo and it is within half your normal bowgun range, the damage dealt to the target is split evenly between it and each creature adjacent to it.</li>
-				<li><strong><em>Tranq Ammo.</em></strong> Acts as a tranq bomb with the repeater's range and weapon proficiency.</li>
-				<li><strong><em>Wyvern Ammo.</em></strong> You do not make an attack with this ammo, instead each creature in a 15-foot cone in front of you must succeed on a Dexterity saving throw, taking 1d12 fire damage on a failed save, or half as much damage on a successful one.</li>
+				<li>Cluster Ammo. This ammo deals no weapon damage, it instead explodes on a hit, dealing 2d6 fire damage to the target and each creature within 5 feet of the target.</li>
+				<li>Normal Ammo. Deals normal weapon damage.</li>
+				<li>Paralysis Ammo. A creature hit by this ammo must succeed a Constitution saving throw or be paralyzed until the end of your next turn. A creature that succeeds on its saving throw, is immune to ammo's paralysis effect for 24 hours.</li>
+				<li>Pierce lvl 3. You gain a +3 bonus to damage rolls.</li>
+				<li>Poison Ammo. A creature hit by this ammo must succeed a Constitution saving throw or become poisoned for 1 minute. A poisoned creature can repeat its saving throw at the end of its turn, ending the poison on a success.</li>
+				<li>Recover lvl 2. Instead of taking damage, a creature hit by this ammo regains 1d6 hit points.</li>
+				<li>Spread Ammo. When you hit a creature with this ammo and it is within half your normal bowgun range, the damage dealt to the target is split evenly between it and each creature adjacent to it.</li>
+				<li>Tranq Ammo. Acts as a tranq bomb with the repeater's range and weapon proficiency.</li>
+				<li>Wyvern Ammo. You do not make an attack with this ammo, instead each creature in a 15-foot cone in front of you must succeed on a Dexterity saving throw, taking 1d12 fire damage on a failed save, or half as much damage on a successful one.</li>
 			</ul>
 		</description>
 		<setters>
@@ -2814,17 +2814,17 @@
 			<p class="indent"><strong><em>Loading.</em></strong> As a bonus action you switch the ammo your bowgun is using with another. This replaces the standard 5e loading property.</p>
 			<p><strong><em>Available Ammo:</em></strong></p>
 			<ul>
-				<li><strong><em>Cluster Ammo.</em></strong> This ammo deals no weapon damage, it instead explodes on a hit, dealing 2d6 fire damage to the target and each creature within 5 feet of the target.</li>
-				<li><strong><em>Normal Ammo.</em></strong> Deals normal weapon damage.</li>
-				<li><strong><em></em>Paralysis Ammo.</strong> A creature hit by this ammo must succeed a Constitution saving throw or be paralyzed until the end of your next turn. A creature that succeeds on its saving throw, is immune to ammo's paralysis effect for 24 hours.</li>
-				<li><strong><em>Pierce lvl 3.</em></strong> You gain a +3 bonus to damage rolls.</li>
-				<li><strong><em>Poison Ammo.</em></strong> A creature hit by this ammo must succeed a Constitution saving throw or become poisoned for 1 minute. A poisoned creature can repeat its saving throw at the end of its turn, ending the poison on a success.</li>
-				<li><strong><em>Recover lvl 2.</em></strong> Instead of taking damage, a creature hit by this ammo regains 1d6 hit points.</li>
-				<li><strong><em>Slicing Ammo.</em></strong> This ammo deals no damage, the target must succeed on a Dexterity saving throw, taking 5d6 slashing damage on a failed save, or half as much on a successful one.</li>
-				<li><strong><em>Spread Ammo.</em></strong> When you hit a creature with this ammo and it is within half your normal bowgun range, the damage dealt to the target is split evenly between it and each creature adjacent to it.</li>
-				<li><strong><em></em>Sticky Ammo.</strong> A creature hit by this ammo must succeed a Strength saving throw or be restrained for 1 minute, the creature can use their action to attempt to break free (Escape DC equal to your Ammo save DC).</li>
-				<li><strong><em>Tranq Ammo.</em></strong> Acts as a tranq bomb with the repeater's range and weapon proficiency.</li>
-				<li><strong><em>Wyvern Ammo.</em></strong> You do not make an attack with this ammo, instead each creature in a 15-foot cone in front of you must succeed on a Dexterity saving throw, taking 1d12 fire damage on a failed save, or half as much damage on a successful one.</li>
+				<li>Cluster Ammo. This ammo deals no weapon damage, it instead explodes on a hit, dealing 2d6 fire damage to the target and each creature within 5 feet of the target.</li>
+				<li>Normal Ammo. Deals normal weapon damage.</li>
+				<li>Paralysis Ammo. A creature hit by this ammo must succeed a Constitution saving throw or be paralyzed until the end of your next turn. A creature that succeeds on its saving throw, is immune to ammo's paralysis effect for 24 hours.</li>
+				<li>Pierce lvl 3. You gain a +3 bonus to damage rolls.</li>
+				<li>Poison Ammo. A creature hit by this ammo must succeed a Constitution saving throw or become poisoned for 1 minute. A poisoned creature can repeat its saving throw at the end of its turn, ending the poison on a success.</li>
+				<li>Recover lvl 2. Instead of taking damage, a creature hit by this ammo regains 1d6 hit points.</li>
+				<li>Slicing Ammo. This ammo deals no damage, the target must succeed on a Dexterity saving throw, taking 5d6 slashing damage on a failed save, or half as much on a successful one.</li>
+				<li>Spread Ammo. When you hit a creature with this ammo and it is within half your normal bowgun range, the damage dealt to the target is split evenly between it and each creature adjacent to it.</li>
+				<li>Sticky Ammo. A creature hit by this ammo must succeed a Strength saving throw or be restrained for 1 minute, the creature can use their action to attempt to break free (Escape DC equal to your Ammo save DC).</li>
+				<li>Tranq Ammo. Acts as a tranq bomb with the repeater's range and weapon proficiency.</li>
+				<li>Wyvern Ammo. You do not make an attack with this ammo, instead each creature in a 15-foot cone in front of you must succeed on a Dexterity saving throw, taking 1d12 fire damage on a failed save, or half as much damage on a successful one.</li>
 			</ul>
 		</description>
 		<setters>
@@ -2856,8 +2856,8 @@
 			<p class="indent"><strong><em>Loading.</em></strong> As a bonus action you switch the ammo your bowgun is using with another. This replaces the standard 5e loading property.</p>
 			<p><strong><em>Available Ammo:</em></strong></p>
 			<ul>
-				<li><strong><em>Normal Ammo.</em></strong> Deals normal weapon damage.</li>
-				<li><strong><em>Tranq Ammo.</em></strong> Acts as a tranq bomb with the bowgun's range and weapon proficiency..</li>
+				<li>Normal Ammo. Deals normal weapon damage.</li>
+				<li>Tranq Ammo. Acts as a tranq bomb with the bowgun's range and weapon proficiency..</li>
 			</ul>
 		</description>
 		<setters>
@@ -2884,15 +2884,15 @@
 			<p class="indent"><strong><em>Loading.</em></strong> As a bonus action you switch the ammo your bowgun is using with another. This replaces the standard 5e loading property.</p>
 			<p><strong><em>Available Ammo:</em></strong></p>
 			<ul>
-				<li><strong><em>Normal Ammo.</em></strong> Deals normal weapon damage.</li>
-				<li><strong><em>Flaming Ammo.</em></strong> Your attacks deal fire damage.</li>
-				<li><strong><em>Thunder Ammo.</em></strong> Your attacks deal thunder damage.</li>
-				<li><strong><em>Water Ammo.</em></strong> Your attacks deal acid damage.</li>
-				<li><strong><em>Pierce Ammo.</em></strong> You gain a +1 bonus to damage rolls.</li>
-				<li><strong><em>Spread Ammo.</em></strong> When you hit a creature with this ammo and it is within half your normal bowgun range, the damage dealt to the target is split evenly between it and each creature adjacent to it.</li>
-				<li><strong><em>Tranq Ammo.</em></strong> Acts as a tranq bomb with the bowgun's range and weapon proficiency..</li>
-				<li><strong><em>Poison Ammo.</em></strong> A creature hit by this ammo must succeed a Constitution saving throw or be poisoned for 1 minute. A poisoned target can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success.</li>
-				<li><strong><em>Recover lvl 1.</em></strong> Instead of taking damage, a creature hit by this ammo regains 1d4 hit points.</li>
+				<li>Normal Ammo. Deals normal weapon damage.</li>
+				<li>Flaming Ammo. Your attacks deal fire damage.</li>
+				<li>Thunder Ammo. Your attacks deal thunder damage.</li>
+				<li>Water Ammo. Your attacks deal acid damage.</li>
+				<li>Pierce Ammo. You gain a +1 bonus to damage rolls.</li>
+				<li>Spread Ammo. When you hit a creature with this ammo and it is within half your normal bowgun range, the damage dealt to the target is split evenly between it and each creature adjacent to it.</li>
+				<li>Tranq Ammo. Acts as a tranq bomb with the bowgun's range and weapon proficiency..</li>
+				<li>Poison Ammo. A creature hit by this ammo must succeed a Constitution saving throw or be poisoned for 1 minute. A poisoned target can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success.</li>
+				<li>Recover lvl 1. Instead of taking damage, a creature hit by this ammo regains 1d4 hit points.</li>
 			</ul>
 		</description>
 		<setters>
@@ -2922,21 +2922,21 @@
 			<p class="indent"><strong><em>Loading.</em></strong> As a bonus action you switch the ammo your bowgun is using with another. This replaces the standard 5e loading property.</p>
 			<p><strong><em>Available Ammo:</em></strong></p>
 			<ul>
-				<li><strong><em>Normal Ammo.</em></strong> Deals normal weapon damage.</li>
-				<li><strong><em>Flaming Ammo.</em></strong> Your attacks deal fire damage.</li>
-				<li><strong><em>Thunder Ammo.</em></strong> Your attacks deal thunder damage.</li>
-				<li><strong><em>Water Ammo.</em></strong> Your attacks deal acid damage.</li>
-				<li><strong><em>Dragon Ammo.</em></strong> Your attacks deal necrotic damage.</li>
-				<li><strong><em>Pierce Ammo.</em></strong> You gain a +1 bonus to damage rolls.</li>
-				<li><strong><em>Spread Ammo.</em></strong> When you hit a creature with this ammo and it is within half your normal bowgun range, the damage dealt to the target is split evenly between it and each creature adjacent to it.</li>
-				<li><strong><em>Tranq Ammo.</em></strong> Acts as a tranq bomb with the bowgun's range and weapon proficiency..</li>
-				<li><strong><em>Poison Ammo.</em></strong> A creature hit by this ammo must succeed a Constitution saving throw or be poisoned for 1 minute. A poisoned target can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success.</li>
-				<li><strong><em>Recover lvl 1.</em></strong> Instead of taking damage, a creature hit by this ammo regains 1d4 hit points.</li>
-				<li><strong><em>Armor Ammo.</em></strong> This ammo deals no damage, instead when you hit a creature with this ammo, that creature gains a +2 bonus to its AC for 1 minute. Hitting a creature with armor ammo again refreshes the duration.</li>
-				<li><strong><em>Demon Ammo.</em></strong> This ammo deals no damage, instead when you hit a creature with this ammo, that creature gains a +2 bonus to damage rolls for 1 minute. Hitting a creature with demon ammo again refreshes the duration.</li>
-				<li><strong><em>Paralysis Ammo.</em></strong> A creature hit by this ammo must succeed a Constitution saving throw or be incapacitated and have its movement speed reduced to 0 until the end of your next turn. If the creature fails the save by 5 or more, it is paralyzed instead until the end of your next turn.</li>
-				<li><strong><em>Sleep Ammo.</em></strong> This ammo deals no damage, if the target is below 50 hit points it falls unconscious for 1 minute, until it takes damage, or until someone uses an action to shake or slap it awake.</li>
-				<li><strong><em>Sticky Ammo.</em></strong> A creature hit by this ammo must succeed a Strength saving throw or be restrained for 1 minute, the creature can use their action to attempt to break free (Escape DC equal to your Ammo save DC).</li>
+				<li>Normal Ammo. Deals normal weapon damage.</li>
+				<li>Flaming Ammo. Your attacks deal fire damage.</li>
+				<li>Thunder Ammo. Your attacks deal thunder damage.</li>
+				<li>Water Ammo. Your attacks deal acid damage.</li>
+				<li>Dragon Ammo. Your attacks deal necrotic damage.</li>
+				<li>Pierce Ammo. You gain a +1 bonus to damage rolls.</li>
+				<li>Spread Ammo. When you hit a creature with this ammo and it is within half your normal bowgun range, the damage dealt to the target is split evenly between it and each creature adjacent to it.</li>
+				<li>Tranq Ammo. Acts as a tranq bomb with the bowgun's range and weapon proficiency..</li>
+				<li>Poison Ammo. A creature hit by this ammo must succeed a Constitution saving throw or be poisoned for 1 minute. A poisoned target can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success.</li>
+				<li>Recover lvl 1. Instead of taking damage, a creature hit by this ammo regains 1d4 hit points.</li>
+				<li>Armor Ammo. This ammo deals no damage, instead when you hit a creature with this ammo, that creature gains a +2 bonus to its AC for 1 minute. Hitting a creature with armor ammo again refreshes the duration.</li>
+				<li>Demon Ammo. This ammo deals no damage, instead when you hit a creature with this ammo, that creature gains a +2 bonus to damage rolls for 1 minute. Hitting a creature with demon ammo again refreshes the duration.</li>
+				<li>Paralysis Ammo. A creature hit by this ammo must succeed a Constitution saving throw or be incapacitated and have its movement speed reduced to 0 until the end of your next turn. If the creature fails the save by 5 or more, it is paralyzed instead until the end of your next turn.</li>
+				<li>Sleep Ammo. This ammo deals no damage, if the target is below 50 hit points it falls unconscious for 1 minute, until it takes damage, or until someone uses an action to shake or slap it awake.</li>
+				<li>Sticky Ammo. A creature hit by this ammo must succeed a Strength saving throw or be restrained for 1 minute, the creature can use their action to attempt to break free (Escape DC equal to your Ammo save DC).</li>
 			</ul>
 		</description>
 		<setters>
@@ -2967,22 +2967,22 @@
 			<p class="indent"><strong><em>Loading.</em></strong> As a bonus action you switch the ammo your bowgun is using with another. This replaces the standard 5e loading property.</p>
 			<p><strong><em>Available Ammo:</em></strong></p>
 			<ul>
-				<li><strong><em>Normal Ammo.</em></strong> Deals normal weapon damage.</li>
-				<li><strong><em>Flaming Ammo.</em></strong> Your attacks deal fire damage.</li>
-				<li><strong><em>Thunder Ammo.</em></strong> Your attacks deal thunder damage.</li>
-				<li><strong><em>Water Ammo.</em></strong> Your attacks deal acid damage.</li>
-				<li><strong><em>Dragon Ammo.</em></strong> Your attacks deal necrotic damage.</li>
-				<li><strong><em>Pierce Ammo.</em></strong> You gain a +1 bonus to damage rolls.</li>
-				<li><strong><em>Spread Ammo.</em></strong> When you hit a creature with this ammo and it is within half your normal bowgun range, the damage dealt to the target is split evenly between it and each creature adjacent to it.</li>
-				<li><strong><em>Tranq Ammo.</em></strong> Acts as a tranq bomb with the bowgun's range and weapon proficiency..</li>
-				<li><strong><em>Poison Ammo.</em></strong> A creature hit by this ammo must succeed a Constitution saving throw or be poisoned for 1 minute. A poisoned target can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success.</li>
-				<li><strong><em>Recover lvl 1.</em></strong> Instead of taking damage, a creature hit by this ammo regains 1d4 hit points.</li>
-				<li><strong><em>Recover lvl 2.</em></strong> Instead of taking damage, a creature hit by this ammo regains 1d6 hit points.</li>
-				<li><strong><em>Armor Ammo.</em></strong> This ammo deals no damage, instead when you hit a creature with this ammo, that creature gains a +2 bonus to its AC for 1 minute. Hitting a creature with armor ammo again refreshes the duration.</li>
-				<li><strong><em>Demon Ammo.</em></strong> This ammo deals no damage, instead when you hit a creature with this ammo, that creature gains a +2 bonus to damage rolls for 1 minute. Hitting a creature with demon ammo again refreshes the duration.</li>
-				<li><strong><em>Paralysis Ammo.</em></strong> A creature hit by this ammo must succeed a Constitution saving throw or be incapacitated and have its movement speed reduced to 0 until the end of your next turn. If the creature fails the save by 5 or more, it is paralyzed instead until the end of your next turn.</li>
-				<li><strong><em>Sleep Ammo.</em></strong> This ammo deals no damage, if the target is below 50 hit points it falls unconscious for 1 minute, until it takes damage, or until someone uses an action to shake or slap it awake.</li>
-				<li><strong><em>Sticky Ammo.</em></strong> A creature hit by this ammo must succeed a Strength saving throw or be restrained for 1 minute, the creature can use their action to attempt to break free (Escape DC equal to your Ammo save DC).</li>
+				<li>Normal Ammo. Deals normal weapon damage.</li>
+				<li>Flaming Ammo. Your attacks deal fire damage.</li>
+				<li>Thunder Ammo. Your attacks deal thunder damage.</li>
+				<li>Water Ammo. Your attacks deal acid damage.</li>
+				<li>Dragon Ammo. Your attacks deal necrotic damage.</li>
+				<li>Pierce Ammo. You gain a +1 bonus to damage rolls.</li>
+				<li>Spread Ammo. When you hit a creature with this ammo and it is within half your normal bowgun range, the damage dealt to the target is split evenly between it and each creature adjacent to it.</li>
+				<li>Tranq Ammo. Acts as a tranq bomb with the bowgun's range and weapon proficiency..</li>
+				<li>Poison Ammo. A creature hit by this ammo must succeed a Constitution saving throw or be poisoned for 1 minute. A poisoned target can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success.</li>
+				<li>Recover lvl 1. Instead of taking damage, a creature hit by this ammo regains 1d4 hit points.</li>
+				<li>Recover lvl 2. Instead of taking damage, a creature hit by this ammo regains 1d6 hit points.</li>
+				<li>Armor Ammo. This ammo deals no damage, instead when you hit a creature with this ammo, that creature gains a +2 bonus to its AC for 1 minute. Hitting a creature with armor ammo again refreshes the duration.</li>
+				<li>Demon Ammo. This ammo deals no damage, instead when you hit a creature with this ammo, that creature gains a +2 bonus to damage rolls for 1 minute. Hitting a creature with demon ammo again refreshes the duration.</li>
+				<li>Paralysis Ammo. A creature hit by this ammo must succeed a Constitution saving throw or be incapacitated and have its movement speed reduced to 0 until the end of your next turn. If the creature fails the save by 5 or more, it is paralyzed instead until the end of your next turn.</li>
+				<li>Sleep Ammo. This ammo deals no damage, if the target is below 50 hit points it falls unconscious for 1 minute, until it takes damage, or until someone uses an action to shake or slap it awake.</li>
+				<li>Sticky Ammo. A creature hit by this ammo must succeed a Strength saving throw or be restrained for 1 minute, the creature can use their action to attempt to break free (Escape DC equal to your Ammo save DC).</li>
 			</ul>
 		</description>
 		<setters>
@@ -3013,22 +3013,22 @@
 			<p class="indent"><strong><em>Loading.</em></strong> As a bonus action you switch the ammo your bowgun is using with another. This replaces the standard 5e loading property.</p>
 			<p><strong><em>Available Ammo:</em></strong></p>
 			<ul>
-				<li><strong><em>Normal Ammo.</em></strong> Deals normal weapon damage.</li>
-				<li><strong><em>Flaming Ammo.</em></strong> Your attacks deal fire damage.</li>
-				<li><strong><em>Thunder Ammo.</em></strong> Your attacks deal thunder damage.</li>
-				<li><strong><em>Water Ammo.</em></strong> Your attacks deal acid damage.</li>
-				<li><strong><em>Dragon Ammo.</em></strong> Your attacks deal necrotic damage.</li>
-				<li><strong><em>Pierce Ammo.</em></strong> You gain a +1 bonus to damage rolls.</li>
-				<li><strong><em>Spread Ammo.</em></strong> When you hit a creature with this ammo and it is within half your normal bowgun range, the damage dealt to the target is split evenly between it and each creature adjacent to it.</li>
-				<li><strong><em>Tranq Ammo.</em></strong> Acts as a tranq bomb with the bowgun's range and weapon proficiency..</li>
-				<li><strong><em>Poison Ammo.</em></strong> A creature hit by this ammo must succeed a Constitution saving throw or be poisoned for 1 minute. A poisoned target can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success.</li>
-				<li><strong><em>Recover lvl 1.</em></strong> Instead of taking damage, a creature hit by this ammo regains 1d4 hit points.</li>
-				<li><strong><em>Recover lvl 2.</em></strong> Instead of taking damage, a creature hit by this ammo regains 1d6 hit points.</li>
-				<li><strong><em>Armor Ammo.</em></strong> This ammo deals no damage, instead when you hit a creature with this ammo, that creature gains a +2 bonus to its AC for 1 minute. Hitting a creature with armor ammo again refreshes the duration.</li>
-				<li><strong><em>Demon Ammo.</em></strong> This ammo deals no damage, instead when you hit a creature with this ammo, that creature gains a +2 bonus to damage rolls for 1 minute. Hitting a creature with demon ammo again refreshes the duration.</li>
-				<li><strong><em>Paralysis Ammo.</em></strong> A creature hit by this ammo must succeed a Constitution saving throw or be incapacitated and have its movement speed reduced to 0 until the end of your next turn. If the creature fails the save by 5 or more, it is paralyzed instead until the end of your next turn.</li>
-				<li><strong><em>Sleep Ammo.</em></strong> This ammo deals no damage, if the target is below 50 hit points it falls unconscious for 1 minute, until it takes damage, or until someone uses an action to shake or slap it awake.</li>
-				<li><strong><em>Sticky Ammo.</em></strong> A creature hit by this ammo must succeed a Strength saving throw or be restrained for 1 minute, the creature can use their action to attempt to break free (Escape DC equal to your Ammo save DC).</li>
+				<li>Normal Ammo. Deals normal weapon damage.</li>
+				<li>Flaming Ammo. Your attacks deal fire damage.</li>
+				<li>Thunder Ammo. Your attacks deal thunder damage.</li>
+				<li>Water Ammo. Your attacks deal acid damage.</li>
+				<li>Dragon Ammo. Your attacks deal necrotic damage.</li>
+				<li>Pierce Ammo. You gain a +1 bonus to damage rolls.</li>
+				<li>Spread Ammo. When you hit a creature with this ammo and it is within half your normal bowgun range, the damage dealt to the target is split evenly between it and each creature adjacent to it.</li>
+				<li>Tranq Ammo. Acts as a tranq bomb with the bowgun's range and weapon proficiency.</li>
+				<li>Poison Ammo. A creature hit by this ammo must succeed a Constitution saving throw or be poisoned for 1 minute. A poisoned target can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success.</li>
+				<li>Recover lvl 1. Instead of taking damage, a creature hit by this ammo regains 1d4 hit points.</li>
+				<li>Recover lvl 2. Instead of taking damage, a creature hit by this ammo regains 1d6 hit points.</li>
+				<li>Armor Ammo. This ammo deals no damage, instead when you hit a creature with this ammo, that creature gains a +2 bonus to its AC for 1 minute. Hitting a creature with armor ammo again refreshes the duration.</li>
+				<li>Demon Ammo. This ammo deals no damage, instead when you hit a creature with this ammo, that creature gains a +2 bonus to damage rolls for 1 minute. Hitting a creature with demon ammo again refreshes the duration.</li>
+				<li>Paralysis Ammo. A creature hit by this ammo must succeed a Constitution saving throw or be incapacitated and have its movement speed reduced to 0 until the end of your next turn. If the creature fails the save by 5 or more, it is paralyzed instead until the end of your next turn.</li>
+				<li>Sleep Ammo. This ammo deals no damage, if the target is below 50 hit points it falls unconscious for 1 minute, until it takes damage, or until someone uses an action to shake or slap it awake.</li>
+				<li>Sticky Ammo. A creature hit by this ammo must succeed a Strength saving throw or be restrained for 1 minute, the creature can use their action to attempt to break free (Escape DC equal to your Ammo save DC).</li>
 			</ul>
 		</description>
 		<setters>
