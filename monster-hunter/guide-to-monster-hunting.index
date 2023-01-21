@@ -13,6 +13,7 @@
 		<file name="source.xml" url="https://raw.githubusercontent.com/mkitza/elements-monsterhunter/develop/monster-hunter/guide-to-monster-hunting/source.xml" />
 		<file name="items-gear.xml" url="https://raw.githubusercontent.com/mkitza/elements-monsterhunter/develop/monster-hunter/guide-to-monster-hunting/items-gear.xml" />
 		<file name="items-weapons.xml" url="https://raw.githubusercontent.com/mkitza/elements-monsterhunter/develop/monster-hunter/guide-to-monster-hunting/items-weapons.xml" />
+		<file name="items-ammo.xml" url="https://raw.githubusercontent.com/mkitza/elements-monsterhunter/develop/monster-hunter/guide-to-monster-hunting/items-ammo.xml" />
 		<file name="races.xml" url="https://raw.githubusercontent.com/mkitza/elements-monsterhunter/develop/monster-hunter/guide-to-monster-hunting/races.xml" />
 	</files>
 </index>

@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<elements>
+	<info>
+		<name>Monster Hunter Ammo</name>
+		<description>Ammunition that are found within the Monster Hunter Universe.</description>
+		<update version="0.0.1">
+			<file name="items-ammo.xml"
+				url="https://raw.githubusercontent.com/mkitza/elements-monsterhunter/develop/monster-hunter/guide-to-monster-hunting/items-ammo.xml" />
+		</update>
+	</info>
+
+	<element name="Pierce Ammo" type="Light Bowgun Ammunition"
+		source="Amellwind's Guide to Monster Hunting" id="ID_MH_AMMO_LBG_PIERCE">
+		<description>
+			<p>You gain a +1 bonus to damage rolls.</p>
+			<p class="indent"><strong><em>Capacity.</em></strong> 40</p>
+			<p class="indent"><strong><em>Crafting. </em></strong> Smith's Tools (DC 12): Huskberry + Velociprey Fang</p>
+		</description>
+		<setters>
+			<set name="category">Ammunition</set>
+			<set name="cost" currency="gp" bulk="20">2</set>
+			<set name="weight" lb="0.075">15/20 lb.</set>
+			<set name="type">Ammunition</set>
+			<set name="stackable">true</set>
+		</setters>
+	</element>
+</elements>
