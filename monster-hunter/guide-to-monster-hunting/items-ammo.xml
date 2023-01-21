@@ -4,14 +4,11 @@
 		<name>Monster Hunter Ammo</name>
 		<description>Ammunition that are found within the Monster Hunter Universe.</description>
 		<update version="0.0.1">
-			<file name="items-ammo.xml"
-				url="https://raw.githubusercontent.com/mkitza/elements-monsterhunter/develop/monster-hunter/guide-to-monster-hunting/items-ammo.xml" />
+			<file name="items-ammo.xml" url="https://raw.githubusercontent.com/mkitza/elements-monsterhunter/develop/monster-hunter/guide-to-monster-hunting/items-ammo.xml" />
 		</update>
 	</info>
 
-	<element
-		name="Light Bowgun Armor Ammo" type="item" source="Amellwind's Guide to Monster Hunting"
-		id="ID_MH_AMMO_LBG_ARMOR">
+	<element name="Light Bowgun Armor Ammo" type="item" source="Amellwind's Guide to Monster Hunting" id="ID_MH_AMMO_LBG_ARMOR">
 		<description>
 			<p>This ammo deals no damage, instead when you hit a creature with this ammo, that creature gains a +2 bonus to its AC for 1 minute. Hitting a creature with armor ammo again refreshes the duration.</p>
 			<p class="indent"><strong><em>Capacity.</em></strong> 1</p>
@@ -26,9 +23,7 @@
 			<set name="stackable">true</set>
 		</setters>
 	</element>
-<element
-		name="Light Bowgun Demon Ammo" type="item" source="Amellwind's Guide to Monster Hunting"
-		id="ID_MH_AMMO_LBG_DEMON">
+<element name="Light Bowgun Demon Ammo" type="item" source="Amellwind's Guide to Monster Hunting" id="ID_MH_AMMO_LBG_DEMON">
 		<description>
 			<p>This ammo deals no damage, instead when you hit a creature with this ammo, that creature gains a +2 bonus to damage rolls for 1 minute. Hitting a creature with demon ammo again refreshes the duration.</p>
 			<p class="indent"><strong><em>Capacity.</em></strong> 1</p>
@@ -43,9 +38,7 @@
 			<set name="stackable">true</set>
 		</setters>
 	</element>
-<element
-		name="Light Bowgun Dragon Ammo" type="item" source="Amellwind's Guide to Monster Hunting"
-		id="ID_MH_AMMO_LBG_DRAGON">
+<element name="Light Bowgun Dragon Ammo" type="item" source="Amellwind's Guide to Monster Hunting" id="ID_MH_AMMO_LBG_DRAGON">
 		<description>
 			<p>Your attacks deal necrotic damage.</p>
 			<p class="indent"><strong><em>Capacity.</em></strong> 10</p>
@@ -60,9 +53,7 @@
 			<set name="stackable">true</set>
 		</setters>
 	</element>
-<element
-		name="Light Bowgun Flaming Ammo" type="item" source="Amellwind's Guide to Monster Hunting"
-		id="ID_MH_AMMO_LBG_FlAMING">
+<element name="Light Bowgun Flaming Ammo" type="item" source="Amellwind's Guide to Monster Hunting" id="ID_MH_AMMO_LBG_FlAMING">
 		<description>
 			<p>Your attacks deal fire damage.</p>
 			<p class="indent"><strong><em>Capacity.</em></strong> 10</p>
@@ -77,9 +68,7 @@
 			<set name="stackable">true</set>
 		</setters>
 	</element>
-<element
-		name="Light Bowgun Normal Ammo" type="item" source="Amellwind's Guide to Monster Hunting"
-		id="ID_MH_AMMO_LBG_NORMAL">
+<element name="Light Bowgun Normal Ammo" type="item" source="Amellwind's Guide to Monster Hunting" id="ID_MH_AMMO_LBG_NORMAL">
 		<description>
 			<p>Deals normal weapon damage.</p>
 			<p class="indent"><strong><em>Capacity.</em></strong> Unlimited*</p>
@@ -94,9 +83,7 @@
 			<set name="stackable">true</set>
 		</setters>
 	</element>
-<element
-		name="Light Bowgun Paralysis Ammo" type="item" source="Amellwind's Guide to Monster Hunting"
-		id="ID_MH_AMMO_LBG_PARALYSIS">
+<element name="Light Bowgun Paralysis Ammo" type="item" source="Amellwind's Guide to Monster Hunting" id="ID_MH_AMMO_LBG_PARALYSIS">
 		<description>
 			<p>A creature hit by this ammo must succeed a Constitution saving throw or be incapacitated and have its movement speed reduced to 0 until the end of your next turn. If the creature fails the save by 5 or more, it is paralyzed instead until the end of your next turn.</p>
 			<p class="indent"><strong><em>Capacity.</em></strong> 1</p>
@@ -111,9 +98,7 @@
 			<set name="stackable">true</set>
 		</setters>
 	</element>
-<element
-		name="Light Bowgun Pierce Ammo" type="item" source="Amellwind's Guide to Monster Hunting"
-		id="ID_MH_AMMO_LBG_PIERCE">
+<element name="Light Bowgun Pierce Ammo" type="item" source="Amellwind's Guide to Monster Hunting" id="ID_MH_AMMO_LBG_PIERCE">
 		<description>
 			<p>A creature hit by this ammo must succeed a Constitution saving throw or be incapacitated and have its movement speed reduced to 0 until the end of your next turn. If the creature fails the save by 5 or more, it is paralyzed instead until the end of your next turn.</p>
 			<p class="indent"><strong><em>Capacity.</em></strong> 10</p>
@@ -128,9 +113,7 @@
 			<set name="stackable">true</set>
 		</setters>
 	</element>
-<element
-		name="Light Bowgun Poison Ammo" type="item" source="Amellwind's Guide to Monster Hunting"
-		id="ID_MH_AMMO_LBG_POISON">
+<element name="Light Bowgun Poison Ammo" type="item" source="Amellwind's Guide to Monster Hunting" id="ID_MH_AMMO_LBG_POISON">
 		<description>
 			<p>A creature hit by this ammo must succeed a Constitution saving throw or be poisoned for 1 minute. A poisoned target can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success.</p>
 			<p class="indent"><strong><em>Capacity.</em></strong> 3</p>
@@ -146,9 +129,7 @@
 			<set name="stackable">true</set>
 		</setters>
 	</element>
-<element
-		name="Light Bowgun Recover lvl 1" type="item" source="Amellwind's Guide to Monster Hunting"
-		id="ID_MH_AMMO_LBG_RECOVER_1">
+<element name="Light Bowgun Recover lvl 1" type="item" source="Amellwind's Guide to Monster Hunting" id="ID_MH_AMMO_LBG_RECOVER_1">
 		<description>
 			<p>Instead of taking damage, a creature hit by this ammo regains 1d4 hit points.</p>
 			<p class="indent"><strong><em>Capacity.</em></strong> 1</p>
@@ -163,9 +144,7 @@
 			<set name="stackable">true</set>
 		</setters>
 	</element>
-<element
-		name="Light Bowgun Recover lvl 2" type="item" source="Amellwind's Guide to Monster Hunting"
-		id="ID_MH_AMMO_LBG_RECOVER_2">
+<element name="Light Bowgun Recover lvl 2" type="item" source="Amellwind's Guide to Monster Hunting" id="ID_MH_AMMO_LBG_RECOVER_2">
 		<description>
 			<p>Instead of taking damage, a creature hit by this ammo regains 1d6 hit points.</p>
 			<p class="indent"><strong><em>Capacity.</em></strong> 1</p>
@@ -180,9 +159,7 @@
 			<set name="stackable">true</set>
 		</setters>
 	</element>
-<element
-		name="Light Bowgun Sleep Ammo" type="item" source="Amellwind's Guide to Monster Hunting"
-		id="ID_MH_AMMO_LBG_SLEEP">
+<element name="Light Bowgun Sleep Ammo" type="item" source="Amellwind's Guide to Monster Hunting" id="ID_MH_AMMO_LBG_SLEEP">
 		<description>
 			<p>This ammo deals no damage, if the target is below 50 hit points it falls unconscious for 1 minute, until it takes damage, or until someone uses an action to shake or slap it awake.</p>
 			<p class="indent"><strong><em>Capacity.</em></strong> 1</p>
@@ -197,9 +174,7 @@
 			<set name="stackable">true</set>
 		</setters>
 	</element>
-<element
-		name="Light Bowgun Spread Ammo" type="item" source="Amellwind's Guide to Monster Hunting"
-		id="ID_MH_AMMO_LBG_SPREAD">
+<element name="Light Bowgun Spread Ammo" type="item" source="Amellwind's Guide to Monster Hunting" id="ID_MH_AMMO_LBG_SPREAD">
 		<description>
 			<p>When you hit a creature with this ammo and it is within half your normal bowgun range, the damage dealt to the target is split evenly between it and each creature adjacent to it.</p>
 			<p class="indent"><strong><em>Capacity.</em></strong> 10</p>
@@ -215,9 +190,7 @@
 			<set name="stackable">true</set>
 		</setters>
 	</element>
-<element
-		name="Light Bowgun Sticky Ammo" type="item" source="Amellwind's Guide to Monster Hunting"
-		id="ID_MH_AMMO_LBG_STICKY">
+<element name="Light Bowgun Sticky Ammo" type="item" source="Amellwind's Guide to Monster Hunting" id="ID_MH_AMMO_LBG_STICKY">
 		<description>
 			<p>A creature hit by this ammo must succeed a Strength saving throw or be restrained for 1 minute, the creature can use their action to attempt to break free (Escape DC equal to your Ammo save DC).</p>
 			<p class="indent"><strong><em>Capacity.</em></strong> 2</p>
@@ -232,9 +205,7 @@
 			<set name="stackable">true</set>
 		</setters>
 	</element>
-<element
-		name="Light Bowgun Thunder Ammo" type="item" source="Amellwind's Guide to Monster Hunting"
-		id="ID_MH_AMMO_LBG_THUNDER">
+<element name="Light Bowgun Thunder Ammo" type="item" source="Amellwind's Guide to Monster Hunting" id="ID_MH_AMMO_LBG_THUNDER">
 		<description>
 			<p>Your attacks deal thunder damage.</p>
 			<p class="indent"><strong><em>Capacity.</em></strong> 10</p>
@@ -248,9 +219,7 @@
 			<set name="type">Ammunition</set>
 			<set name="stackable">true</set>
 		</setters>
-	</element> T <element
-		name="Light Bowgun Tranq Ammo" type="item" source="Amellwind's Guide to Monster Hunting"
-		id="ID_MH_AMMO_LBG_TRANQ">
+	</element> T <element name="Light Bowgun Tranq Ammo" type="item" source="Amellwind's Guide to Monster Hunting" id="ID_MH_AMMO_LBG_TRANQ">
 		<description>
 			<p>Acts as a tranq bomb with the bowgun's range and weapon proficiency.</p>
 			<p class="indent"><strong><em>Capacity.</em></strong> 20</p>
@@ -265,9 +234,7 @@
 			<set name="stackable">true</set>
 		</setters>
 	</element>
-<element
-		name="Light Bowgun Water Ammo" type="item" source="Amellwind's Guide to Monster Hunting"
-		id="ID_MH_AMMO_LBG_WATER">
+<element name="Light Bowgun Water Ammo" type="item" source="Amellwind's Guide to Monster Hunting" id="ID_MH_AMMO_LBG_WATER">
 		<description>
 			<p>Your attacks deal acid damage.</p>
 			<p class="indent"><strong><em>Capacity.</em></strong> 10</p>
