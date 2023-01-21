@@ -9,7 +9,7 @@
 		</update>
 	</info>
 
-	<element name="Pierce Ammo" type="Light Bowgun Ammunition"
+	<element name="Pierce Ammo" type="Item"
 		source="Amellwind's Guide to Monster Hunting" id="ID_MH_AMMO_LBG_PIERCE">
 		<description>
 			<p>You gain a +1 bonus to damage rolls.</p>
