@@ -9,16 +9,274 @@
 		</update>
 	</info>
 
-	<element name="Pierce Ammo" type="Item"
-		source="Amellwind's Guide to Monster Hunting" id="ID_MH_AMMO_LBG_PIERCE">
+	<element
+		name="Light Bowgun Armor Ammo" type="item" source="Amellwind's Guide to Monster Hunting"
+		id="ID_MH_AMMO_LBG_ARMOR">
 		<description>
-			<p>You gain a +1 bonus to damage rolls.</p>
-			<p class="indent"><strong><em>Capacity.</em></strong> 40</p>
-			<p class="indent"><strong><em>Crafting. </em></strong> Smith's Tools (DC 12): Huskberry + Velociprey Fang</p>
+			<p>This ammo deals no damage, instead when you hit a creature with this ammo, that creature gains a +2 bonus to its AC for 1 minute. Hitting a creature with armor ammo again refreshes the duration.</p>
+			<p class="indent"><strong><em>Capacity.</em></strong> 1</p>
+			<p class="indent"><strong><em>Crafting.</em></strong> Smith's Tools (DC 15): Huskberry + Adamant Seed. Quantity: 1d4</p>
 		</description>
 		<setters>
+			<set name="keywords">ammunition</set>
 			<set name="category">Ammunition</set>
-			<set name="cost" currency="gp" bulk="20">2</set>
+			<set name="cost" currency="gp" bulk="1">8</set>
+			<set name="weight" lb="0.075">15/20 lb.</set>
+			<set name="type">Ammunition</set>
+			<set name="stackable">true</set>
+		</setters>
+	</element>
+<element
+		name="Light Bowgun Demon Ammo" type="item" source="Amellwind's Guide to Monster Hunting"
+		id="ID_MH_AMMO_LBG_DEMON">
+		<description>
+			<p>This ammo deals no damage, instead when you hit a creature with this ammo, that creature gains a +2 bonus to damage rolls for 1 minute. Hitting a creature with demon ammo again refreshes the duration.</p>
+			<p class="indent"><strong><em>Capacity.</em></strong> 1</p>
+			<p class="indent"><strong><em>Crafting.</em></strong> Smith's Tools (DC 15): Huskberry + Might Seed. Quantity: 1d4</p>
+		</description>
+		<setters>
+			<set name="keywords">ammunition</set>
+			<set name="category">Ammunition</set>
+			<set name="cost" currency="gp" bulk="1">8</set>
+			<set name="weight" lb="0.075">15/20 lb.</set>
+			<set name="type">Ammunition</set>
+			<set name="stackable">true</set>
+		</setters>
+	</element>
+<element
+		name="Light Bowgun Dragon Ammo" type="item" source="Amellwind's Guide to Monster Hunting"
+		id="ID_MH_AMMO_LBG_DRAGON">
+		<description>
+			<p>Your attacks deal necrotic damage.</p>
+			<p class="indent"><strong><em>Capacity.</em></strong> 10</p>
+			<p class="indent"><strong><em>Crafting.</em></strong> Smith's Tools (DC 15): Lg Bone Husk + Dragon Seed. Quantity: 20</p>
+		</description>
+		<setters>
+			<set name="keywords">ammunition</set>
+			<set name="category">Ammunition</set>
+			<set name="cost" currency="gp" bulk="10">3</set>
+			<set name="weight" lb="0.075">15/20 lb.</set>
+			<set name="type">Ammunition</set>
+			<set name="stackable">true</set>
+		</setters>
+	</element>
+<element
+		name="Light Bowgun Flaming Ammo" type="item" source="Amellwind's Guide to Monster Hunting"
+		id="ID_MH_AMMO_LBG_FlAMING">
+		<description>
+			<p>Your attacks deal fire damage.</p>
+			<p class="indent"><strong><em>Capacity.</em></strong> 10</p>
+			<p class="indent"><strong><em>Crafting.</em></strong> Smith's Tools (DC 12): huskberry + Fire Herb. Quantity: 20</p>
+		</description>
+		<setters>
+			<set name="keywords">ammunition</set>
+			<set name="category">Ammunition</set>
+			<set name="cost" currency="gp" bulk="10">3</set>
+			<set name="weight" lb="0.075">15/20 lb.</set>
+			<set name="type">Ammunition</set>
+			<set name="stackable">true</set>
+		</setters>
+	</element>
+<element
+		name="Light Bowgun Normal Ammo" type="item" source="Amellwind's Guide to Monster Hunting"
+		id="ID_MH_AMMO_LBG_NORMAL">
+		<description>
+			<p>Deals normal weapon damage.</p>
+			<p class="indent"><strong><em>Capacity.</em></strong> Unlimited*</p>
+			<p class="indent"><strong><em>Crafting.</em></strong> Smith's Tools (DC 10): Huskberry + Needleberry. Quantity: 20</p>
+		</description>
+		<setters>
+			<set name="keywords">ammunition</set>
+			<set name="category">Ammunition</set>
+			<set name="cost" currency="gp" bulk="20">1</set>
+			<set name="weight" lb="0.075">15/20 lb.</set>
+			<set name="type">Ammunition</set>
+			<set name="stackable">true</set>
+		</setters>
+	</element>
+<element
+		name="Light Bowgun Paralysis Ammo" type="item" source="Amellwind's Guide to Monster Hunting"
+		id="ID_MH_AMMO_LBG_PARALYSIS">
+		<description>
+			<p>A creature hit by this ammo must succeed a Constitution saving throw or be incapacitated and have its movement speed reduced to 0 until the end of your next turn. If the creature fails the save by 5 or more, it is paralyzed instead until the end of your next turn.</p>
+			<p class="indent"><strong><em>Capacity.</em></strong> 1</p>
+			<p class="indent"><strong><em>Crafting.</em></strong> Smith's Tools (DC 12): Huskberry + Parashroom. Quantity: 1</p>
+		</description>
+		<setters>
+			<set name="keywords">ammunition</set>
+			<set name="category">Ammunition</set>
+			<set name="cost" currency="gp" bulk="1">4</set>
+			<set name="weight" lb="0.075">15/20 lb.</set>
+			<set name="type">Ammunition</set>
+			<set name="stackable">true</set>
+		</setters>
+	</element>
+<element
+		name="Light Bowgun Pierce Ammo" type="item" source="Amellwind's Guide to Monster Hunting"
+		id="ID_MH_AMMO_LBG_PIERCE">
+		<description>
+			<p>A creature hit by this ammo must succeed a Constitution saving throw or be incapacitated and have its movement speed reduced to 0 until the end of your next turn. If the creature fails the save by 5 or more, it is paralyzed instead until the end of your next turn.</p>
+			<p class="indent"><strong><em>Capacity.</em></strong> 10</p>
+			<p class="indent"><strong><em>Crafting.</em></strong> Smith's Tools (DC 15): Huskberry + Velociprey Fang. Quantity: 20</p>
+		</description>
+		<setters>
+			<set name="keywords">ammunition</set>
+			<set name="category">Ammunition</set>
+			<set name="cost" currency="gp" bulk="10">2</set>
+			<set name="weight" lb="0.075">15/20 lb.</set>
+			<set name="type">Ammunition</set>
+			<set name="stackable">true</set>
+		</setters>
+	</element>
+<element
+		name="Light Bowgun Poison Ammo" type="item" source="Amellwind's Guide to Monster Hunting"
+		id="ID_MH_AMMO_LBG_POISON">
+		<description>
+			<p>A creature hit by this ammo must succeed a Constitution saving throw or be poisoned for 1 minute. A poisoned target can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success.</p>
+			<p class="indent"><strong><em>Capacity.</em></strong> 3</p>
+			<p class="indent"><strong><em>Crafting.</em></strong> Smith's Tools (DC 12): Huskberry + Toadstool. Quantity: 1d4</p>
+			<p class="indent"><strong><em>Crafting.</em></strong> Smith's Tools (DC 15): Sm Bone Husk + Ioprey Fang. Quantity: 1d4+1</p>
+		</description>
+		<setters>
+			<set name="keywords">ammunition</set>
+			<set name="category">Ammunition</set>
+			<set name="cost" currency="gp" bulk="1">4</set>
+			<set name="weight" lb="0.075">15/20 lb.</set>
+			<set name="type">Ammunition</set>
+			<set name="stackable">true</set>
+		</setters>
+	</element>
+<element
+		name="Light Bowgun Recover lvl 1" type="item" source="Amellwind's Guide to Monster Hunting"
+		id="ID_MH_AMMO_LBG_RECOVER_1">
+		<description>
+			<p>Instead of taking damage, a creature hit by this ammo regains 1d4 hit points.</p>
+			<p class="indent"><strong><em>Capacity.</em></strong> 1</p>
+			<p class="indent"><strong><em>Crafting.</em></strong> Smith's Tools (DC 12): Huskberry + Herb. Quantity: 1d2</p>
+		</description>
+		<setters>
+			<set name="keywords">ammunition</set>
+			<set name="category">Ammunition</set>
+			<set name="cost" currency="gp" bulk="1">5</set>
+			<set name="weight" lb="0.075">15/20 lb.</set>
+			<set name="type">Ammunition</set>
+			<set name="stackable">true</set>
+		</setters>
+	</element>
+<element
+		name="Light Bowgun Recover lvl 2" type="item" source="Amellwind's Guide to Monster Hunting"
+		id="ID_MH_AMMO_LBG_RECOVER_2">
+		<description>
+			<p>Instead of taking damage, a creature hit by this ammo regains 1d6 hit points.</p>
+			<p class="indent"><strong><em>Capacity.</em></strong> 1</p>
+			<p class="indent"><strong><em>Crafting.</em></strong> Smith's Tools (DC 12): Recovery lvl 1 + Honey. Quantity 1</p>
+		</description>
+		<setters>
+			<set name="keywords">ammunition</set>
+			<set name="category">Ammunition</set>
+			<set name="cost" currency="gp" bulk="1">7</set>
+			<set name="weight" lb="0.075">15/20 lb.</set>
+			<set name="type">Ammunition</set>
+			<set name="stackable">true</set>
+		</setters>
+	</element>
+<element
+		name="Light Bowgun Sleep Ammo" type="item" source="Amellwind's Guide to Monster Hunting"
+		id="ID_MH_AMMO_LBG_SLEEP">
+		<description>
+			<p>This ammo deals no damage, if the target is below 50 hit points it falls unconscious for 1 minute, until it takes damage, or until someone uses an action to shake or slap it awake.</p>
+			<p class="indent"><strong><em>Capacity.</em></strong> 1</p>
+			<p class="indent"><strong><em>Crafting.</em></strong> Smith's Tools (DC 15): Huskberry + Sleep Herb. Quantity: 1d2</p>
+		</description>
+		<setters>
+			<set name="keywords">ammunition</set>
+			<set name="category">Ammunition</set>
+			<set name="cost" currency="gp" bulk="1">5</set>
+			<set name="weight" lb="0.075">15/20 lb.</set>
+			<set name="type">Ammunition</set>
+			<set name="stackable">true</set>
+		</setters>
+	</element>
+<element
+		name="Light Bowgun Spread Ammo" type="item" source="Amellwind's Guide to Monster Hunting"
+		id="ID_MH_AMMO_LBG_SPREAD">
+		<description>
+			<p>When you hit a creature with this ammo and it is within half your normal bowgun range, the damage dealt to the target is split evenly between it and each creature adjacent to it.</p>
+			<p class="indent"><strong><em>Capacity.</em></strong> 10</p>
+			<p class="indent"><strong><em>Crafting.</em></strong> Smith's Tools (DC 12): Huskberry + Scatternut. Quantity: 20</p>
+			<p class="indent"><strong><em>Crafting.</em></strong> Smith's Tools (DC 15): Huskberry + Bird Wyvwern Fang. Quantity: 20</p>
+		</description>
+		<setters>
+			<set name="keywords">ammunition</set>
+			<set name="category">Ammunition</set>
+			<set name="cost" currency="gp" bulk="10">3</set>
+			<set name="weight" lb="0.075">15/20 lb.</set>
+			<set name="type">Ammunition</set>
+			<set name="stackable">true</set>
+		</setters>
+	</element>
+<element
+		name="Light Bowgun Sticky Ammo" type="item" source="Amellwind's Guide to Monster Hunting"
+		id="ID_MH_AMMO_LBG_STICKY">
+		<description>
+			<p>A creature hit by this ammo must succeed a Strength saving throw or be restrained for 1 minute, the creature can use their action to attempt to break free (Escape DC equal to your Ammo save DC).</p>
+			<p class="indent"><strong><em>Capacity.</em></strong> 2</p>
+			<p class="indent"><strong><em>Crafting.</em></strong> Smith's Tools (DC 12): Scatternut. Quantity: 1d6</p>
+		</description>
+		<setters>
+			<set name="keywords">ammunition</set>
+			<set name="category">Ammunition</set>
+			<set name="cost" currency="gp" bulk="1">1</set>
+			<set name="weight" lb="0.075">15/20 lb.</set>
+			<set name="type">Ammunition</set>
+			<set name="stackable">true</set>
+		</setters>
+	</element>
+<element
+		name="Light Bowgun Thunder Ammo" type="item" source="Amellwind's Guide to Monster Hunting"
+		id="ID_MH_AMMO_LBG_THUNDER">
+		<description>
+			<p>Your attacks deal thunder damage.</p>
+			<p class="indent"><strong><em>Capacity.</em></strong> 10</p>
+			<p class="indent"><strong><em>Crafting.</em></strong> Smith's Tools (DC 15): Huskberry + Thunderbug. Quantity: 20</p>
+		</description>
+		<setters>
+			<set name="keywords">ammunition</set>
+			<set name="category">Ammunition</set>
+			<set name="cost" currency="gp" bulk="10">3</set>
+			<set name="weight" lb="0.075">15/20 lb.</set>
+			<set name="type">Ammunition</set>
+			<set name="stackable">true</set>
+		</setters>
+	</element> T <element
+		name="Light Bowgun Tranq Ammo" type="item" source="Amellwind's Guide to Monster Hunting"
+		id="ID_MH_AMMO_LBG_TRANQ">
+		<description>
+			<p>Acts as a tranq bomb with the bowgun's range and weapon proficiency.</p>
+			<p class="indent"><strong><em>Capacity.</em></strong> 20</p>
+			<p class="indent"><strong><em>Crafting.</em></strong> Smith's Tools (DC 12): Huskberry + Sleep Herb. Quantity: 1d4</p>
+		</description>
+		<setters>
+			<set name="keywords">ammunition</set>
+			<set name="category">Ammunition</set>
+			<set name="cost" currency="gp" bulk="1">50</set>
+			<set name="weight" lb="0.075">15/20 lb.</set>
+			<set name="type">Ammunition</set>
+			<set name="stackable">true</set>
+		</setters>
+	</element>
+<element
+		name="Light Bowgun Water Ammo" type="item" source="Amellwind's Guide to Monster Hunting"
+		id="ID_MH_AMMO_LBG_WATER">
+		<description>
+			<p>Your attacks deal acid damage.</p>
+			<p class="indent"><strong><em>Capacity.</em></strong> 10</p>
+			<p class="indent"><strong><em>Crafting.</em></strong> Smith's Tools (DC 15): Huskberry + Whetfish. Quantity: 20</p>
+		</description>
+		<setters>
+			<set name="keywords">ammunition</set>
+			<set name="category">Ammunition</set>
+			<set name="cost" currency="gp" bulk="10">3</set>
 			<set name="weight" lb="0.075">15/20 lb.</set>
 			<set name="type">Ammunition</set>
 			<set name="stackable">true</set>
