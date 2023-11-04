@@ -1,0 +1,130 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<elements>
+	<info>
+		<name>Elder Dragonborn</name>
+		<update version="0.0.1">
+			<file name="races.xml" url="https://github.com/mkitza/elements-monsterhunter/main/monster-hunter/guide-to-monster-hunting/races.xml" />
+		</update>
+	</info>
+	<element name="Elder Dragonborn" type="Race" source="Amellwind's Guide to Monster Hunting" id="ID_RACE_ELDER_DRAGONBORN">
+		<description>
+			<p class="flavor">Born of dragons, as their name proclaims, the dragonborn walk proudly through a world that greets them with fearful incomprehension. Shaped by draconic gods or the dragons themselves, dragonborn originally hatched from dragon eggs as a unique race, combining the best attributes of dragons and humanoids. Some dragonborn are faithful servants to true dragons, others form the ranks of soldiers in great wars, and still others find themselves adrift, with no clear calling in life.</p>
+			<h4>PROUD DRAGONKIN</h4>
+			<p>Dragonborn look very much like dragons standing erect in humanoid form, though they lack wings or a tail. The first dragonborn had scales of vibrant hues matching the colors of their dragon kin, but generations of interbreeding have created a more uniform appearance. Their small, fine scales are usually brass or bronze in color, sometimes ranging to scarlet, rust, gold, or copper-green. They are tall and strongly built, often standing close to 6 1/2 feet tall and weighing 300 pounds or more. Their hands and feet are strong, talonlike claws with three fingers and a thumb on each hand.</p>
+			<p class="indent">The blood of a particular type of dragon runs very strong through some dragonborn clans. These dragonborn often boast scales that more closely match those of their dragon ancestor—bright red, green, blue, or white, lustrous black, or gleaming metallic gold, silver, brass, copper, or bronze.</p>
+			<h4>SELF-SUFFICIENT CLANS</h4>
+			<p>To any dragonborn, the clan is more important than life itself. Dragonborn owe their devotion and respect to their clan above all else, even the gods. Each dragonborn’s conduct reflects on the honor of his or her clan, and bringing dishonor to the clan can result in expulsion and exile. Each dragonborn knows his or her station and duties within the clan, and honor demands maintaining the bounds of that position.</p>
+			<p class="indent">A continual drive for self-improvement reflects the self-sufficiency of the race as a whole. Dragonborn value skill and excellence in all endeavors. They hate to fail, and they push themselves to extreme efforts before they give up on something. A dragonborn holds mastery of a particular skill as a lifetime goal. Members of other races who share the same commitment find it easy to earn the respect of a dragonborn.</p>
+			<p class="indent">Though all dragonborn strive to be self-sufficient, they recognize that help is sometimes needed in difficult situations. But the best source for such help is the clan, and when a clan needs help, it turns to another dragonborn clan before seeking aid from other races— or even from the gods.</p>
+			<h4>ELDER DRAGONBORN TRAITS</h4>
+			<p>Your character shares the following traits with other dragonborn.</p>
+			<p class="indent"><b><i>Age.</i></b> Young dragonborn grow quickly. They walk hours after hatching, attain the size and development of a 10-year-old human child by the age of 3, and reach adulthood by 15. They live to be around 80.</p>
+			<p class="indent"><b><i>Size.</i></b> Dragonborn are taller and heavier than humans, standing well over 6 feet tall and averaging almost 250 pounds. Your size is Medium.</p>
+			<p class="indent"><b><i>Speed.</i></b> Your base walking speed is 30 feet.</p>
+			<p class="indent"><b><i>Languages.</i></b> You can speak, read, and write Common and Draconic. Draconic is thought to be one of the oldest languages and is often used in the study of magic. The language sounds harsh to most other creatures and includes numerous hard consonants and sibilants.</p>
+			<p class="indent"><b><i>Subrace. </i></b>There are many kinds of elder dragonborn. Choose one of these subraces.</p>
+		</description>
+		<sheet display="false" />
+		<setters>
+			<set name="names" type="male">Arjhan, Balasar, Bharash, Donaar, Ghesh, Heskan, Kriv, Medrash, Mehen, Nadarr, Pandjed, Patrin, Rhogar, Shamash, Shedinn, Tarhun, Torinn</set>
+			<set name="names" type="female">Akra, Biri, Daar, Farideh, Harann, Flavilar, Jheri, Kava, Korinn, Mishann, Nala, Perra, Raiann, Sora, Surina, Thava, Uadjit</set>
+			<set name="names" type="childhood">Climber, Earbender, Leaper, Pious, Shieldbiter, Zealous</set>
+			<set name="names" type="clan">Clethtinthiallor, Daardendrian, Delmirev, Drachedandion, Fenkenkabradon, Kepeshkmolik, Kerrhylon, Kimbatuul, Linxakasendalor, Myastan, Nemmonis, Norixius, Ophinshtalajiir, Prexijandilin, Shestendeliath, Turnuroth, Verthisathurgiesh, Yarjerit</set>
+			<set name="names-format">{{name}} {{clan}}</set>
+			<set name="height" modifier="2d8">5'6"</set>
+			<set name="weight" modifier="2d6">175 lb.</set>
+		</setters>
+		<rules>
+			<stat name="innate speed" value="30" bonus="base" />
+			<grant type="Size" id="ID_SIZE_MEDIUM" />
+			<grant type="Language" id="ID_LANGUAGE_COMMON" requirements="!ID_WOTC_TCOE_OPTION_CUSTOMIZED_LANGUAGE" />
+			<grant type="Language" id="ID_LANGUAGE_DRACONIC" requirements="!ID_WOTC_TCOE_OPTION_CUSTOMIZED_LANGUAGE" />
+			<select type="Language" name="Customized Language" supports="Custom Race Language" number="2"  requirements="ID_WOTC_TCOE_OPTION_CUSTOMIZED_LANGUAGE" />
+			<select type="Sub Race" name="Elder Dragonborn Subrace" supports="Elder Dragonborn" />
+
+		</rules>
+	</element>
+	<element name="Nergigante" type="Sub Race" source="Amellwind's Guide to Monster Hunting" id="ID_SUB_RACE_NERGIGANTE">
+		<supports>Elder Dragonborn</supports>
+		<description>
+			<p>Nergigante dragonborn have a bristly appearance. Much like their elder dragon brethren, their scales are black with purple and orange accents and sport two bulbous horns atop their head. The regenerative properties of the nergigante still flow in the blood of this elder dragonborn, though at a much slower rate. Taking hours to regrow their spikes instead of seconds.</p>
+			<h4>NERGIGANTE TRAITS</h4>
+			<p>Nergigante have the following traits in common, in addition to the traits they share with other Elder Dragonborn.</p>
+			<p class="indent"><b><i>Ability Score Increase. </i></b>Your Strength score increases by 2, and your Constitution score increases by 1.</p>
+			<p class="indent"><b><i>Horns. </i></b>Your horns are natural weapons, which you can use to make unarmed strikes. If you hit with them, you deal bludgeoning damage equal to 1d6 + your Strength modifier.</p>
+			<p class="indent"><b><i>Indurate Spikes. </i></b>You can cast shield of faith with this trait, but only target yourself. When you use this version of shield of faith, you have advantage on Constitution saving throws to maintain concentration on this spell. Once you cast this spell, you can't cast it again with this trait until you finish a long rest.</p>
+			<p class="indent"><b><i>Menacing. </i></b>You have proficiency in the Intimidation skill.</p>
+			<p class="indent"><b><i>Natural Armor. </i></b>You have tough, scaly skin. When you aren't wearing armor, your AC is 13 + your Dexterity modifier. You can use your natural armor to determine your AC if the armor you wear would leave you with a lower AC. A shield's benefits apply as normal while you use your natural armor.</p>
+			<p class="indent"><b><i>Spiked Regrowth. </i></b>As an action, you can regain a number of hit points equal to your level + your Constitution modifier. Once you use this trait, you can't use it again until you finish a long rest.</p>
+		</description>
+		<sheet display="false"/>
+		<rules>
+			<stat name="strength" value="2" requirements="!ID_WOTC_TCOE_OPTION_CUSTOMIZED_ASI" />
+			<stat name="constitution" value="1" requirements="!ID_WOTC_TCOE_OPTION_CUSTOMIZED_ASI" />
+			<select type="Ability Score Improvement" name="Custom Ability Score Improvement +2 (Dragonborn)" supports="Custom Ability Score Increase 2" requirements="ID_WOTC_TCOE_OPTION_CUSTOMIZED_ASI" />
+			<select type="Ability Score Improvement" name="Custom Ability Score Improvement +1 (Dragonborn)" supports="Custom Ability Score Increase 1" requirements="ID_WOTC_TCOE_OPTION_CUSTOMIZED_ASI" />
+			<grant type="Racial Trait" id="ID_RACIAL_TRAIT_NERGIGANTE_HORNS" />
+			<grant type="Racial Trait" id="ID_RACIAL_TRAIT_NERGIGANTE_INDURATE_SPIKES" />
+			<grant type="Racial Trait" id="ID_RACIAL_TRAIT_NERGIGANTE_MENACING" />
+			<grant type="Racial Trait" id="ID_RACIAL_TRAIT_NERGIGANTE_NATURAL_ARMOR" />
+			<grant type="Racial Trait" id="ID_RACIAL_TRAIT_NERGIGANTE_SPIKED_REGROWTH" />
+		</rules>
+	</element>
+	<element name="Horns" type="Racial Trait" source="Amellwind's Guide to Monster Hunting" id="ID_RACIAL_TRAIT_NERGIGANTE_HORNS">
+		<description>
+			<p>Your horns are natural weapons, which you can use to make unarmed strikes. If you hit with them, you deal bludgeoning damage equal to 1d6 + your Strength modifier.</p>
+		</description>
+		<sheet>
+			<description>Your horns are natural weapons, which you can use to make unarmed strikes. 1d6+{{nergigante horn:damage}} bludgeoning damage.</description>
+		</sheet>
+		<rules>
+			<stat name="nergigante horn:damage" value="strength:modifier" />
+		</rules>
+	</element>
+	<element name="Indurate Spikes" type="Racial Trait" source="Amellwind's Guide to Monster Hunting" id="ID_RACIAL_TRAIT_NERGIGANTE_INDURATE_SPIKES">
+		<description>
+			<p>You can cast shield of faith with this trait, but only target yourself. When you use this version of shield of faith, you have advantage on Constitution saving throws to maintain concentration on this spell. Once you cast this spell, you can't cast it again with this trait until you finish a long rest.</p>
+		</description>
+		<sheet>
+			<description>You can cast shield of faith with this trait, but only target yourself. When you use this version of shield of faith, you have advantage on Constitution saving throws to maintain concentration on this spell. Once you cast this spell, you can't cast it again with this trait until you finish a long rest.</description>
+		</sheet>
+		<rules>
+			<grant type="Spell" id="ID_PHB_SPELL_SHIELD_OF_FAITH" level="1" />
+		</rules>
+	</element>
+	<element name="Menacing" type="Racial Trait" source="Amellwind's Guide to Monster Hunting" id="ID_RACIAL_TRAIT_NERGIGANTE_MENACING">
+		<description>
+			<p>You have proficiency in the Intimidation skill.</p>
+		</description>
+		<sheet>
+			<description>You have proficiency in the Intimidation skill.</description>
+		</sheet>
+		<rules>
+			<grant type="Proficiency" id="ID_PROFICIENCY_SKILL_INTIMIDATION" />
+		</rules>
+	</element>
+	<element name="Natural Armor" type="Racial Trait" source="Amellwind's Guide to Monster Hunting" id="ID_RACIAL_TRAIT_NERGIGANTE_NATURAL_ARMOR">
+		<description>
+			<p>You have tough, scaly skin. When you aren't wearing armor, your AC is 13 + your Dexterity modifier. You can use your natural armor to determine your AC if the armor you wear would leave you with a lower AC. A shield's benefits apply as normal while you use your natural armor.</p>
+		</description>
+		<sheet>
+			<description>You have tough, scaly skin. When you aren't wearing armor, your AC is {{ac:natural armor nergigante}}.</description>
+		</sheet>
+		<rules>
+			<stat name="ac:natural armor nergigante:base" value="13" />
+			<stat name="ac:natural armor nergigante:dexterity" value="dexterity:modifier" />
+			<stat name="ac:natural armor nergigante" value="ac:natural armor nergigante:base" />
+			<stat name="ac:natural armor nergigante" value="ac:natural armor nergigante:dexterity" />
+			<stat name="ac:calculation" value="ac:natural armor nergigante" bonus="calculation" equipped="[armor:none]" alt="Natural Armor (nergigante)" />
+		</rules>
+	</element>
+	<element name="Spiked Regrowth" type="Racial Trait" source="Amellwind's Guide to Monster Hunting" id="ID_RACIAL_TRAIT_NERGIGANTE_SPIKED_REGROWTH">
+		<description>
+			<p>As an action, you can regain a number of hit points equal to your level + your Constitution modifier.</p>
+			<p class="indent">Once you use this trait, you can't use it again until you finish a long rest.</p>
+		</description>
+		<sheet action="Action" usage="1/Long Rest">
+			<description>You regain your level + your Constitution modifier hp.</description>
+		</sheet>
+	</element>
+</elements>
